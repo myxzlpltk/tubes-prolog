@@ -1,0 +1,3778 @@
+[
+    {
+        "name": "Akai",
+        "role": "Tank",
+        "image": "akai.jpg",
+        "strongs": [
+            {
+                "name": "fanny",
+                "score": "711",
+                "percentage": "96.35"
+            },
+            {
+                "name": "zhask",
+                "score": "237",
+                "percentage": "93.73"
+            },
+            {
+                "name": "odette",
+                "score": "209",
+                "percentage": "97.72"
+            },
+            {
+                "name": "lancelot",
+                "score": "183",
+                "percentage": "95.98"
+            },
+            {
+                "name": "argus",
+                "score": "177",
+                "percentage": "95.85"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "diggie",
+                "score": "264",
+                "percentage": "83.50"
+            },
+            {
+                "name": "nana",
+                "score": "117",
+                "percentage": "79.70"
+            },
+            {
+                "name": "karrie",
+                "score": "88",
+                "percentage": "73.66"
+            },
+            {
+                "name": "chou",
+                "score": "82",
+                "percentage": "76.97"
+            },
+            {
+                "name": "martis",
+                "score": "69",
+                "percentage": "77.17"
+            }
+        ]
+    },
+    {
+        "name": "Aldous",
+        "role": "Fighter",
+        "image": "aldous.jpg",
+        "strongs": [
+            {
+                "name": "layla",
+                "score": "756",
+                "percentage": "80.73"
+            },
+            {
+                "name": "estes",
+                "score": "325",
+                "percentage": "77.13"
+            },
+            {
+                "name": "gord",
+                "score": "308",
+                "percentage": "83.48"
+            },
+            {
+                "name": "karrie",
+                "score": "271",
+                "percentage": "72.03"
+            },
+            {
+                "name": "angela",
+                "score": "265",
+                "percentage": "75.53"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "chou",
+                "score": "991",
+                "percentage": "81.22"
+            },
+            {
+                "name": "argus",
+                "score": "390",
+                "percentage": "73.90"
+            },
+            {
+                "name": "akai",
+                "score": "267",
+                "percentage": "74.41"
+            },
+            {
+                "name": "gatotkaca",
+                "score": "235",
+                "percentage": "71.96"
+            },
+            {
+                "name": "ruby",
+                "score": "84",
+                "percentage": "70.00"
+            }
+        ]
+    },
+    {
+        "name": "Alice",
+        "role": "Mage",
+        "image": "alice.jpg",
+        "strongs": [
+            {
+                "name": "aurora",
+                "score": "185",
+                "percentage": "72.73"
+            },
+            {
+                "name": "alucard",
+                "score": "128",
+                "percentage": "75.60"
+            },
+            {
+                "name": "sun",
+                "score": "111",
+                "percentage": "78.76"
+            },
+            {
+                "name": "layla",
+                "score": "65",
+                "percentage": "76.86"
+            },
+            {
+                "name": "karina",
+                "score": "56",
+                "percentage": "70.00"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "lapu-lapu",
+                "score": "254",
+                "percentage": "83.60"
+            },
+            {
+                "name": "fanny",
+                "score": "133",
+                "percentage": "92.36"
+            },
+            {
+                "name": "akai",
+                "score": "72",
+                "percentage": "73.68"
+            },
+            {
+                "name": "gatotkaca",
+                "score": "59",
+                "percentage": "66.30"
+            },
+            {
+                "name": "selena",
+                "score": "57",
+                "percentage": "72.09"
+            }
+        ]
+    },
+    {
+        "name": "Alpha",
+        "role": "Fighter",
+        "image": "alpha.jpg",
+        "strongs": [
+            {
+                "name": "valir",
+                "score": "85",
+                "percentage": "69.95"
+            },
+            {
+                "name": "layla",
+                "score": "68",
+                "percentage": "84.00"
+            },
+            {
+                "name": "pharsa",
+                "score": "64",
+                "percentage": "79.09"
+            },
+            {
+                "name": "estes",
+                "score": "51",
+                "percentage": "76.29"
+            },
+            {
+                "name": "eudora",
+                "score": "45",
+                "percentage": "74.19"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "fanny",
+                "score": "103",
+                "percentage": "77.84"
+            },
+            {
+                "name": "kagura",
+                "score": "52",
+                "percentage": "76.53"
+            },
+            {
+                "name": "harley",
+                "score": "49",
+                "percentage": "71.68"
+            },
+            {
+                "name": "diggie",
+                "score": "48",
+                "percentage": "74.00"
+            },
+            {
+                "name": "ruby",
+                "score": "40",
+                "percentage": "68.18"
+            }
+        ]
+    },
+    {
+        "name": "Alucard",
+        "role": "Fighter/Assassin",
+        "image": "alucard.jpg",
+        "strongs": [
+            {
+                "name": "lesley",
+                "score": "497",
+                "percentage": "98.07"
+            },
+            {
+                "name": "angela",
+                "score": "320",
+                "percentage": "81.62"
+            },
+            {
+                "name": "gusion",
+                "score": "146",
+                "percentage": "70.86"
+            },
+            {
+                "name": "zilong",
+                "score": "135",
+                "percentage": "71.99"
+            },
+            {
+                "name": "balmond",
+                "score": "131",
+                "percentage": "73.31"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "chou",
+                "score": "447",
+                "percentage": "80.74"
+            },
+            {
+                "name": "freya",
+                "score": "155",
+                "percentage": "69.52"
+            },
+            {
+                "name": "sun",
+                "score": "96",
+                "percentage": "63.19"
+            },
+            {
+                "name": "johnson",
+                "score": "85",
+                "percentage": "64.12"
+            },
+            {
+                "name": "akai",
+                "score": "75",
+                "percentage": "62.89"
+            }
+        ]
+    },
+    {
+        "name": "Angela",
+        "role": "Support",
+        "image": "angela.jpg",
+        "strongs": [
+            {
+                "name": "alucard",
+                "score": "79",
+                "percentage": "64.91"
+            },
+            {
+                "name": "akai",
+                "score": "53",
+                "percentage": "71.90"
+            },
+            {
+                "name": "aldous",
+                "score": "36",
+                "percentage": "73.68"
+            },
+            {
+                "name": "minotaur",
+                "score": "35",
+                "percentage": "76.12"
+            },
+            {
+                "name": "alpha",
+                "score": "28",
+                "percentage": "68.92"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "natalia",
+                "score": "61",
+                "percentage": "76.99"
+            },
+            {
+                "name": "martis",
+                "score": "45",
+                "percentage": "68.60"
+            },
+            {
+                "name": "kaja",
+                "score": "30",
+                "percentage": "72.73"
+            },
+            {
+                "name": "kagura",
+                "score": "22",
+                "percentage": "68.33"
+            },
+            {
+                "name": "fanny",
+                "score": "21",
+                "percentage": "64.79"
+            }
+        ]
+    },
+    {
+        "name": "Argus",
+        "role": "Fighter",
+        "image": "argus.jpg",
+        "strongs": [
+            {
+                "name": "ruby",
+                "score": "201",
+                "percentage": "78.31"
+            },
+            {
+                "name": "natalia",
+                "score": "110",
+                "percentage": "76.70"
+            },
+            {
+                "name": "miya",
+                "score": "97",
+                "percentage": "76.80"
+            },
+            {
+                "name": "rafaela",
+                "score": "96",
+                "percentage": "76.67"
+            },
+            {
+                "name": "yi sun-shin",
+                "score": "94",
+                "percentage": "79.75"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "akai",
+                "score": "152",
+                "percentage": "73.17"
+            },
+            {
+                "name": "chou",
+                "score": "68",
+                "percentage": "66.83"
+            },
+            {
+                "name": "jawhead",
+                "score": "47",
+                "percentage": "63.28"
+            },
+            {
+                "name": "vexana",
+                "score": "31",
+                "percentage": "57.95"
+            },
+            {
+                "name": "johnson",
+                "score": "20",
+                "percentage": "55.95"
+            }
+        ]
+    },
+    {
+        "name": "Aurora",
+        "role": "Mage",
+        "image": "aurora.jpg",
+        "strongs": [
+            {
+                "name": "hayabusa",
+                "score": "134",
+                "percentage": "85.26"
+            },
+            {
+                "name": "fanny",
+                "score": "79",
+                "percentage": "78.83"
+            },
+            {
+                "name": "freya",
+                "score": "40",
+                "percentage": "77.78"
+            },
+            {
+                "name": "gusion",
+                "score": "34",
+                "percentage": "75.76"
+            },
+            {
+                "name": "eudora",
+                "score": "28",
+                "percentage": "68.42"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "diggie",
+                "score": "76",
+                "percentage": "85.85"
+            },
+            {
+                "name": "nana",
+                "score": "40",
+                "percentage": "87.04"
+            },
+            {
+                "name": "natalia",
+                "score": "30",
+                "percentage": "70.27"
+            },
+            {
+                "name": "helcurt",
+                "score": "29",
+                "percentage": "75.44"
+            },
+            {
+                "name": "grock",
+                "score": "27",
+                "percentage": "78.72"
+            }
+        ]
+    },
+    {
+        "name": "Balmond",
+        "role": "Fighter/Tank",
+        "image": "balmond.jpg",
+        "strongs": [
+            {
+                "name": "layla",
+                "score": "62",
+                "percentage": "70.13"
+            },
+            {
+                "name": "estes",
+                "score": "29",
+                "percentage": "72.31"
+            },
+            {
+                "name": "gord",
+                "score": "27",
+                "percentage": "77.55"
+            },
+            {
+                "name": "clint",
+                "score": "26",
+                "percentage": "73.21"
+            },
+            {
+                "name": "hanabi",
+                "score": "24",
+                "percentage": "68.18"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "valir",
+                "score": "74",
+                "percentage": "78.03"
+            },
+            {
+                "name": "ruby",
+                "score": "43",
+                "percentage": "76.54"
+            },
+            {
+                "name": "lancelot",
+                "score": "30",
+                "percentage": "77.78"
+            },
+            {
+                "name": "aurora",
+                "score": "27",
+                "percentage": "68.49"
+            },
+            {
+                "name": "fanny",
+                "score": "23",
+                "percentage": "70.91"
+            }
+        ]
+    },
+    {
+        "name": "Bane",
+        "role": "Fighter",
+        "image": "bane.jpg",
+        "strongs": [
+            {
+                "name": "natalia",
+                "score": "53",
+                "percentage": "82.72"
+            },
+            {
+                "name": "cyclops",
+                "score": "21",
+                "percentage": "72.34"
+            },
+            {
+                "name": "zilong",
+                "score": "18",
+                "percentage": "71.43"
+            },
+            {
+                "name": "diggie",
+                "score": "16",
+                "percentage": "78.57"
+            },
+            {
+                "name": "alpha",
+                "score": "14",
+                "percentage": "71.88"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "chou",
+                "score": "40",
+                "percentage": "80.30"
+            },
+            {
+                "name": "argus",
+                "score": "27",
+                "percentage": "82.93"
+            },
+            {
+                "name": "clint",
+                "score": "14",
+                "percentage": "71.88"
+            },
+            {
+                "name": "johnson",
+                "score": "13",
+                "percentage": "84.21"
+            },
+            {
+                "name": "alucard",
+                "score": "9",
+                "percentage": "76.47"
+            }
+        ]
+    },
+    {
+        "name": "Bruno",
+        "role": "Marksman",
+        "image": "bruno.jpg",
+        "strongs": [
+            {
+                "name": "zhask",
+                "score": "168",
+                "percentage": "74.42"
+            },
+            {
+                "name": "layla",
+                "score": "118",
+                "percentage": "93.38"
+            },
+            {
+                "name": "yi sun-shin",
+                "score": "67",
+                "percentage": "72.79"
+            },
+            {
+                "name": "kagura",
+                "score": "38",
+                "percentage": "64.62"
+            },
+            {
+                "name": "irithel",
+                "score": "28",
+                "percentage": "65.22"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "lolita",
+                "score": "158",
+                "percentage": "81.85"
+            },
+            {
+                "name": "karrie",
+                "score": "115",
+                "percentage": "77.00"
+            },
+            {
+                "name": "lesley",
+                "score": "90",
+                "percentage": "68.60"
+            },
+            {
+                "name": "johnson",
+                "score": "77",
+                "percentage": "73.62"
+            },
+            {
+                "name": "fanny",
+                "score": "47",
+                "percentage": "64.78"
+            }
+        ]
+    },
+    {
+        "name": "Chang'E",
+        "role": "Mage",
+        "image": "chang'e.jpg",
+        "strongs": [
+            {
+                "name": "alice",
+                "score": "201",
+                "percentage": "74.69"
+            },
+            {
+                "name": "angela",
+                "score": "94",
+                "percentage": "70.98"
+            },
+            {
+                "name": "aldous",
+                "score": "70",
+                "percentage": "62.15"
+            },
+            {
+                "name": "akai",
+                "score": "15",
+                "percentage": "53.59"
+            },
+            {
+                "name": "alpha",
+                "score": "-23",
+                "percentage": "43.78"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "kaja",
+                "score": "261",
+                "percentage": "83.38"
+            },
+            {
+                "name": "selena",
+                "score": "135",
+                "percentage": "78.24"
+            },
+            {
+                "name": "alucard",
+                "score": "47",
+                "percentage": "60.00"
+            },
+            {
+                "name": "alpha",
+                "score": "23",
+                "percentage": "56.22"
+            },
+            {
+                "name": "akai",
+                "score": "-15",
+                "percentage": "46.41"
+            }
+        ]
+    },
+    {
+        "name": "Chou",
+        "role": "Fighter",
+        "image": "chou.jpg",
+        "strongs": [
+            {
+                "name": "fanny",
+                "score": "486",
+                "percentage": "78.93"
+            },
+            {
+                "name": "angela",
+                "score": "281",
+                "percentage": "70.04"
+            },
+            {
+                "name": "layla",
+                "score": "256",
+                "percentage": "74.33"
+            },
+            {
+                "name": "cyclops",
+                "score": "186",
+                "percentage": "70.48"
+            },
+            {
+                "name": "irithel",
+                "score": "166",
+                "percentage": "69.86"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "helcurt",
+                "score": "744",
+                "percentage": "79.62"
+            },
+            {
+                "name": "martis",
+                "score": "315",
+                "percentage": "74.96"
+            },
+            {
+                "name": "sun",
+                "score": "294",
+                "percentage": "74.18"
+            },
+            {
+                "name": "diggie",
+                "score": "193",
+                "percentage": "66.16"
+            },
+            {
+                "name": "jawhead",
+                "score": "187",
+                "percentage": "67.16"
+            }
+        ]
+    },
+    {
+        "name": "Clint",
+        "role": "Marksman",
+        "image": "clint.jpg",
+        "strongs": [
+            {
+                "name": "moskov",
+                "score": "183",
+                "percentage": "95.98"
+            },
+            {
+                "name": "miya",
+                "score": "51",
+                "percentage": "77.42"
+            },
+            {
+                "name": "karrie",
+                "score": "47",
+                "percentage": "80.52"
+            },
+            {
+                "name": "irithel",
+                "score": "37",
+                "percentage": "76.06"
+            },
+            {
+                "name": "valir",
+                "score": "33",
+                "percentage": "80.00"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "aldous",
+                "score": "84",
+                "percentage": "90.38"
+            },
+            {
+                "name": "lancelot",
+                "score": "53",
+                "percentage": "87.32"
+            },
+            {
+                "name": "grock",
+                "score": "41",
+                "percentage": "76.62"
+            },
+            {
+                "name": "kagura",
+                "score": "35",
+                "percentage": "78.69"
+            },
+            {
+                "name": "fanny",
+                "score": "31",
+                "percentage": "69.14"
+            }
+        ]
+    },
+    {
+        "name": "Cyclops",
+        "role": "Mage",
+        "image": "cyclops.jpg",
+        "strongs": [
+            {
+                "name": "balmond",
+                "score": "75",
+                "percentage": "81.51"
+            },
+            {
+                "name": "tigreal",
+                "score": "39",
+                "percentage": "76.71"
+            },
+            {
+                "name": "bane",
+                "score": "38",
+                "percentage": "81.67"
+            },
+            {
+                "name": "rafaela",
+                "score": "32",
+                "percentage": "74.24"
+            },
+            {
+                "name": "angela",
+                "score": "17",
+                "percentage": "86.96"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "lolita",
+                "score": "82",
+                "percentage": "78.08"
+            },
+            {
+                "name": "lancelot",
+                "score": "57",
+                "percentage": "75.22"
+            },
+            {
+                "name": "helcurt",
+                "score": "48",
+                "percentage": "80.00"
+            },
+            {
+                "name": "kagura",
+                "score": "39",
+                "percentage": "70.53"
+            },
+            {
+                "name": "gusion",
+                "score": "32",
+                "percentage": "68.18"
+            }
+        ]
+    },
+    {
+        "name": "Diggie",
+        "role": "Support",
+        "image": "diggie.jpg",
+        "strongs": [
+            {
+                "name": "akai",
+                "score": "115",
+                "percentage": "79.19"
+            },
+            {
+                "name": "johnson",
+                "score": "92",
+                "percentage": "88.33"
+            },
+            {
+                "name": "ruby",
+                "score": "70",
+                "percentage": "80.70"
+            },
+            {
+                "name": "fanny",
+                "score": "63",
+                "percentage": "74.42"
+            },
+            {
+                "name": "gatotkaca",
+                "score": "43",
+                "percentage": "80.28"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "lancelot",
+                "score": "111",
+                "percentage": "83.23"
+            },
+            {
+                "name": "lesley",
+                "score": "59",
+                "percentage": "79.21"
+            },
+            {
+                "name": "zhask",
+                "score": "35",
+                "percentage": "76.92"
+            },
+            {
+                "name": "karina",
+                "score": "21",
+                "percentage": "71.43"
+            },
+            {
+                "name": "jawhead",
+                "score": "11",
+                "percentage": "68.97"
+            }
+        ]
+    },
+    {
+        "name": "Estes",
+        "role": "Support",
+        "image": "estes.jpg",
+        "strongs": [
+            {
+                "name": "rafaela",
+                "score": "3",
+                "percentage": "51.55"
+            },
+            {
+                "name": "lapu-lapu",
+                "score": "0",
+                "percentage": "50.00"
+            },
+            {
+                "name": "harley",
+                "score": "0",
+                "percentage": "50.00"
+            },
+            {
+                "name": "angela",
+                "score": "-1",
+                "percentage": "49.02"
+            },
+            {
+                "name": "irithel",
+                "score": "-1",
+                "percentage": "46.67"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "saber",
+                "score": "51",
+                "percentage": "80.00"
+            },
+            {
+                "name": "ruby",
+                "score": "36",
+                "percentage": "75.71"
+            },
+            {
+                "name": "natalia",
+                "score": "32",
+                "percentage": "76.67"
+            },
+            {
+                "name": "akai",
+                "score": "30",
+                "percentage": "80.00"
+            },
+            {
+                "name": "gatotkaca",
+                "score": "27",
+                "percentage": "81.40"
+            }
+        ]
+    },
+    {
+        "name": "Eudora",
+        "role": "Mage",
+        "image": "eudora.jpg",
+        "strongs": [
+            {
+                "name": "odette",
+                "score": "121",
+                "percentage": "82.01"
+            },
+            {
+                "name": "angela",
+                "score": "58",
+                "percentage": "80.85"
+            },
+            {
+                "name": "cyclops",
+                "score": "49",
+                "percentage": "84.51"
+            },
+            {
+                "name": "gord",
+                "score": "45",
+                "percentage": "75.28"
+            },
+            {
+                "name": "rafaela",
+                "score": "39",
+                "percentage": "76.71"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "lancelot",
+                "score": "85",
+                "percentage": "79.72"
+            },
+            {
+                "name": "natalia",
+                "score": "39",
+                "percentage": "69.31"
+            },
+            {
+                "name": "argus",
+                "score": "33",
+                "percentage": "81.13"
+            },
+            {
+                "name": "chou",
+                "score": "31",
+                "percentage": "73.85"
+            },
+            {
+                "name": "kagura",
+                "score": "26",
+                "percentage": "75.00"
+            }
+        ]
+    },
+    {
+        "name": "Fanny",
+        "role": "Assassin",
+        "image": "fanny.jpg",
+        "strongs": [
+            {
+                "name": "estes",
+                "score": "341",
+                "percentage": "75.64"
+            },
+            {
+                "name": "yi sun-shin",
+                "score": "189",
+                "percentage": "76.03"
+            },
+            {
+                "name": "karrie",
+                "score": "175",
+                "percentage": "72.61"
+            },
+            {
+                "name": "rafaela",
+                "score": "171",
+                "percentage": "80.00"
+            },
+            {
+                "name": "gord",
+                "score": "114",
+                "percentage": "74.36"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "helcurt",
+                "score": "813",
+                "percentage": "84.71"
+            },
+            {
+                "name": "chou",
+                "score": "574",
+                "percentage": "86.70"
+            },
+            {
+                "name": "saber",
+                "score": "394",
+                "percentage": "79.49"
+            },
+            {
+                "name": "ruby",
+                "score": "355",
+                "percentage": "81.53"
+            },
+            {
+                "name": "akai",
+                "score": "317",
+                "percentage": "79.52"
+            }
+        ]
+    },
+    {
+        "name": "Franco",
+        "role": "Tank",
+        "image": "franco.jpg",
+        "strongs": [
+            {
+                "name": "cyclops",
+                "score": "65",
+                "percentage": "72.11"
+            },
+            {
+                "name": "natalia",
+                "score": "60",
+                "percentage": "81.91"
+            },
+            {
+                "name": "gord",
+                "score": "46",
+                "percentage": "78.75"
+            },
+            {
+                "name": "harley",
+                "score": "31",
+                "percentage": "71.23"
+            },
+            {
+                "name": "moskov",
+                "score": "26",
+                "percentage": "65.48"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "johnson",
+                "score": "82",
+                "percentage": "79.71"
+            },
+            {
+                "name": "lolita",
+                "score": "47",
+                "percentage": "77.65"
+            },
+            {
+                "name": "jawhead",
+                "score": "36",
+                "percentage": "73.68"
+            },
+            {
+                "name": "uranus",
+                "score": "24",
+                "percentage": "85.29"
+            },
+            {
+                "name": "martis",
+                "score": "23",
+                "percentage": "71.70"
+            }
+        ]
+    },
+    {
+        "name": "Freya",
+        "role": "Fighter",
+        "image": "freya.jpg",
+        "strongs": [
+            {
+                "name": "roger",
+                "score": "259",
+                "percentage": "77.15"
+            },
+            {
+                "name": "alucard",
+                "score": "146",
+                "percentage": "77.86"
+            },
+            {
+                "name": "layla",
+                "score": "125",
+                "percentage": "78.54"
+            },
+            {
+                "name": "alpha",
+                "score": "81",
+                "percentage": "74.55"
+            },
+            {
+                "name": "ruby",
+                "score": "64",
+                "percentage": "70.25"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "hayabusa",
+                "score": "232",
+                "percentage": "75.44"
+            },
+            {
+                "name": "kagura",
+                "score": "66",
+                "percentage": "66.67"
+            },
+            {
+                "name": "aurora",
+                "score": "45",
+                "percentage": "62.57"
+            },
+            {
+                "name": "selena",
+                "score": "35",
+                "percentage": "61.15"
+            },
+            {
+                "name": "yi sun-shin",
+                "score": "10",
+                "percentage": "53.85"
+            }
+        ]
+    },
+    {
+        "name": "Gatotkaca",
+        "role": "Tank",
+        "image": "gatotkaca.jpg",
+        "strongs": [
+            {
+                "name": "lesley",
+                "score": "293",
+                "percentage": "84.63"
+            },
+            {
+                "name": "clint",
+                "score": "93",
+                "percentage": "82.52"
+            },
+            {
+                "name": "roger",
+                "score": "68",
+                "percentage": "75.00"
+            },
+            {
+                "name": "alucard",
+                "score": "65",
+                "percentage": "78.26"
+            },
+            {
+                "name": "gord",
+                "score": "58",
+                "percentage": "72.66"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "vexana",
+                "score": "102",
+                "percentage": "74.06"
+            },
+            {
+                "name": "karrie",
+                "score": "88",
+                "percentage": "78.21"
+            },
+            {
+                "name": "zhask",
+                "score": "38",
+                "percentage": "74.36"
+            },
+            {
+                "name": "angela",
+                "score": "37",
+                "percentage": "68.69"
+            },
+            {
+                "name": "alice",
+                "score": "32",
+                "percentage": "66.33"
+            }
+        ]
+    },
+    {
+        "name": "Gord",
+        "role": "Mage",
+        "image": "gord.jpg",
+        "strongs": [
+            {
+                "name": "lesley",
+                "score": "105",
+                "percentage": "81.44"
+            },
+            {
+                "name": "layla",
+                "score": "80",
+                "percentage": "85.71"
+            },
+            {
+                "name": "pharsa",
+                "score": "60",
+                "percentage": "81.91"
+            },
+            {
+                "name": "odette",
+                "score": "51",
+                "percentage": "82.28"
+            },
+            {
+                "name": "valir",
+                "score": "33",
+                "percentage": "67.37"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "saber",
+                "score": "78",
+                "percentage": "81.45"
+            },
+            {
+                "name": "hayabusa",
+                "score": "70",
+                "percentage": "88.04"
+            },
+            {
+                "name": "fanny",
+                "score": "51",
+                "percentage": "80.72"
+            },
+            {
+                "name": "lancelot",
+                "score": "37",
+                "percentage": "73.42"
+            },
+            {
+                "name": "harley",
+                "score": "37",
+                "percentage": "84.91"
+            }
+        ]
+    },
+    {
+        "name": "Grock",
+        "role": "Tank",
+        "image": "grock.jpg",
+        "strongs": [
+            {
+                "name": "karina",
+                "score": "182",
+                "percentage": "82.97"
+            },
+            {
+                "name": "cyclops",
+                "score": "55",
+                "percentage": "80.22"
+            },
+            {
+                "name": "sun",
+                "score": "43",
+                "percentage": "83.08"
+            },
+            {
+                "name": "akai",
+                "score": "28",
+                "percentage": "69.44"
+            },
+            {
+                "name": "odette",
+                "score": "20",
+                "percentage": "64.71"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "karrie",
+                "score": "253",
+                "percentage": "89.16"
+            },
+            {
+                "name": "hylos",
+                "score": "90",
+                "percentage": "78.13"
+            },
+            {
+                "name": "angela",
+                "score": "31",
+                "percentage": "71.23"
+            },
+            {
+                "name": "kaja",
+                "score": "9",
+                "percentage": "61.54"
+            },
+            {
+                "name": "uranus",
+                "score": "7",
+                "percentage": "60.61"
+            }
+        ]
+    },
+    {
+        "name": "Gusion",
+        "role": "Assassin",
+        "image": "gusion.jpg",
+        "strongs": [
+            {
+                "name": "layla",
+                "score": "518",
+                "percentage": "80.40"
+            },
+            {
+                "name": "gord",
+                "score": "378",
+                "percentage": "87.95"
+            },
+            {
+                "name": "rafaela",
+                "score": "276",
+                "percentage": "83.01"
+            },
+            {
+                "name": "pharsa",
+                "score": "276",
+                "percentage": "85.03"
+            },
+            {
+                "name": "lesley",
+                "score": "210",
+                "percentage": "72.73"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "chou",
+                "score": "652",
+                "percentage": "86.30"
+            },
+            {
+                "name": "jawhead",
+                "score": "333",
+                "percentage": "76.90"
+            },
+            {
+                "name": "ruby",
+                "score": "275",
+                "percentage": "79.19"
+            },
+            {
+                "name": "lolita",
+                "score": "208",
+                "percentage": "78.11"
+            },
+            {
+                "name": "hylos",
+                "score": "139",
+                "percentage": "71.65"
+            }
+        ]
+    },
+    {
+        "name": "Hanabi",
+        "role": "Marksman",
+        "image": "hanabi.jpg",
+        "strongs": [
+            {
+                "name": "akai",
+                "score": "166",
+                "percentage": "71.07"
+            },
+            {
+                "name": "angela",
+                "score": "106",
+                "percentage": "78.49"
+            },
+            {
+                "name": "aurora",
+                "score": "84",
+                "percentage": "71.00"
+            },
+            {
+                "name": "sun",
+                "score": "50",
+                "percentage": "64.37"
+            },
+            {
+                "name": "layla",
+                "score": "50",
+                "percentage": "63.59"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "martis",
+                "score": "147",
+                "percentage": "70.59"
+            },
+            {
+                "name": "natalia",
+                "score": "138",
+                "percentage": "80.26"
+            },
+            {
+                "name": "fanny",
+                "score": "120",
+                "percentage": "74.19"
+            },
+            {
+                "name": "hayabusa",
+                "score": "105",
+                "percentage": "75.61"
+            },
+            {
+                "name": "helcurt",
+                "score": "99",
+                "percentage": "74.87"
+            }
+        ]
+    },
+    {
+        "name": "Harley",
+        "role": "Mage",
+        "image": "harley.jpg",
+        "strongs": [
+            {
+                "name": "lesley",
+                "score": "273",
+                "percentage": "85.83"
+            },
+            {
+                "name": "pharsa",
+                "score": "132",
+                "percentage": "82.04"
+            },
+            {
+                "name": "layla",
+                "score": "122",
+                "percentage": "84.66"
+            },
+            {
+                "name": "hanabi",
+                "score": "117",
+                "percentage": "84.21"
+            },
+            {
+                "name": "miya",
+                "score": "103",
+                "percentage": "78.77"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "hayabusa",
+                "score": "256",
+                "percentage": "86.36"
+            },
+            {
+                "name": "saber",
+                "score": "138",
+                "percentage": "81.08"
+            },
+            {
+                "name": "eudora",
+                "score": "127",
+                "percentage": "83.25"
+            },
+            {
+                "name": "hylos",
+                "score": "53",
+                "percentage": "66.88"
+            },
+            {
+                "name": "kaja",
+                "score": "32",
+                "percentage": "75.00"
+            }
+        ]
+    },
+    {
+        "name": "Hayabusa",
+        "role": "Assassin",
+        "image": "hayabusa.jpg",
+        "strongs": [
+            {
+                "name": "gord",
+                "score": "307",
+                "percentage": "79.92"
+            },
+            {
+                "name": "hanabi",
+                "score": "204",
+                "percentage": "80.18"
+            },
+            {
+                "name": "odette",
+                "score": "175",
+                "percentage": "82.29"
+            },
+            {
+                "name": "yi sun-shin",
+                "score": "148",
+                "percentage": "80.58"
+            },
+            {
+                "name": "harley",
+                "score": "144",
+                "percentage": "79.27"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "sun",
+                "score": "426",
+                "percentage": "83.07"
+            },
+            {
+                "name": "helcurt",
+                "score": "149",
+                "percentage": "67.78"
+            },
+            {
+                "name": "chou",
+                "score": "139",
+                "percentage": "75.27"
+            },
+            {
+                "name": "saber",
+                "score": "134",
+                "percentage": "65.80"
+            },
+            {
+                "name": "akai",
+                "score": "94",
+                "percentage": "69.42"
+            }
+        ]
+    },
+    {
+        "name": "Helcurt",
+        "role": "Assassin",
+        "image": "helcurt.jpg",
+        "strongs": [
+            {
+                "name": "lancelot",
+                "score": "510",
+                "percentage": "77.48"
+            },
+            {
+                "name": "fanny",
+                "score": "317",
+                "percentage": "77.37"
+            },
+            {
+                "name": "gusion",
+                "score": "197",
+                "percentage": "74.94"
+            },
+            {
+                "name": "alucard",
+                "score": "186",
+                "percentage": "71.63"
+            },
+            {
+                "name": "hayabusa",
+                "score": "150",
+                "percentage": "67.52"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "akai",
+                "score": "441",
+                "percentage": "81.10"
+            },
+            {
+                "name": "natalia",
+                "score": "256",
+                "percentage": "74.33"
+            },
+            {
+                "name": "argus",
+                "score": "166",
+                "percentage": "73.31"
+            },
+            {
+                "name": "martis",
+                "score": "110",
+                "percentage": "69.37"
+            },
+            {
+                "name": "hylos",
+                "score": "97",
+                "percentage": "87.02"
+            }
+        ]
+    },
+    {
+        "name": "Hilda",
+        "role": "Fighter/Tank",
+        "image": "hilda.jpg",
+        "strongs": [
+            {
+                "name": "layla",
+                "score": "92",
+                "percentage": "77.06"
+            },
+            {
+                "name": "natalia",
+                "score": "56",
+                "percentage": "86.84"
+            },
+            {
+                "name": "hanabi",
+                "score": "47",
+                "percentage": "71.17"
+            },
+            {
+                "name": "alucard",
+                "score": "44",
+                "percentage": "67.74"
+            },
+            {
+                "name": "kagura",
+                "score": "38",
+                "percentage": "68.27"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "jawhead",
+                "score": "129",
+                "percentage": "81.46"
+            },
+            {
+                "name": "uranus",
+                "score": "82",
+                "percentage": "80.60"
+            },
+            {
+                "name": "ruby",
+                "score": "48",
+                "percentage": "74.00"
+            },
+            {
+                "name": "karrie",
+                "score": "33",
+                "percentage": "65.71"
+            },
+            {
+                "name": "roger",
+                "score": "26",
+                "percentage": "63.54"
+            }
+        ]
+    },
+    {
+        "name": "Hylos",
+        "role": "Tank",
+        "image": "hylos.jpg",
+        "strongs": [
+            {
+                "name": "natalia",
+                "score": "183",
+                "percentage": "87.65"
+            },
+            {
+                "name": "layla",
+                "score": "69",
+                "percentage": "80.00"
+            },
+            {
+                "name": "alucard",
+                "score": "52",
+                "percentage": "76.00"
+            },
+            {
+                "name": "franco",
+                "score": "49",
+                "percentage": "78.82"
+            },
+            {
+                "name": "miya",
+                "score": "36",
+                "percentage": "76.47"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "vexana",
+                "score": "110",
+                "percentage": "80.56"
+            },
+            {
+                "name": "karrie",
+                "score": "97",
+                "percentage": "80.12"
+            },
+            {
+                "name": "valir",
+                "score": "68",
+                "percentage": "90.48"
+            },
+            {
+                "name": "angela",
+                "score": "60",
+                "percentage": "77.27"
+            },
+            {
+                "name": "zhask",
+                "score": "46",
+                "percentage": "73.96"
+            }
+        ]
+    },
+    {
+        "name": "Irithel",
+        "role": "Marksman",
+        "image": "irithel.jpg",
+        "strongs": [
+            {
+                "name": "clint",
+                "score": "164",
+                "percentage": "78.08"
+            },
+            {
+                "name": "hanabi",
+                "score": "73",
+                "percentage": "77.44"
+            },
+            {
+                "name": "jawhead",
+                "score": "68",
+                "percentage": "77.87"
+            },
+            {
+                "name": "alice",
+                "score": "44",
+                "percentage": "76.19"
+            },
+            {
+                "name": "alucard",
+                "score": "31",
+                "percentage": "62.40"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "argus",
+                "score": "95",
+                "percentage": "75.13"
+            },
+            {
+                "name": "lesley",
+                "score": "82",
+                "percentage": "70.71"
+            },
+            {
+                "name": "selena",
+                "score": "58",
+                "percentage": "74.58"
+            },
+            {
+                "name": "hayabusa",
+                "score": "55",
+                "percentage": "74.77"
+            },
+            {
+                "name": "zilong",
+                "score": "32",
+                "percentage": "64.55"
+            }
+        ]
+    },
+    {
+        "name": "Jawhead",
+        "role": "Fighter",
+        "image": "jawhead.jpg",
+        "strongs": [
+            {
+                "name": "gusion",
+                "score": "253",
+                "percentage": "77.56"
+            },
+            {
+                "name": "fanny",
+                "score": "148",
+                "percentage": "77.21"
+            },
+            {
+                "name": "natalia",
+                "score": "113",
+                "percentage": "82.29"
+            },
+            {
+                "name": "angela",
+                "score": "83",
+                "percentage": "75.46"
+            },
+            {
+                "name": "cyclops",
+                "score": "77",
+                "percentage": "74.84"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "martis",
+                "score": "191",
+                "percentage": "73.24"
+            },
+            {
+                "name": "kaja",
+                "score": "67",
+                "percentage": "68.93"
+            },
+            {
+                "name": "uranus",
+                "score": "63",
+                "percentage": "66.49"
+            },
+            {
+                "name": "sun",
+                "score": "59",
+                "percentage": "76.11"
+            },
+            {
+                "name": "grock",
+                "score": "42",
+                "percentage": "65.00"
+            }
+        ]
+    },
+    {
+        "name": "Johnson",
+        "role": "Tank",
+        "image": "johnson.jpg",
+        "strongs": [
+            {
+                "name": "layla",
+                "score": "137",
+                "percentage": "85.49"
+            },
+            {
+                "name": "cyclops",
+                "score": "60",
+                "percentage": "77.78"
+            },
+            {
+                "name": "freya",
+                "score": "43",
+                "percentage": "72.16"
+            },
+            {
+                "name": "argus",
+                "score": "35",
+                "percentage": "66.99"
+            },
+            {
+                "name": "yi sun-shin",
+                "score": "34",
+                "percentage": "74.29"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "kagura",
+                "score": "120",
+                "percentage": "80.93"
+            },
+            {
+                "name": "diggie",
+                "score": "103",
+                "percentage": "84.56"
+            },
+            {
+                "name": "grock",
+                "score": "90",
+                "percentage": "85.71"
+            },
+            {
+                "name": "zhask",
+                "score": "74",
+                "percentage": "80.33"
+            },
+            {
+                "name": "vexana",
+                "score": "41",
+                "percentage": "69.16"
+            }
+        ]
+    },
+    {
+        "name": "Kagura",
+        "role": "Mage",
+        "image": "kagura.jpg",
+        "strongs": [
+            {
+                "name": "cyclops",
+                "score": "201",
+                "percentage": "86.81"
+            },
+            {
+                "name": "layla",
+                "score": "178",
+                "percentage": "87.71"
+            },
+            {
+                "name": "zhask",
+                "score": "176",
+                "percentage": "72.00"
+            },
+            {
+                "name": "clint",
+                "score": "149",
+                "percentage": "86.34"
+            },
+            {
+                "name": "gord",
+                "score": "140",
+                "percentage": "83.33"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "fanny",
+                "score": "214",
+                "percentage": "79.23"
+            },
+            {
+                "name": "harley",
+                "score": "144",
+                "percentage": "70.34"
+            },
+            {
+                "name": "hayabusa",
+                "score": "135",
+                "percentage": "75.86"
+            },
+            {
+                "name": "akai",
+                "score": "63",
+                "percentage": "66.15"
+            },
+            {
+                "name": "ruby",
+                "score": "55",
+                "percentage": "60.78"
+            }
+        ]
+    },
+    {
+        "name": "Kaja",
+        "role": "Support/Tank",
+        "image": "kaja.jpg",
+        "strongs": [
+            {
+                "name": "aurora",
+                "score": "64",
+                "percentage": "74.62"
+            },
+            {
+                "name": "fanny",
+                "score": "60",
+                "percentage": "82.61"
+            },
+            {
+                "name": "yi sun-shin",
+                "score": "51",
+                "percentage": "84.93"
+            },
+            {
+                "name": "alucard",
+                "score": "38",
+                "percentage": "79.69"
+            },
+            {
+                "name": "clint",
+                "score": "24",
+                "percentage": "75.00"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "sun",
+                "score": "64",
+                "percentage": "84.04"
+            },
+            {
+                "name": "selena",
+                "score": "61",
+                "percentage": "71.63"
+            },
+            {
+                "name": "grock",
+                "score": "37",
+                "percentage": "74.67"
+            },
+            {
+                "name": "akai",
+                "score": "29",
+                "percentage": "71.01"
+            },
+            {
+                "name": "hylos",
+                "score": "23",
+                "percentage": "78.05"
+            }
+        ]
+    },
+    {
+        "name": "Karina",
+        "role": "Assassin/Mage",
+        "image": "karina.jpg",
+        "strongs": [
+            {
+                "name": "layla",
+                "score": "414",
+                "percentage": "86.57"
+            },
+            {
+                "name": "eudora",
+                "score": "161",
+                "percentage": "79.06"
+            },
+            {
+                "name": "lesley",
+                "score": "150",
+                "percentage": "82.89"
+            },
+            {
+                "name": "estes",
+                "score": "126",
+                "percentage": "82.47"
+            },
+            {
+                "name": "bruno",
+                "score": "109",
+                "percentage": "77.11"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "grock",
+                "score": "230",
+                "percentage": "80.26"
+            },
+            {
+                "name": "ruby",
+                "score": "122",
+                "percentage": "78.50"
+            },
+            {
+                "name": "freya",
+                "score": "98",
+                "percentage": "75.26"
+            },
+            {
+                "name": "chou",
+                "score": "93",
+                "percentage": "78.53"
+            },
+            {
+                "name": "gusion",
+                "score": "77",
+                "percentage": "69.54"
+            }
+        ]
+    },
+    {
+        "name": "Karrie",
+        "role": "Marksman",
+        "image": "karrie.jpg",
+        "strongs": [
+            {
+                "name": "natalia",
+                "score": "267",
+                "percentage": "74.14"
+            },
+            {
+                "name": "martis",
+                "score": "185",
+                "percentage": "80.53"
+            },
+            {
+                "name": "hylos",
+                "score": "180",
+                "percentage": "78.30"
+            },
+            {
+                "name": "akai",
+                "score": "145",
+                "percentage": "72.73"
+            },
+            {
+                "name": "uranus",
+                "score": "125",
+                "percentage": "74.32"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "lolita",
+                "score": "255",
+                "percentage": "78.27"
+            },
+            {
+                "name": "lancelot",
+                "score": "118",
+                "percentage": "77.31"
+            },
+            {
+                "name": "gusion",
+                "score": "109",
+                "percentage": "73.59"
+            },
+            {
+                "name": "zilong",
+                "score": "99",
+                "percentage": "66.67"
+            },
+            {
+                "name": "hanabi",
+                "score": "93",
+                "percentage": "69.46"
+            }
+        ]
+    },
+    {
+        "name": "Lancelot",
+        "role": "Assassin",
+        "image": "lancelot.jpg",
+        "strongs": [
+            {
+                "name": "pharsa",
+                "score": "332",
+                "percentage": "82.42"
+            },
+            {
+                "name": "layla",
+                "score": "192",
+                "percentage": "80.00"
+            },
+            {
+                "name": "gord",
+                "score": "159",
+                "percentage": "79.34"
+            },
+            {
+                "name": "clint",
+                "score": "117",
+                "percentage": "77.21"
+            },
+            {
+                "name": "miya",
+                "score": "112",
+                "percentage": "78.87"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "helcurt",
+                "score": "564",
+                "percentage": "95.34"
+            },
+            {
+                "name": "ruby",
+                "score": "176",
+                "percentage": "77.67"
+            },
+            {
+                "name": "akai",
+                "score": "146",
+                "percentage": "76.26"
+            },
+            {
+                "name": "martis",
+                "score": "123",
+                "percentage": "74.90"
+            },
+            {
+                "name": "natalia",
+                "score": "96",
+                "percentage": "67.91"
+            }
+        ]
+    },
+    {
+        "name": "Lapu-Lapu",
+        "role": "Assassin",
+        "image": "lapu-lapu.jpg",
+        "strongs": [
+            {
+                "name": "martis",
+                "score": "97",
+                "percentage": "70.12"
+            },
+            {
+                "name": "angela",
+                "score": "63",
+                "percentage": "74.80"
+            },
+            {
+                "name": "sun",
+                "score": "56",
+                "percentage": "75.45"
+            },
+            {
+                "name": "balmond",
+                "score": "37",
+                "percentage": "69.89"
+            },
+            {
+                "name": "irithel",
+                "score": "32",
+                "percentage": "65.69"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "helcurt",
+                "score": "74",
+                "percentage": "73.42"
+            },
+            {
+                "name": "gatotkaca",
+                "score": "58",
+                "percentage": "85.37"
+            },
+            {
+                "name": "gusion",
+                "score": "47",
+                "percentage": "64.60"
+            },
+            {
+                "name": "lancelot",
+                "score": "37",
+                "percentage": "66.67"
+            },
+            {
+                "name": "lesley",
+                "score": "34",
+                "percentage": "63.71"
+            }
+        ]
+    },
+    {
+        "name": "Layla",
+        "role": "Marksman",
+        "image": "layla.jpg",
+        "strongs": [
+            {
+                "name": "hanabi",
+                "score": "91",
+                "percentage": "74.86"
+            },
+            {
+                "name": "bruno",
+                "score": "71",
+                "percentage": "69.40"
+            },
+            {
+                "name": "nana",
+                "score": "54",
+                "percentage": "73.28"
+            },
+            {
+                "name": "odette",
+                "score": "38",
+                "percentage": "65.32"
+            },
+            {
+                "name": "uranus",
+                "score": "27",
+                "percentage": "62.86"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "saber",
+                "score": "125",
+                "percentage": "82.38"
+            },
+            {
+                "name": "lancelot",
+                "score": "106",
+                "percentage": "81.93"
+            },
+            {
+                "name": "fanny",
+                "score": "105",
+                "percentage": "74.88"
+            },
+            {
+                "name": "natalia",
+                "score": "104",
+                "percentage": "85.14"
+            },
+            {
+                "name": "gusion",
+                "score": "99",
+                "percentage": "82.35"
+            }
+        ]
+    },
+    {
+        "name": "Lesley",
+        "role": "Marksman/Assassin",
+        "image": "lesley.jpg",
+        "strongs": [
+            {
+                "name": "layla",
+                "score": "275",
+                "percentage": "74.60"
+            },
+            {
+                "name": "rafaela",
+                "score": "158",
+                "percentage": "80.38"
+            },
+            {
+                "name": "balmond",
+                "score": "156",
+                "percentage": "79.10"
+            },
+            {
+                "name": "bruno",
+                "score": "84",
+                "percentage": "69.09"
+            },
+            {
+                "name": "lapu-lapu",
+                "score": "79",
+                "percentage": "68.54"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "gatotkaca",
+                "score": "274",
+                "percentage": "80.31"
+            },
+            {
+                "name": "yi sun-shin",
+                "score": "250",
+                "percentage": "81.57"
+            },
+            {
+                "name": "gusion",
+                "score": "224",
+                "percentage": "78.28"
+            },
+            {
+                "name": "hayabusa",
+                "score": "153",
+                "percentage": "77.42"
+            },
+            {
+                "name": "lancelot",
+                "score": "143",
+                "percentage": "72.41"
+            }
+        ]
+    },
+    {
+        "name": "Lolita",
+        "role": "Tank/Support",
+        "image": "lolita.jpg",
+        "strongs": [
+            {
+                "name": "cyclops",
+                "score": "147",
+                "percentage": "94.55"
+            },
+            {
+                "name": "harley",
+                "score": "94",
+                "percentage": "91.23"
+            },
+            {
+                "name": "karrie",
+                "score": "79",
+                "percentage": "86.92"
+            },
+            {
+                "name": "gusion",
+                "score": "65",
+                "percentage": "85.71"
+            },
+            {
+                "name": "moskov",
+                "score": "62",
+                "percentage": "86.90"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "valir",
+                "score": "66",
+                "percentage": "83.00"
+            },
+            {
+                "name": "chou",
+                "score": "50",
+                "percentage": "85.71"
+            },
+            {
+                "name": "kagura",
+                "score": "39",
+                "percentage": "91.49"
+            },
+            {
+                "name": "ruby",
+                "score": "33",
+                "percentage": "82.35"
+            },
+            {
+                "name": "freya",
+                "score": "20",
+                "percentage": "75.00"
+            }
+        ]
+    },
+    {
+        "name": "Martis",
+        "role": "Fighter",
+        "image": "martis.jpg",
+        "strongs": [
+            {
+                "name": "gusion",
+                "score": "99",
+                "percentage": "80.75"
+            },
+            {
+                "name": "layla",
+                "score": "65",
+                "percentage": "72.73"
+            },
+            {
+                "name": "odette",
+                "score": "59",
+                "percentage": "82.42"
+            },
+            {
+                "name": "hanabi",
+                "score": "47",
+                "percentage": "66.67"
+            },
+            {
+                "name": "rafaela",
+                "score": "46",
+                "percentage": "81.94"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "freya",
+                "score": "49",
+                "percentage": "70.94"
+            },
+            {
+                "name": "nana",
+                "score": "37",
+                "percentage": "62.59"
+            },
+            {
+                "name": "chou",
+                "score": "21",
+                "percentage": "59.63"
+            },
+            {
+                "name": "jawhead",
+                "score": "20",
+                "percentage": "64.29"
+            },
+            {
+                "name": "gatotkaca",
+                "score": "9",
+                "percentage": "58.18"
+            }
+        ]
+    },
+    {
+        "name": "Minotaur",
+        "role": "Tank/Support",
+        "image": "minotaur.jpg",
+        "strongs": [
+            {
+                "name": "natalia",
+                "score": "61",
+                "percentage": "74.02"
+            },
+            {
+                "name": "akai",
+                "score": "43",
+                "percentage": "72.16"
+            },
+            {
+                "name": "johnson",
+                "score": "29",
+                "percentage": "71.01"
+            },
+            {
+                "name": "alucard",
+                "score": "26",
+                "percentage": "82.50"
+            },
+            {
+                "name": "moskov",
+                "score": "24",
+                "percentage": "70.69"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "grock",
+                "score": "128",
+                "percentage": "87.65"
+            },
+            {
+                "name": "diggie",
+                "score": "84",
+                "percentage": "87.50"
+            },
+            {
+                "name": "gatotkaca",
+                "score": "52",
+                "percentage": "79.55"
+            },
+            {
+                "name": "alice",
+                "score": "26",
+                "percentage": "72.41"
+            },
+            {
+                "name": "vexana",
+                "score": "21",
+                "percentage": "67.21"
+            }
+        ]
+    },
+    {
+        "name": "Miya",
+        "role": "Marksman",
+        "image": "miya.jpg",
+        "strongs": [
+            {
+                "name": "layla",
+                "score": "194",
+                "percentage": "70.82"
+            },
+            {
+                "name": "yi sun-shin",
+                "score": "148",
+                "percentage": "87.00"
+            },
+            {
+                "name": "nana",
+                "score": "63",
+                "percentage": "66.67"
+            },
+            {
+                "name": "bruno",
+                "score": "61",
+                "percentage": "73.64"
+            },
+            {
+                "name": "angela",
+                "score": "60",
+                "percentage": "70.55"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "moskov",
+                "score": "137",
+                "percentage": "74.55"
+            },
+            {
+                "name": "lancelot",
+                "score": "101",
+                "percentage": "73.06"
+            },
+            {
+                "name": "ruby",
+                "score": "73",
+                "percentage": "68.34"
+            },
+            {
+                "name": "gusion",
+                "score": "67",
+                "percentage": "75.97"
+            },
+            {
+                "name": "martis",
+                "score": "61",
+                "percentage": "71.33"
+            }
+        ]
+    },
+    {
+        "name": "Moskov",
+        "role": "Marksman",
+        "image": "moskov.jpg",
+        "strongs": [
+            {
+                "name": "fanny",
+                "score": "309",
+                "percentage": "78.35"
+            },
+            {
+                "name": "aldous",
+                "score": "195",
+                "percentage": "78.26"
+            },
+            {
+                "name": "bruno",
+                "score": "112",
+                "percentage": "73.33"
+            },
+            {
+                "name": "layla",
+                "score": "99",
+                "percentage": "72.60"
+            },
+            {
+                "name": "miya",
+                "score": "81",
+                "percentage": "68.84"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "natalia",
+                "score": "209",
+                "percentage": "75.68"
+            },
+            {
+                "name": "hayabusa",
+                "score": "188",
+                "percentage": "78.83"
+            },
+            {
+                "name": "jawhead",
+                "score": "93",
+                "percentage": "71.23"
+            },
+            {
+                "name": "johnson",
+                "score": "85",
+                "percentage": "69.59"
+            },
+            {
+                "name": "martis",
+                "score": "48",
+                "percentage": "71.05"
+            }
+        ]
+    },
+    {
+        "name": "Nana",
+        "role": "Support/Mage",
+        "image": "nana.jpg",
+        "strongs": [
+            {
+                "name": "gusion",
+                "score": "176",
+                "percentage": "79.33"
+            },
+            {
+                "name": "lancelot",
+                "score": "82",
+                "percentage": "81.06"
+            },
+            {
+                "name": "ruby",
+                "score": "64",
+                "percentage": "72.22"
+            },
+            {
+                "name": "fanny",
+                "score": "62",
+                "percentage": "69.14"
+            },
+            {
+                "name": "layla",
+                "score": "55",
+                "percentage": "72.73"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "johnson",
+                "score": "82",
+                "percentage": "75.31"
+            },
+            {
+                "name": "diggie",
+                "score": "64",
+                "percentage": "75.40"
+            },
+            {
+                "name": "lesley",
+                "score": "46",
+                "percentage": "68.25"
+            },
+            {
+                "name": "kagura",
+                "score": "36",
+                "percentage": "66.36"
+            },
+            {
+                "name": "saber",
+                "score": "33",
+                "percentage": "64.60"
+            }
+        ]
+    },
+    {
+        "name": "Natalia",
+        "role": "Assassin",
+        "image": "natalia.jpg",
+        "strongs": [
+            {
+                "name": "layla",
+                "score": "263",
+                "percentage": "82.00"
+            },
+            {
+                "name": "clint",
+                "score": "115",
+                "percentage": "77.51"
+            },
+            {
+                "name": "karrie",
+                "score": "112",
+                "percentage": "78.87"
+            },
+            {
+                "name": "moskov",
+                "score": "102",
+                "percentage": "79.31"
+            },
+            {
+                "name": "estes",
+                "score": "85",
+                "percentage": "82.95"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "saber",
+                "score": "286",
+                "percentage": "79.92"
+            },
+            {
+                "name": "rafaela",
+                "score": "255",
+                "percentage": "84.18"
+            },
+            {
+                "name": "hylos",
+                "score": "155",
+                "percentage": "83.26"
+            },
+            {
+                "name": "ruby",
+                "score": "132",
+                "percentage": "80.84"
+            },
+            {
+                "name": "johnson",
+                "score": "63",
+                "percentage": "71.43"
+            }
+        ]
+    },
+    {
+        "name": "Odette",
+        "role": "Mage",
+        "image": "odette.jpg",
+        "strongs": [
+            {
+                "name": "miya",
+                "score": "89",
+                "percentage": "73.80"
+            },
+            {
+                "name": "angela",
+                "score": "60",
+                "percentage": "83.33"
+            },
+            {
+                "name": "layla",
+                "score": "48",
+                "percentage": "80.00"
+            },
+            {
+                "name": "cyclops",
+                "score": "40",
+                "percentage": "77.03"
+            },
+            {
+                "name": "bane",
+                "score": "37",
+                "percentage": "74.03"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "kagura",
+                "score": "110",
+                "percentage": "83.54"
+            },
+            {
+                "name": "freya",
+                "score": "60",
+                "percentage": "79.41"
+            },
+            {
+                "name": "helcurt",
+                "score": "57",
+                "percentage": "78.22"
+            },
+            {
+                "name": "natalia",
+                "score": "50",
+                "percentage": "75.00"
+            },
+            {
+                "name": "aurora",
+                "score": "49",
+                "percentage": "77.53"
+            }
+        ]
+    },
+    {
+        "name": "Pharsa",
+        "role": "Mage",
+        "image": "pharsa.jpg",
+        "strongs": [
+            {
+                "name": "balmond",
+                "score": "81",
+                "percentage": "71.20"
+            },
+            {
+                "name": "layla",
+                "score": "67",
+                "percentage": "75.97"
+            },
+            {
+                "name": "miya",
+                "score": "61",
+                "percentage": "85.88"
+            },
+            {
+                "name": "odette",
+                "score": "56",
+                "percentage": "79.17"
+            },
+            {
+                "name": "sun",
+                "score": "36",
+                "percentage": "66.67"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "natalia",
+                "score": "116",
+                "percentage": "80.53"
+            },
+            {
+                "name": "johnson",
+                "score": "110",
+                "percentage": "76.96"
+            },
+            {
+                "name": "harley",
+                "score": "64",
+                "percentage": "78.57"
+            },
+            {
+                "name": "chou",
+                "score": "51",
+                "percentage": "77.42"
+            },
+            {
+                "name": "akai",
+                "score": "48",
+                "percentage": "71.43"
+            }
+        ]
+    },
+    {
+        "name": "Rafaela",
+        "role": "Support",
+        "image": "rafaela.jpg",
+        "strongs": [
+            {
+                "name": "natalia",
+                "score": "111",
+                "percentage": "86.75"
+            },
+            {
+                "name": "alucard",
+                "score": "24",
+                "percentage": "72.22"
+            },
+            {
+                "name": "lolita",
+                "score": "21",
+                "percentage": "78.38"
+            },
+            {
+                "name": "estes",
+                "score": "17",
+                "percentage": "74.29"
+            },
+            {
+                "name": "aldous",
+                "score": "16",
+                "percentage": "66.00"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "helcurt",
+                "score": "31",
+                "percentage": "80.39"
+            },
+            {
+                "name": "alice",
+                "score": "26",
+                "percentage": "75.00"
+            },
+            {
+                "name": "hayabusa",
+                "score": "25",
+                "percentage": "85.71"
+            },
+            {
+                "name": "lancelot",
+                "score": "24",
+                "percentage": "76.09"
+            },
+            {
+                "name": "lesley",
+                "score": "23",
+                "percentage": "67.16"
+            }
+        ]
+    },
+    {
+        "name": "Roger",
+        "role": "Marksman",
+        "image": "roger.jpg",
+        "strongs": [
+            {
+                "name": "zilong",
+                "score": "183",
+                "percentage": "68.12"
+            },
+            {
+                "name": "saber",
+                "score": "115",
+                "percentage": "74.89"
+            },
+            {
+                "name": "pharsa",
+                "score": "86",
+                "percentage": "73.12"
+            },
+            {
+                "name": "moskov",
+                "score": "77",
+                "percentage": "68.60"
+            },
+            {
+                "name": "estes",
+                "score": "69",
+                "percentage": "73.47"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "freya",
+                "score": "378",
+                "percentage": "80.98"
+            },
+            {
+                "name": "zhask",
+                "score": "106",
+                "percentage": "69.78"
+            },
+            {
+                "name": "karina",
+                "score": "96",
+                "percentage": "89.34"
+            },
+            {
+                "name": "natalia",
+                "score": "89",
+                "percentage": "68.46"
+            },
+            {
+                "name": "aldous",
+                "score": "77",
+                "percentage": "66.38"
+            }
+        ]
+    },
+    {
+        "name": "Ruby",
+        "role": "Fighter",
+        "image": "ruby.jpg",
+        "strongs": [
+            {
+                "name": "fanny",
+                "score": "534",
+                "percentage": "93.77"
+            },
+            {
+                "name": "odette",
+                "score": "212",
+                "percentage": "83.54"
+            },
+            {
+                "name": "pharsa",
+                "score": "188",
+                "percentage": "85.34"
+            },
+            {
+                "name": "gusion",
+                "score": "145",
+                "percentage": "77.78"
+            },
+            {
+                "name": "natalia",
+                "score": "81",
+                "percentage": "76.47"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "diggie",
+                "score": "188",
+                "percentage": "75.13"
+            },
+            {
+                "name": "helcurt",
+                "score": "98",
+                "percentage": "68.15"
+            },
+            {
+                "name": "johnson",
+                "score": "95",
+                "percentage": "69.71"
+            },
+            {
+                "name": "akai",
+                "score": "68",
+                "percentage": "67.89"
+            },
+            {
+                "name": "selena",
+                "score": "41",
+                "percentage": "62.89"
+            }
+        ]
+    },
+    {
+        "name": "Saber",
+        "role": "Assassin",
+        "image": "saber.jpg",
+        "strongs": [
+            {
+                "name": "fanny",
+                "score": "158",
+                "percentage": "83.47"
+            },
+            {
+                "name": "vexana",
+                "score": "72",
+                "percentage": "82.73"
+            },
+            {
+                "name": "hayabusa",
+                "score": "62",
+                "percentage": "75.00"
+            },
+            {
+                "name": "layla",
+                "score": "59",
+                "percentage": "81.72"
+            },
+            {
+                "name": "kagura",
+                "score": "56",
+                "percentage": "77.45"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "lolita",
+                "score": "87",
+                "percentage": "84.25"
+            },
+            {
+                "name": "johnson",
+                "score": "59",
+                "percentage": "84.71"
+            },
+            {
+                "name": "grock",
+                "score": "52",
+                "percentage": "85.14"
+            },
+            {
+                "name": "tigreal",
+                "score": "40",
+                "percentage": "73.26"
+            },
+            {
+                "name": "gatotkaca",
+                "score": "37",
+                "percentage": "80.33"
+            }
+        ]
+    },
+    {
+        "name": "Selena",
+        "role": "Assassin/Mage",
+        "image": "selena.jpg",
+        "strongs": [
+            {
+                "name": "layla",
+                "score": "157",
+                "percentage": "75.57"
+            },
+            {
+                "name": "chang'e",
+                "score": "105",
+                "percentage": "78.69"
+            },
+            {
+                "name": "clint",
+                "score": "73",
+                "percentage": "91.01"
+            },
+            {
+                "name": "bruno",
+                "score": "71",
+                "percentage": "78.86"
+            },
+            {
+                "name": "rafaela",
+                "score": "63",
+                "percentage": "77.39"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "franco",
+                "score": "209",
+                "percentage": "90.98"
+            },
+            {
+                "name": "hanabi",
+                "score": "135",
+                "percentage": "71.70"
+            },
+            {
+                "name": "aldous",
+                "score": "130",
+                "percentage": "76.21"
+            },
+            {
+                "name": "chou",
+                "score": "93",
+                "percentage": "82.07"
+            },
+            {
+                "name": "kaja",
+                "score": "86",
+                "percentage": "70.67"
+            }
+        ]
+    },
+    {
+        "name": "Sun",
+        "role": "Fighter",
+        "image": "sun.jpg",
+        "strongs": [
+            {
+                "name": "alucard",
+                "score": "525",
+                "percentage": "66.44"
+            },
+            {
+                "name": "karrie",
+                "score": "205",
+                "percentage": "67.34"
+            },
+            {
+                "name": "bane",
+                "score": "127",
+                "percentage": "64.94"
+            },
+            {
+                "name": "lolita",
+                "score": "125",
+                "percentage": "67.81"
+            },
+            {
+                "name": "karina",
+                "score": "115",
+                "percentage": "65.42"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "roger",
+                "score": "693",
+                "percentage": "72.23"
+            },
+            {
+                "name": "argus",
+                "score": "450",
+                "percentage": "76.66"
+            },
+            {
+                "name": "irithel",
+                "score": "241",
+                "percentage": "72.61"
+            },
+            {
+                "name": "valir",
+                "score": "159",
+                "percentage": "68.36"
+            },
+            {
+                "name": "vexana",
+                "score": "108",
+                "percentage": "63.71"
+            }
+        ]
+    },
+    {
+        "name": "Tigreal",
+        "role": "Tank",
+        "image": "tigreal.jpg",
+        "strongs": [
+            {
+                "name": "zilong",
+                "score": "109",
+                "percentage": "83.03"
+            },
+            {
+                "name": "odette",
+                "score": "61",
+                "percentage": "81.44"
+            },
+            {
+                "name": "aldous",
+                "score": "52",
+                "percentage": "80.95"
+            },
+            {
+                "name": "karina",
+                "score": "35",
+                "percentage": "80.70"
+            },
+            {
+                "name": "saber",
+                "score": "25",
+                "percentage": "70.49"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "chou",
+                "score": "65",
+                "percentage": "78.26"
+            },
+            {
+                "name": "akai",
+                "score": "54",
+                "percentage": "79.35"
+            },
+            {
+                "name": "diggie",
+                "score": "52",
+                "percentage": "82.50"
+            },
+            {
+                "name": "nana",
+                "score": "30",
+                "percentage": "69.23"
+            },
+            {
+                "name": "aurora",
+                "score": "12",
+                "percentage": "83.33"
+            }
+        ]
+    },
+    {
+        "name": "Uranus",
+        "role": "Tank",
+        "image": "uranus.jpg",
+        "strongs": [
+            {
+                "name": "hanabi",
+                "score": "147",
+                "percentage": "75.79"
+            },
+            {
+                "name": "fanny",
+                "score": "62",
+                "percentage": "71.83"
+            },
+            {
+                "name": "harley",
+                "score": "51",
+                "percentage": "76.29"
+            },
+            {
+                "name": "alucard",
+                "score": "48",
+                "percentage": "70.69"
+            },
+            {
+                "name": "tigreal",
+                "score": "40",
+                "percentage": "66.95"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "karrie",
+                "score": "237",
+                "percentage": "80.94"
+            },
+            {
+                "name": "lancelot",
+                "score": "61",
+                "percentage": "62.76"
+            },
+            {
+                "name": "angela",
+                "score": "41",
+                "percentage": "65.65"
+            },
+            {
+                "name": "akai",
+                "score": "36",
+                "percentage": "68.75"
+            },
+            {
+                "name": "clint",
+                "score": "19",
+                "percentage": "58.72"
+            }
+        ]
+    },
+    {
+        "name": "Valir",
+        "role": "Mage",
+        "image": "valir.jpg",
+        "strongs": [
+            {
+                "name": "selena",
+                "score": "127",
+                "percentage": "77.02"
+            },
+            {
+                "name": "alucard",
+                "score": "88",
+                "percentage": "76.83"
+            },
+            {
+                "name": "roger",
+                "score": "46",
+                "percentage": "72.12"
+            },
+            {
+                "name": "franco",
+                "score": "41",
+                "percentage": "73.56"
+            },
+            {
+                "name": "angela",
+                "score": "38",
+                "percentage": "71.11"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "kagura",
+                "score": "106",
+                "percentage": "76.50"
+            },
+            {
+                "name": "lesley",
+                "score": "82",
+                "percentage": "76.62"
+            },
+            {
+                "name": "natalia",
+                "score": "77",
+                "percentage": "81.30"
+            },
+            {
+                "name": "harley",
+                "score": "52",
+                "percentage": "75.00"
+            },
+            {
+                "name": "karina",
+                "score": "50",
+                "percentage": "71.19"
+            }
+        ]
+    },
+    {
+        "name": "Vexana",
+        "role": "Mage",
+        "image": "vexana.jpg",
+        "strongs": [
+            {
+                "name": "hylos",
+                "score": "80",
+                "percentage": "78.57"
+            },
+            {
+                "name": "miya",
+                "score": "56",
+                "percentage": "85.00"
+            },
+            {
+                "name": "lesley",
+                "score": "29",
+                "percentage": "73.77"
+            },
+            {
+                "name": "argus",
+                "score": "24",
+                "percentage": "80.00"
+            },
+            {
+                "name": "johnson",
+                "score": "19",
+                "percentage": "70.21"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "harley",
+                "score": "78",
+                "percentage": "86.11"
+            },
+            {
+                "name": "karina",
+                "score": "46",
+                "percentage": "84.85"
+            },
+            {
+                "name": "kagura",
+                "score": "46",
+                "percentage": "85.94"
+            },
+            {
+                "name": "fanny",
+                "score": "43",
+                "percentage": "78.67"
+            },
+            {
+                "name": "gusion",
+                "score": "34",
+                "percentage": "74.29"
+            }
+        ]
+    },
+    {
+        "name": "Yi Sun-Shin",
+        "role": "Marksman",
+        "image": "yi_sun-shin.jpg",
+        "strongs": [
+            {
+                "name": "valir",
+                "score": "51",
+                "percentage": "72.57"
+            },
+            {
+                "name": "layla",
+                "score": "30",
+                "percentage": "73.44"
+            },
+            {
+                "name": "moskov",
+                "score": "26",
+                "percentage": "66.67"
+            },
+            {
+                "name": "grock",
+                "score": "23",
+                "percentage": "65.75"
+            },
+            {
+                "name": "lapu-lapu",
+                "score": "19",
+                "percentage": "66.67"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "kagura",
+                "score": "124",
+                "percentage": "93.66"
+            },
+            {
+                "name": "hayabusa",
+                "score": "51",
+                "percentage": "76.29"
+            },
+            {
+                "name": "fanny",
+                "score": "36",
+                "percentage": "74.32"
+            },
+            {
+                "name": "argus",
+                "score": "32",
+                "percentage": "75.00"
+            },
+            {
+                "name": "johnson",
+                "score": "19",
+                "percentage": "63.77"
+            }
+        ]
+    },
+    {
+        "name": "Zhask",
+        "role": "Mage",
+        "image": "zhask.jpg",
+        "strongs": [
+            {
+                "name": "pharsa",
+                "score": "188",
+                "percentage": "74.87"
+            },
+            {
+                "name": "cyclops",
+                "score": "69",
+                "percentage": "74.82"
+            },
+            {
+                "name": "layla",
+                "score": "66",
+                "percentage": "76.61"
+            },
+            {
+                "name": "rafaela",
+                "score": "57",
+                "percentage": "67.70"
+            },
+            {
+                "name": "zilong",
+                "score": "49",
+                "percentage": "69.92"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "lancelot",
+                "score": "190",
+                "percentage": "77.30"
+            },
+            {
+                "name": "helcurt",
+                "score": "146",
+                "percentage": "84.76"
+            },
+            {
+                "name": "natalia",
+                "score": "105",
+                "percentage": "74.65"
+            },
+            {
+                "name": "akai",
+                "score": "71",
+                "percentage": "69.40"
+            },
+            {
+                "name": "argus",
+                "score": "65",
+                "percentage": "69.23"
+            }
+        ]
+    },
+    {
+        "name": "Zilong",
+        "role": "Fighter",
+        "image": "zilong.jpg",
+        "strongs": [
+            {
+                "name": "odette",
+                "score": "185",
+                "percentage": "76.66"
+            },
+            {
+                "name": "pharsa",
+                "score": "111",
+                "percentage": "80.00"
+            },
+            {
+                "name": "eudora",
+                "score": "83",
+                "percentage": "72.93"
+            },
+            {
+                "name": "yi sun-shin",
+                "score": "70",
+                "percentage": "74.31"
+            },
+            {
+                "name": "layla",
+                "score": "68",
+                "percentage": "74.29"
+            }
+        ],
+        "weaks": [
+            {
+                "name": "alucard",
+                "score": "227",
+                "percentage": "74.20"
+            },
+            {
+                "name": "roger",
+                "score": "98",
+                "percentage": "71.12"
+            },
+            {
+                "name": "jawhead",
+                "score": "72",
+                "percentage": "73.68"
+            },
+            {
+                "name": "alpha",
+                "score": "66",
+                "percentage": "71.71"
+            },
+            {
+                "name": "kagura",
+                "score": "56",
+                "percentage": "68.18"
+            }
+        ]
+    }
+]
