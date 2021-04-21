@@ -23,6 +23,12 @@
         #feedback { font-size: 1.4em; }
         #selectable .ui-selecting .card { background: #FECA40; }
         #selectable .ui-selected .card { background: #F39814; color: white; }
+        .hero-role{
+            color: white;
+            background-color: rgba(0, 0, 0, 0.3);
+            font-size: 0.6em;
+            text-align: center;
+        }
     </style>
 </head>
 <body>
@@ -36,6 +42,9 @@
                 <div class="col-3 col-sm-2 col-lg-1">
                     <div class="card mb-2 ui-state-default">
                         <div class="ratio ratio-1x1 hero-image" style="background-image: url('images/<?= e(urlencode($hero->getImage())) ?>')"></div>
+                        <div class="card-img-overlay p-0">
+                            <div class="hero-role"><?= e($hero->getRole()) ?></div>
+                        </div>
                         <span class="text-center small hero-name"><?= e($hero->getName()) ?></span>
                     </div>
                 </div>
