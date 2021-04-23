@@ -10,26 +10,9 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="vendor/jqueryui-selectable/jquery-ui.min.css">
+	<link rel="stylesheet" type="text/css" href="css/app.css">
 
     <title>Pick A Hero</title>
-
-    <style>
-        .hero-image{
-            background-size: cover;
-            background-position: center;
-            background-repeat: no-repeat;
-        }
-        #selectable .card { cursor: pointer; }
-        #feedback { font-size: 1.4em; }
-        #selectable .ui-selecting .card { background: #FECA40; }
-        #selectable .ui-selected .card { background: #F39814; color: white; }
-        .hero-role{
-            color: white;
-            background-color: rgba(0, 0, 0, 0.3);
-            font-size: 0.6em;
-            text-align: center;
-        }
-    </style>
 </head>
 <body>
     <div class="container py-5">
@@ -61,14 +44,14 @@
         $(document).ready(function (){
             $("#selectable").bind("mousedown", function(e) {e.metaKey = true;}).selectable({
                 selecting: function(event, ui) {
-                    if ($("#selectable .ui-selected, .ui-selecting").length > 5) {
+                    if ($("#selectable > .ui-selected, #selectable > .ui-selecting").length > 5) {
                         $("#selectable .ui-selecting").removeClass("ui-selecting");
                     }
                 }
             });
 
             $('#submit').click(function (){
-                var heroes = $('#selectable .ui-selected .hero-name').map((i, e) => e.innerText).toArray();
+                var heroes = $('#selectable > .ui-selected .hero-name').map((i, e) => e.innerText).toArray();
 
                 let params = new URLSearchParams();
                 heroes.forEach(hero => params.append('heroes[]', hero));

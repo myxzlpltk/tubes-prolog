@@ -1,0 +1,16 @@
+#selectable .card { cursor: pointer; }
+#feedback { font-size: 1.4em; }
+#selectable .ui-selecting .card { background: #FECA40; }
+#selectable .ui-selected .card { background: #F39814; color: white; }
+
+.hero-image{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.hero-role{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.3);
+    font-size: 0.6em;
+    text-align: center;
+}
