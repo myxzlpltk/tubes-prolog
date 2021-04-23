@@ -7,13 +7,15 @@ class Hero{
     private $image;
     private $strongs;
     private $weaks;
+    private $stats;
 
-    public function __construct($name, $role, $image, $strongs, $weaks){
+    public function __construct($name, $role, $image, $strongs, $weaks, $stats){
         $this->name = $name;
         $this->role = $role;
         $this->image = $image;
         $this->strongs = $strongs;
         $this->weaks = $weaks;
+        $this->stats = $stats;
     }
 
     public function getName(){
@@ -54,6 +56,14 @@ class Hero{
 
     public function setWeaks($weaks): void{
         $this->weaks = $weaks;
+    }
+
+    public function getStats(){
+        return $this->stats;
+    }
+
+    public function setStats($stats): void{
+        $this->stats = $stats;
     }
 
 }

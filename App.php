@@ -20,7 +20,7 @@ class App{
             }
 
             $this->heroes->append(
-                new Hero($item->name, $item->role, $item->image, $strongs, $weaks)
+                new Hero($item->name, $item->role, $item->image, $strongs, $weaks, (array)$item->stats)
             );
         }
 

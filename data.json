@@ -6,8 +6,8 @@
         "strongs": [
             {
                 "name": "Fanny",
-                "score": "711",
-                "percentage": "96.35"
+                "score": "710",
+                "percentage": "96.22"
             },
             {
                 "name": "Zhask",
@@ -26,37 +26,51 @@
             },
             {
                 "name": "Argus",
-                "score": "177",
-                "percentage": "95.85"
+                "score": "178",
+                "percentage": "95.88"
             }
         ],
         "weaks": [
             {
                 "name": "Diggie",
-                "score": "264",
-                "percentage": "83.50"
+                "score": "265",
+                "percentage": "83.54"
             },
             {
                 "name": "Nana",
-                "score": "117",
-                "percentage": "79.70"
+                "score": "118",
+                "percentage": "79.80"
             },
             {
                 "name": "Karrie",
-                "score": "88",
-                "percentage": "73.66"
+                "score": "89",
+                "percentage": "73.80"
             },
             {
                 "name": "Chou",
-                "score": "82",
-                "percentage": "76.97"
+                "score": "83",
+                "percentage": "77.12"
             },
             {
                 "name": "Martis",
-                "score": "69",
-                "percentage": "77.17"
+                "score": "70",
+                "percentage": "77.34"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "115",
+            "Magic Power": "0",
+            "Armor": "24",
+            "Magic Resistance": "10",
+            "Hp": "2769",
+            "Mana": "422",
+            "Attack Speed": "0.85",
+            "Hp Regen": "42",
+            "Mana Regen": "12",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Aldous",
@@ -65,35 +79,35 @@
         "strongs": [
             {
                 "name": "Layla",
-                "score": "756",
-                "percentage": "80.73"
+                "score": "757",
+                "percentage": "80.70"
             },
             {
                 "name": "Estes",
-                "score": "325",
-                "percentage": "77.13"
+                "score": "326",
+                "percentage": "77.17"
             },
             {
                 "name": "Gord",
-                "score": "308",
-                "percentage": "83.48"
+                "score": "316",
+                "percentage": "84.20"
             },
             {
                 "name": "Karrie",
-                "score": "271",
-                "percentage": "72.03"
+                "score": "272",
+                "percentage": "72.01"
             },
             {
                 "name": "Angela",
                 "score": "265",
-                "percentage": "75.53"
+                "percentage": "75.43"
             }
         ],
         "weaks": [
             {
                 "name": "Chou",
-                "score": "991",
-                "percentage": "81.22"
+                "score": "993",
+                "percentage": "81.25"
             },
             {
                 "name": "Argus",
@@ -115,7 +129,21 @@
                 "score": "84",
                 "percentage": "70.00"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "129",
+            "Magic Power": "0",
+            "Armor": "24",
+            "Magic Resistance": "10",
+            "Hp": "2718",
+            "Mana": "405",
+            "Attack Speed": "0.836",
+            "Hp Regen": "49",
+            "Mana Regen": "18",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Alice",
@@ -124,8 +152,8 @@
         "strongs": [
             {
                 "name": "Aurora",
-                "score": "185",
-                "percentage": "72.73"
+                "score": "188",
+                "percentage": "72.93"
             },
             {
                 "name": "Alucard",
@@ -134,8 +162,8 @@
             },
             {
                 "name": "Sun",
-                "score": "111",
-                "percentage": "78.76"
+                "score": "112",
+                "percentage": "78.87"
             },
             {
                 "name": "Layla",
@@ -144,8 +172,8 @@
             },
             {
                 "name": "Karina",
-                "score": "56",
-                "percentage": "70.00"
+                "score": "55",
+                "percentage": "69.50"
             }
         ],
         "weaks": [
@@ -156,8 +184,8 @@
             },
             {
                 "name": "Fanny",
-                "score": "133",
-                "percentage": "92.36"
+                "score": "134",
+                "percentage": "92.41"
             },
             {
                 "name": "Akai",
@@ -171,10 +199,24 @@
             },
             {
                 "name": "Selena",
-                "score": "57",
-                "percentage": "72.09"
+                "score": "58",
+                "percentage": "72.31"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "240",
+            "Physical Attack": "114",
+            "Magic Power": "0",
+            "Armor": "21",
+            "Magic Resistance": "10",
+            "Hp": "2573",
+            "Mana": "493",
+            "Attack Speed": "0.8",
+            "Hp Regen": "36",
+            "Mana Regen": "18",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Alpha",
@@ -183,13 +225,13 @@
         "strongs": [
             {
                 "name": "Valir",
-                "score": "85",
-                "percentage": "69.95"
+                "score": "86",
+                "percentage": "70.09"
             },
             {
                 "name": "Layla",
-                "score": "68",
-                "percentage": "84.00"
+                "score": "69",
+                "percentage": "84.16"
             },
             {
                 "name": "Pharsa",
@@ -198,25 +240,25 @@
             },
             {
                 "name": "Estes",
-                "score": "51",
-                "percentage": "76.29"
+                "score": "50",
+                "percentage": "75.51"
             },
             {
                 "name": "Eudora",
-                "score": "45",
-                "percentage": "74.19"
+                "score": "44",
+                "percentage": "73.40"
             }
         ],
         "weaks": [
             {
                 "name": "Fanny",
-                "score": "103",
-                "percentage": "77.84"
+                "score": "104",
+                "percentage": "77.96"
             },
             {
                 "name": "Kagura",
-                "score": "52",
-                "percentage": "76.53"
+                "score": "53",
+                "percentage": "76.77"
             },
             {
                 "name": "Harley",
@@ -233,7 +275,21 @@
                 "score": "40",
                 "percentage": "68.18"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "121",
+            "Magic Power": "0",
+            "Armor": "20",
+            "Magic Resistance": "10",
+            "Hp": "2646",
+            "Mana": "453",
+            "Attack Speed": "0.916",
+            "Hp Regen": "39",
+            "Mana Regen": "16",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Alucard",
@@ -242,57 +298,71 @@
         "strongs": [
             {
                 "name": "Lesley",
-                "score": "497",
-                "percentage": "98.07"
+                "score": "498",
+                "percentage": "97.88"
             },
             {
                 "name": "Angela",
                 "score": "320",
-                "percentage": "81.62"
+                "percentage": "81.50"
             },
             {
                 "name": "Gusion",
-                "score": "146",
-                "percentage": "70.86"
+                "score": "148",
+                "percentage": "71.02"
             },
             {
                 "name": "Zilong",
-                "score": "135",
-                "percentage": "71.99"
+                "score": "136",
+                "percentage": "72.08"
             },
             {
                 "name": "Balmond",
-                "score": "131",
-                "percentage": "73.31"
+                "score": "132",
+                "percentage": "73.40"
             }
         ],
         "weaks": [
             {
                 "name": "Chou",
                 "score": "447",
-                "percentage": "80.74"
+                "percentage": "80.49"
             },
             {
                 "name": "Freya",
-                "score": "155",
-                "percentage": "69.52"
+                "score": "158",
+                "percentage": "69.65"
             },
             {
                 "name": "Sun",
-                "score": "96",
-                "percentage": "63.19"
+                "score": "98",
+                "percentage": "63.32"
             },
             {
                 "name": "Johnson",
                 "score": "85",
-                "percentage": "64.12"
+                "percentage": "64.03"
             },
             {
                 "name": "Akai",
                 "score": "75",
-                "percentage": "62.89"
+                "percentage": "62.80"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "123",
+            "Magic Power": "0",
+            "Armor": "21",
+            "Magic Resistance": "10",
+            "Hp": "2821",
+            "Mana": "0",
+            "Attack Speed": "0.9",
+            "Hp Regen": "39",
+            "Mana Regen": "0",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Angela",
@@ -301,28 +371,28 @@
         "strongs": [
             {
                 "name": "Alucard",
-                "score": "79",
-                "percentage": "64.91"
+                "score": "82",
+                "percentage": "65.30"
             },
             {
                 "name": "Akai",
-                "score": "53",
-                "percentage": "71.90"
+                "score": "52",
+                "percentage": "71.31"
             },
             {
                 "name": "Aldous",
                 "score": "36",
-                "percentage": "73.68"
+                "percentage": "73.08"
             },
             {
                 "name": "Minotaur",
-                "score": "35",
-                "percentage": "76.12"
+                "score": "34",
+                "percentage": "75.00"
             },
             {
                 "name": "Alpha",
                 "score": "28",
-                "percentage": "68.92"
+                "percentage": "68.42"
             }
         ],
         "weaks": [
@@ -348,10 +418,24 @@
             },
             {
                 "name": "Fanny",
-                "score": "21",
-                "percentage": "64.79"
+                "score": "19",
+                "percentage": "63.01"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "240",
+            "Physical Attack": "115",
+            "Magic Power": "0",
+            "Armor": "15",
+            "Magic Resistance": "10",
+            "Hp": "2421",
+            "Mana": "515",
+            "Attack Speed": "0.792",
+            "Hp Regen": "34",
+            "Mana Regen": "18",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Argus",
@@ -360,57 +444,71 @@
         "strongs": [
             {
                 "name": "Ruby",
-                "score": "201",
-                "percentage": "78.31"
+                "score": "205",
+                "percentage": "78.55"
             },
             {
                 "name": "Natalia",
                 "score": "110",
-                "percentage": "76.70"
+                "percentage": "76.44"
             },
             {
                 "name": "Miya",
                 "score": "97",
-                "percentage": "76.80"
+                "percentage": "76.50"
             },
             {
                 "name": "Rafaela",
-                "score": "96",
-                "percentage": "76.67"
+                "score": "95",
+                "percentage": "76.24"
             },
             {
                 "name": "Yi Sun-Shin",
-                "score": "94",
-                "percentage": "79.75"
+                "score": "93",
+                "percentage": "79.25"
             }
         ],
         "weaks": [
             {
                 "name": "Akai",
-                "score": "152",
-                "percentage": "73.17"
+                "score": "153",
+                "percentage": "73.11"
             },
             {
                 "name": "Chou",
-                "score": "68",
-                "percentage": "66.83"
+                "score": "70",
+                "percentage": "67.16"
             },
             {
                 "name": "Jawhead",
                 "score": "47",
-                "percentage": "63.28"
+                "percentage": "63.13"
             },
             {
                 "name": "Vexana",
-                "score": "31",
-                "percentage": "57.95"
+                "score": "30",
+                "percentage": "57.65"
             },
             {
                 "name": "Johnson",
                 "score": "20",
-                "percentage": "55.95"
+                "percentage": "55.88"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "124",
+            "Magic Power": "0",
+            "Armor": "21",
+            "Magic Resistance": "10",
+            "Hp": "2628",
+            "Mana": "0",
+            "Attack Speed": "0.916",
+            "Hp Regen": "40",
+            "Mana Regen": "0",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Aurora",
@@ -419,13 +517,13 @@
         "strongs": [
             {
                 "name": "Hayabusa",
-                "score": "134",
-                "percentage": "85.26"
+                "score": "135",
+                "percentage": "85.34"
             },
             {
                 "name": "Fanny",
-                "score": "79",
-                "percentage": "78.83"
+                "score": "80",
+                "percentage": "78.99"
             },
             {
                 "name": "Freya",
@@ -434,8 +532,8 @@
             },
             {
                 "name": "Gusion",
-                "score": "34",
-                "percentage": "75.76"
+                "score": "35",
+                "percentage": "76.12"
             },
             {
                 "name": "Eudora",
@@ -469,7 +567,21 @@
                 "score": "27",
                 "percentage": "78.72"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "245",
+            "Physical Attack": "110",
+            "Magic Power": "0",
+            "Armor": "17",
+            "Magic Resistance": "10",
+            "Hp": "2501",
+            "Mana": "500",
+            "Attack Speed": "0.8",
+            "Hp Regen": "34",
+            "Mana Regen": "23",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Balmond",
@@ -479,56 +591,70 @@
             {
                 "name": "Layla",
                 "score": "62",
-                "percentage": "70.13"
+                "percentage": "69.87"
             },
             {
                 "name": "Estes",
                 "score": "29",
-                "percentage": "72.31"
+                "percentage": "71.64"
             },
             {
                 "name": "Gord",
                 "score": "27",
-                "percentage": "77.55"
+                "percentage": "76.47"
             },
             {
                 "name": "Clint",
                 "score": "26",
-                "percentage": "73.21"
+                "percentage": "72.41"
             },
             {
                 "name": "Hanabi",
                 "score": "24",
-                "percentage": "68.18"
+                "percentage": "67.65"
             }
         ],
         "weaks": [
             {
                 "name": "Valir",
-                "score": "74",
-                "percentage": "78.03"
+                "score": "75",
+                "percentage": "77.78"
             },
             {
                 "name": "Ruby",
                 "score": "43",
-                "percentage": "76.54"
+                "percentage": "75.90"
             },
             {
                 "name": "Lancelot",
                 "score": "30",
-                "percentage": "77.78"
+                "percentage": "76.79"
             },
             {
                 "name": "Aurora",
-                "score": "27",
-                "percentage": "68.49"
+                "score": "26",
+                "percentage": "67.57"
             },
             {
                 "name": "Fanny",
-                "score": "23",
-                "percentage": "70.91"
+                "score": "22",
+                "percentage": "69.64"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "119",
+            "Magic Power": "0",
+            "Armor": "25",
+            "Magic Resistance": "10",
+            "Hp": "2796",
+            "Mana": "0",
+            "Attack Speed": "0.85",
+            "Hp Regen": "47",
+            "Mana Regen": "0",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Bane",
@@ -537,35 +663,35 @@
         "strongs": [
             {
                 "name": "Natalia",
-                "score": "53",
-                "percentage": "82.72"
+                "score": "55",
+                "percentage": "83.13"
             },
             {
                 "name": "Cyclops",
-                "score": "21",
-                "percentage": "72.34"
+                "score": "22",
+                "percentage": "72.92"
             },
             {
                 "name": "Zilong",
                 "score": "18",
-                "percentage": "71.43"
+                "percentage": "70.45"
             },
             {
                 "name": "Diggie",
-                "score": "16",
-                "percentage": "78.57"
+                "score": "17",
+                "percentage": "79.31"
             },
             {
                 "name": "Alpha",
-                "score": "14",
-                "percentage": "71.88"
+                "score": "15",
+                "percentage": "72.73"
             }
         ],
         "weaks": [
             {
                 "name": "Chou",
-                "score": "40",
-                "percentage": "80.30"
+                "score": "42",
+                "percentage": "80.88"
             },
             {
                 "name": "Argus",
@@ -573,21 +699,35 @@
                 "percentage": "82.93"
             },
             {
+                "name": "Johnson",
+                "score": "14",
+                "percentage": "85.00"
+            },
+            {
                 "name": "Clint",
                 "score": "14",
                 "percentage": "71.88"
             },
             {
-                "name": "Johnson",
-                "score": "13",
-                "percentage": "84.21"
-            },
-            {
-                "name": "Alucard",
+                "name": "Aurora",
                 "score": "9",
-                "percentage": "76.47"
+                "percentage": "90.91"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "117",
+            "Magic Power": "0",
+            "Armor": "23",
+            "Magic Resistance": "10",
+            "Hp": "2659",
+            "Mana": "433",
+            "Attack Speed": "0.85",
+            "Hp Regen": "42",
+            "Mana Regen": "12",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Bruno",
@@ -601,8 +741,8 @@
             },
             {
                 "name": "Layla",
-                "score": "118",
-                "percentage": "93.38"
+                "score": "117",
+                "percentage": "92.70"
             },
             {
                 "name": "Yi Sun-Shin",
@@ -611,8 +751,8 @@
             },
             {
                 "name": "Kagura",
-                "score": "38",
-                "percentage": "64.62"
+                "score": "37",
+                "percentage": "64.12"
             },
             {
                 "name": "Irithel",
@@ -623,8 +763,8 @@
         "weaks": [
             {
                 "name": "Lolita",
-                "score": "158",
-                "percentage": "81.85"
+                "score": "159",
+                "percentage": "81.93"
             },
             {
                 "name": "Karrie",
@@ -643,69 +783,97 @@
             },
             {
                 "name": "Fanny",
-                "score": "47",
-                "percentage": "64.78"
+                "score": "46",
+                "percentage": "64.38"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "240",
+            "Physical Attack": "116",
+            "Magic Power": "0",
+            "Armor": "17",
+            "Magic Resistance": "10",
+            "Hp": "2522",
+            "Mana": "439",
+            "Attack Speed": "0.85",
+            "Hp Regen": "30",
+            "Mana Regen": "15",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
-        "name": "Chang'e",
+        "name": "Chang'E",
         "role": "Mage",
         "image": "chang'e.jpg",
         "strongs": [
             {
                 "name": "Alice",
-                "score": "201",
-                "percentage": "74.69"
+                "score": "200",
+                "percentage": "74.39"
             },
             {
                 "name": "Angela",
-                "score": "94",
-                "percentage": "70.98"
+                "score": "95",
+                "percentage": "70.93"
             },
             {
                 "name": "Aldous",
                 "score": "70",
-                "percentage": "62.15"
+                "percentage": "62.07"
             },
             {
                 "name": "Akai",
-                "score": "15",
-                "percentage": "53.59"
+                "score": "16",
+                "percentage": "53.81"
             },
             {
                 "name": "Alpha",
-                "score": "-23",
-                "percentage": "43.78"
+                "score": "-22",
+                "percentage": "44.09"
             }
         ],
         "weaks": [
             {
                 "name": "Kaja",
                 "score": "261",
-                "percentage": "83.38"
+                "percentage": "83.21"
             },
             {
                 "name": "Selena",
-                "score": "135",
-                "percentage": "78.24"
+                "score": "136",
+                "percentage": "78.33"
             },
             {
                 "name": "Alucard",
-                "score": "47",
-                "percentage": "60.00"
+                "score": "49",
+                "percentage": "60.34"
             },
             {
                 "name": "Alpha",
-                "score": "23",
-                "percentage": "56.22"
+                "score": "22",
+                "percentage": "55.91"
             },
             {
                 "name": "Akai",
-                "score": "-15",
-                "percentage": "46.41"
+                "score": "-16",
+                "percentage": "46.19"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "240",
+            "Physical Attack": "115",
+            "Magic Power": "0",
+            "Armor": "16",
+            "Magic Resistance": "10",
+            "Hp": "2301",
+            "Mana": "506",
+            "Attack Speed": "0.808",
+            "Hp Regen": "34",
+            "Mana Regen": "21",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Chou",
@@ -714,57 +882,71 @@
         "strongs": [
             {
                 "name": "Fanny",
-                "score": "486",
-                "percentage": "78.93"
+                "score": "490",
+                "percentage": "78.96"
             },
             {
                 "name": "Angela",
-                "score": "281",
-                "percentage": "70.04"
+                "score": "284",
+                "percentage": "70.11"
             },
             {
                 "name": "Layla",
-                "score": "256",
-                "percentage": "74.33"
+                "score": "257",
+                "percentage": "74.20"
             },
             {
                 "name": "Cyclops",
-                "score": "186",
-                "percentage": "70.48"
+                "score": "189",
+                "percentage": "70.68"
             },
             {
                 "name": "Irithel",
-                "score": "166",
-                "percentage": "69.86"
+                "score": "167",
+                "percentage": "69.93"
             }
         ],
         "weaks": [
             {
                 "name": "Helcurt",
-                "score": "744",
-                "percentage": "79.62"
+                "score": "745",
+                "percentage": "79.59"
             },
             {
                 "name": "Martis",
                 "score": "315",
-                "percentage": "74.96"
+                "percentage": "74.80"
             },
             {
                 "name": "Sun",
-                "score": "294",
+                "score": "296",
                 "percentage": "74.18"
             },
             {
                 "name": "Diggie",
-                "score": "193",
-                "percentage": "66.16"
+                "score": "194",
+                "percentage": "66.11"
             },
             {
                 "name": "Jawhead",
                 "score": "187",
-                "percentage": "67.16"
+                "percentage": "67.03"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "121",
+            "Magic Power": "0",
+            "Armor": "23",
+            "Magic Resistance": "10",
+            "Hp": "2708",
+            "Mana": "0",
+            "Attack Speed": "0.884",
+            "Hp Regen": "39",
+            "Mana Regen": "0",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Clint",
@@ -773,8 +955,8 @@
         "strongs": [
             {
                 "name": "Moskov",
-                "score": "183",
-                "percentage": "95.98"
+                "score": "185",
+                "percentage": "96.02"
             },
             {
                 "name": "Miya",
@@ -788,8 +970,8 @@
             },
             {
                 "name": "Irithel",
-                "score": "37",
-                "percentage": "76.06"
+                "score": "36",
+                "percentage": "75.00"
             },
             {
                 "name": "Valir",
@@ -800,13 +982,13 @@
         "weaks": [
             {
                 "name": "Aldous",
-                "score": "84",
-                "percentage": "90.38"
+                "score": "86",
+                "percentage": "90.57"
             },
             {
                 "name": "Lancelot",
-                "score": "53",
-                "percentage": "87.32"
+                "score": "54",
+                "percentage": "87.50"
             },
             {
                 "name": "Grock",
@@ -823,7 +1005,21 @@
                 "score": "31",
                 "percentage": "69.14"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "240",
+            "Physical Attack": "115",
+            "Magic Power": "0",
+            "Armor": "20",
+            "Magic Resistance": "10",
+            "Hp": "2530",
+            "Mana": "450",
+            "Attack Speed": "0.842",
+            "Hp Regen": "36",
+            "Mana Regen": "15",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Cyclops",
@@ -832,57 +1028,71 @@
         "strongs": [
             {
                 "name": "Balmond",
-                "score": "75",
-                "percentage": "81.51"
-            },
-            {
-                "name": "Tigreal",
-                "score": "39",
-                "percentage": "76.71"
-            },
-            {
-                "name": "Bane",
-                "score": "38",
+                "score": "76",
                 "percentage": "81.67"
             },
             {
+                "name": "Tigreal",
+                "score": "40",
+                "percentage": "77.03"
+            },
+            {
+                "name": "Bane",
+                "score": "39",
+                "percentage": "81.97"
+            },
+            {
                 "name": "Rafaela",
-                "score": "32",
-                "percentage": "74.24"
+                "score": "33",
+                "percentage": "74.63"
             },
             {
                 "name": "Angela",
-                "score": "17",
-                "percentage": "86.96"
+                "score": "18",
+                "percentage": "87.50"
             }
         ],
         "weaks": [
             {
                 "name": "Lolita",
-                "score": "82",
-                "percentage": "78.08"
+                "score": "84",
+                "percentage": "78.38"
             },
             {
                 "name": "Lancelot",
                 "score": "57",
-                "percentage": "75.22"
+                "percentage": "74.78"
             },
             {
                 "name": "Helcurt",
-                "score": "48",
-                "percentage": "80.00"
+                "score": "49",
+                "percentage": "80.25"
             },
             {
                 "name": "Kagura",
                 "score": "39",
-                "percentage": "70.53"
+                "percentage": "70.10"
             },
             {
                 "name": "Gusion",
-                "score": "32",
-                "percentage": "68.18"
+                "score": "33",
+                "percentage": "68.54"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "240",
+            "Physical Attack": "112",
+            "Magic Power": "0",
+            "Armor": "18",
+            "Magic Resistance": "10",
+            "Hp": "2521",
+            "Mana": "500",
+            "Attack Speed": "0.8",
+            "Hp Regen": "38",
+            "Mana Regen": "20",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Diggie",
@@ -891,8 +1101,8 @@
         "strongs": [
             {
                 "name": "Akai",
-                "score": "115",
-                "percentage": "79.19"
+                "score": "119",
+                "percentage": "79.90"
             },
             {
                 "name": "Johnson",
@@ -911,15 +1121,15 @@
             },
             {
                 "name": "Gatotkaca",
-                "score": "43",
-                "percentage": "80.28"
+                "score": "42",
+                "percentage": "79.17"
             }
         ],
         "weaks": [
             {
                 "name": "Lancelot",
-                "score": "111",
-                "percentage": "83.23"
+                "score": "112",
+                "percentage": "83.33"
             },
             {
                 "name": "Lesley",
@@ -938,10 +1148,24 @@
             },
             {
                 "name": "Jawhead",
-                "score": "11",
-                "percentage": "68.97"
+                "score": "10",
+                "percentage": "66.67"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "250",
+            "Physical Attack": "115",
+            "Magic Power": "0",
+            "Armor": "16",
+            "Magic Resistance": "10",
+            "Hp": "2351",
+            "Mana": "490",
+            "Attack Speed": "0.8",
+            "Hp Regen": "36",
+            "Mana Regen": "20",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Estes",
@@ -950,28 +1174,28 @@
         "strongs": [
             {
                 "name": "Rafaela",
-                "score": "3",
-                "percentage": "51.55"
+                "score": "5",
+                "percentage": "52.53"
             },
             {
                 "name": "Lapu-Lapu",
-                "score": "0",
-                "percentage": "50.00"
+                "score": "1",
+                "percentage": "51.61"
             },
             {
                 "name": "Harley",
+                "score": "1",
+                "percentage": "52.63"
+            },
+            {
+                "name": "Angela",
                 "score": "0",
                 "percentage": "50.00"
             },
             {
-                "name": "Angela",
-                "score": "-1",
-                "percentage": "49.02"
-            },
-            {
                 "name": "Irithel",
-                "score": "-1",
-                "percentage": "46.67"
+                "score": "-2",
+                "percentage": "43.75"
             }
         ],
         "weaks": [
@@ -982,13 +1206,13 @@
             },
             {
                 "name": "Ruby",
-                "score": "36",
-                "percentage": "75.71"
+                "score": "35",
+                "percentage": "74.65"
             },
             {
                 "name": "Natalia",
-                "score": "32",
-                "percentage": "76.67"
+                "score": "31",
+                "percentage": "75.41"
             },
             {
                 "name": "Akai",
@@ -1000,7 +1224,21 @@
                 "score": "27",
                 "percentage": "81.40"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "240",
+            "Physical Attack": "120",
+            "Magic Power": "0",
+            "Armor": "13",
+            "Magic Resistance": "10",
+            "Hp": "2221",
+            "Mana": "545",
+            "Attack Speed": "0.8",
+            "Hp Regen": "36",
+            "Mana Regen": "18",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Eudora",
@@ -1010,56 +1248,70 @@
             {
                 "name": "Odette",
                 "score": "121",
-                "percentage": "82.01"
+                "percentage": "81.68"
             },
             {
                 "name": "Angela",
                 "score": "58",
-                "percentage": "80.85"
+                "percentage": "80.21"
             },
             {
                 "name": "Cyclops",
-                "score": "49",
-                "percentage": "84.51"
+                "score": "51",
+                "percentage": "84.93"
             },
             {
                 "name": "Gord",
-                "score": "45",
-                "percentage": "75.28"
+                "score": "44",
+                "percentage": "74.44"
             },
             {
                 "name": "Rafaela",
-                "score": "39",
-                "percentage": "76.71"
+                "score": "40",
+                "percentage": "76.32"
             }
         ],
         "weaks": [
             {
                 "name": "Lancelot",
-                "score": "85",
-                "percentage": "79.72"
+                "score": "86",
+                "percentage": "79.86"
             },
             {
                 "name": "Natalia",
-                "score": "39",
-                "percentage": "69.31"
+                "score": "40",
+                "percentage": "69.61"
+            },
+            {
+                "name": "Chou",
+                "score": "33",
+                "percentage": "74.63"
             },
             {
                 "name": "Argus",
                 "score": "33",
-                "percentage": "81.13"
-            },
-            {
-                "name": "Chou",
-                "score": "31",
-                "percentage": "73.85"
+                "percentage": "80.00"
             },
             {
                 "name": "Kagura",
-                "score": "26",
-                "percentage": "75.00"
+                "score": "29",
+                "percentage": "76.36"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "250",
+            "Physical Attack": "112",
+            "Magic Power": "0",
+            "Armor": "19",
+            "Magic Resistance": "10",
+            "Hp": "2524",
+            "Mana": "468",
+            "Attack Speed": "0.8",
+            "Hp Regen": "38",
+            "Mana Regen": "16",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Fanny",
@@ -1068,57 +1320,71 @@
         "strongs": [
             {
                 "name": "Estes",
-                "score": "341",
-                "percentage": "75.64"
+                "score": "344",
+                "percentage": "75.67"
             },
             {
                 "name": "Yi Sun-Shin",
                 "score": "189",
-                "percentage": "76.03"
+                "percentage": "75.89"
             },
             {
                 "name": "Karrie",
-                "score": "175",
-                "percentage": "72.61"
+                "score": "176",
+                "percentage": "72.68"
             },
             {
                 "name": "Rafaela",
-                "score": "171",
-                "percentage": "80.00"
+                "score": "172",
+                "percentage": "80.07"
             },
             {
                 "name": "Gord",
-                "score": "114",
-                "percentage": "74.36"
+                "score": "116",
+                "percentage": "74.58"
             }
         ],
         "weaks": [
             {
                 "name": "Helcurt",
-                "score": "813",
-                "percentage": "84.71"
+                "score": "812",
+                "percentage": "84.52"
             },
             {
                 "name": "Chou",
-                "score": "574",
-                "percentage": "86.70"
+                "score": "576",
+                "percentage": "86.64"
             },
             {
                 "name": "Saber",
-                "score": "394",
-                "percentage": "79.49"
+                "score": "396",
+                "percentage": "79.55"
             },
             {
                 "name": "Ruby",
-                "score": "355",
-                "percentage": "81.53"
+                "score": "358",
+                "percentage": "81.63"
             },
             {
                 "name": "Akai",
                 "score": "317",
-                "percentage": "79.52"
+                "percentage": "79.41"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "265",
+            "Physical Attack": "126",
+            "Magic Power": "0",
+            "Armor": "17",
+            "Magic Resistance": "10",
+            "Hp": "2526",
+            "Mana": "0",
+            "Attack Speed": "0.894",
+            "Hp Regen": "33",
+            "Mana Regen": "0",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Franco",
@@ -1177,7 +1443,21 @@
                 "score": "23",
                 "percentage": "71.70"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "116",
+            "Magic Power": "0",
+            "Armor": "25",
+            "Magic Resistance": "10",
+            "Hp": "2709",
+            "Mana": "440",
+            "Attack Speed": "0.826",
+            "Hp Regen": "46",
+            "Mana Regen": "10",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Freya",
@@ -1186,35 +1466,35 @@
         "strongs": [
             {
                 "name": "Roger",
-                "score": "259",
-                "percentage": "77.15"
+                "score": "261",
+                "percentage": "77.24"
             },
             {
                 "name": "Alucard",
-                "score": "146",
-                "percentage": "77.86"
+                "score": "147",
+                "percentage": "77.95"
             },
             {
                 "name": "Layla",
-                "score": "125",
-                "percentage": "78.54"
+                "score": "128",
+                "percentage": "78.83"
             },
             {
                 "name": "Alpha",
-                "score": "81",
-                "percentage": "74.55"
+                "score": "80",
+                "percentage": "74.10"
             },
             {
                 "name": "Ruby",
-                "score": "64",
-                "percentage": "70.25"
+                "score": "66",
+                "percentage": "70.63"
             }
         ],
         "weaks": [
             {
                 "name": "Hayabusa",
-                "score": "232",
-                "percentage": "75.44"
+                "score": "234",
+                "percentage": "75.55"
             },
             {
                 "name": "Kagura",
@@ -1224,19 +1504,33 @@
             {
                 "name": "Aurora",
                 "score": "45",
-                "percentage": "62.57"
+                "percentage": "62.43"
             },
             {
                 "name": "Selena",
-                "score": "35",
-                "percentage": "61.15"
+                "score": "36",
+                "percentage": "61.39"
             },
             {
                 "name": "Yi Sun-Shin",
-                "score": "10",
-                "percentage": "53.85"
+                "score": "9",
+                "percentage": "53.44"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "109",
+            "Magic Power": "0",
+            "Armor": "22",
+            "Magic Resistance": "10",
+            "Hp": "2801",
+            "Mana": "462",
+            "Attack Speed": "0.876",
+            "Hp Regen": "49",
+            "Mana Regen": "14",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Gatotkaca",
@@ -1245,57 +1539,71 @@
         "strongs": [
             {
                 "name": "Lesley",
-                "score": "293",
-                "percentage": "84.63"
+                "score": "298",
+                "percentage": "84.65"
             },
             {
                 "name": "Clint",
-                "score": "93",
-                "percentage": "82.52"
+                "score": "95",
+                "percentage": "82.76"
             },
             {
                 "name": "Roger",
-                "score": "68",
-                "percentage": "75.00"
+                "score": "72",
+                "percentage": "75.71"
             },
             {
                 "name": "Alucard",
-                "score": "65",
-                "percentage": "78.26"
+                "score": "68",
+                "percentage": "78.81"
             },
             {
                 "name": "Gord",
-                "score": "58",
-                "percentage": "72.66"
+                "score": "61",
+                "percentage": "73.28"
             }
         ],
         "weaks": [
             {
                 "name": "Vexana",
-                "score": "102",
-                "percentage": "74.06"
+                "score": "103",
+                "percentage": "74.18"
             },
             {
                 "name": "Karrie",
                 "score": "88",
-                "percentage": "78.21"
+                "percentage": "77.85"
             },
             {
                 "name": "Zhask",
-                "score": "38",
-                "percentage": "74.36"
+                "score": "39",
+                "percentage": "74.68"
             },
             {
                 "name": "Angela",
-                "score": "37",
-                "percentage": "68.69"
+                "score": "38",
+                "percentage": "69.00"
             },
             {
                 "name": "Alice",
-                "score": "32",
-                "percentage": "66.33"
+                "score": "33",
+                "percentage": "66.67"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "120",
+            "Magic Power": "0",
+            "Armor": "20",
+            "Magic Resistance": "10",
+            "Hp": "2709",
+            "Mana": "440",
+            "Attack Speed": "0.818",
+            "Hp Regen": "42",
+            "Mana Regen": "12",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Gord",
@@ -1304,8 +1612,8 @@
         "strongs": [
             {
                 "name": "Lesley",
-                "score": "105",
-                "percentage": "81.44"
+                "score": "104",
+                "percentage": "80.95"
             },
             {
                 "name": "Layla",
@@ -1331,8 +1639,8 @@
         "weaks": [
             {
                 "name": "Saber",
-                "score": "78",
-                "percentage": "81.45"
+                "score": "79",
+                "percentage": "81.60"
             },
             {
                 "name": "Hayabusa",
@@ -1354,7 +1662,21 @@
                 "score": "37",
                 "percentage": "84.91"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "240",
+            "Physical Attack": "110",
+            "Magic Power": "0",
+            "Armor": "13",
+            "Magic Resistance": "10",
+            "Hp": "2478",
+            "Mana": "570",
+            "Attack Speed": "0.772",
+            "Hp Regen": "32",
+            "Mana Regen": "25",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Grock",
@@ -1413,7 +1735,21 @@
                 "score": "7",
                 "percentage": "60.61"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "135",
+            "Magic Power": "0",
+            "Armor": "21",
+            "Magic Resistance": "10",
+            "Hp": "2819",
+            "Mana": "430",
+            "Attack Speed": "0.81",
+            "Hp Regen": "42",
+            "Mana Regen": "12",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Gusion",
@@ -1422,8 +1758,8 @@
         "strongs": [
             {
                 "name": "Layla",
-                "score": "518",
-                "percentage": "80.40"
+                "score": "519",
+                "percentage": "80.35"
             },
             {
                 "name": "Gord",
@@ -1442,15 +1778,15 @@
             },
             {
                 "name": "Lesley",
-                "score": "210",
-                "percentage": "72.73"
+                "score": "211",
+                "percentage": "72.79"
             }
         ],
         "weaks": [
             {
                 "name": "Chou",
                 "score": "652",
-                "percentage": "86.30"
+                "percentage": "86.22"
             },
             {
                 "name": "Jawhead",
@@ -1459,8 +1795,8 @@
             },
             {
                 "name": "Ruby",
-                "score": "275",
-                "percentage": "79.19"
+                "score": "277",
+                "percentage": "79.28"
             },
             {
                 "name": "Lolita",
@@ -1472,7 +1808,21 @@
                 "score": "139",
                 "percentage": "71.65"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "119",
+            "Magic Power": "0",
+            "Armor": "18",
+            "Magic Resistance": "10",
+            "Hp": "2578",
+            "Mana": "460",
+            "Attack Speed": "0.892",
+            "Hp Regen": "39",
+            "Mana Regen": "16",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Hanabi",
@@ -1481,8 +1831,8 @@
         "strongs": [
             {
                 "name": "Akai",
-                "score": "166",
-                "percentage": "71.07"
+                "score": "168",
+                "percentage": "71.21"
             },
             {
                 "name": "Angela",
@@ -1495,21 +1845,21 @@
                 "percentage": "71.00"
             },
             {
-                "name": "Sun",
-                "score": "50",
-                "percentage": "64.37"
+                "name": "Layla",
+                "score": "51",
+                "percentage": "63.78"
             },
             {
-                "name": "Layla",
-                "score": "50",
-                "percentage": "63.59"
+                "name": "Sun",
+                "score": "49",
+                "percentage": "64.00"
             }
         ],
         "weaks": [
             {
                 "name": "Martis",
-                "score": "147",
-                "percentage": "70.59"
+                "score": "148",
+                "percentage": "70.67"
             },
             {
                 "name": "Natalia",
@@ -1523,15 +1873,29 @@
             },
             {
                 "name": "Hayabusa",
-                "score": "105",
-                "percentage": "75.61"
+                "score": "106",
+                "percentage": "75.73"
             },
             {
                 "name": "Helcurt",
-                "score": "99",
-                "percentage": "74.87"
+                "score": "100",
+                "percentage": "75.00"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "245",
+            "Physical Attack": "115",
+            "Magic Power": "0",
+            "Armor": "17",
+            "Magic Resistance": "10",
+            "Hp": "2510",
+            "Mana": "390",
+            "Attack Speed": "0.85",
+            "Hp Regen": "30",
+            "Mana Regen": "15",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Harley",
@@ -1540,57 +1904,71 @@
         "strongs": [
             {
                 "name": "Lesley",
-                "score": "273",
-                "percentage": "85.83"
+                "score": "274",
+                "percentage": "85.68"
             },
             {
                 "name": "Pharsa",
                 "score": "132",
-                "percentage": "82.04"
+                "percentage": "81.73"
             },
             {
                 "name": "Layla",
-                "score": "122",
-                "percentage": "84.66"
+                "score": "121",
+                "percentage": "83.80"
             },
             {
                 "name": "Hanabi",
                 "score": "117",
-                "percentage": "84.21"
+                "percentage": "83.82"
             },
             {
                 "name": "Miya",
                 "score": "103",
-                "percentage": "78.77"
+                "percentage": "78.45"
             }
         ],
         "weaks": [
             {
                 "name": "Hayabusa",
                 "score": "256",
-                "percentage": "86.36"
+                "percentage": "86.16"
             },
             {
                 "name": "Saber",
                 "score": "138",
-                "percentage": "81.08"
+                "percentage": "80.80"
             },
             {
                 "name": "Eudora",
-                "score": "127",
-                "percentage": "83.25"
+                "score": "126",
+                "percentage": "82.81"
             },
             {
                 "name": "Hylos",
-                "score": "53",
-                "percentage": "66.88"
+                "score": "54",
+                "percentage": "67.09"
             },
             {
                 "name": "Kaja",
-                "score": "32",
-                "percentage": "75.00"
+                "score": "31",
+                "percentage": "73.85"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "240",
+            "Physical Attack": "114",
+            "Magic Power": "0",
+            "Armor": "19",
+            "Magic Resistance": "10",
+            "Hp": "2501",
+            "Mana": "490",
+            "Attack Speed": "0.848",
+            "Hp Regen": "36",
+            "Mana Regen": "18",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Hayabusa",
@@ -1626,8 +2004,8 @@
         "weaks": [
             {
                 "name": "Sun",
-                "score": "426",
-                "percentage": "83.07"
+                "score": "427",
+                "percentage": "83.10"
             },
             {
                 "name": "Helcurt",
@@ -1641,15 +2019,29 @@
             },
             {
                 "name": "Saber",
-                "score": "134",
-                "percentage": "65.80"
+                "score": "135",
+                "percentage": "65.88"
             },
             {
                 "name": "Akai",
                 "score": "94",
                 "percentage": "69.42"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "114",
+            "Magic Power": "0",
+            "Armor": "17",
+            "Magic Resistance": "10",
+            "Hp": "2679",
+            "Mana": "479",
+            "Attack Speed": "0.854",
+            "Hp Regen": "37",
+            "Mana Regen": "16",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Helcurt",
@@ -1659,7 +2051,7 @@
             {
                 "name": "Lancelot",
                 "score": "510",
-                "percentage": "77.48"
+                "percentage": "77.42"
             },
             {
                 "name": "Fanny",
@@ -1685,13 +2077,13 @@
         "weaks": [
             {
                 "name": "Akai",
-                "score": "441",
-                "percentage": "81.10"
+                "score": "443",
+                "percentage": "81.15"
             },
             {
                 "name": "Natalia",
-                "score": "256",
-                "percentage": "74.33"
+                "score": "257",
+                "percentage": "74.38"
             },
             {
                 "name": "Argus",
@@ -1708,7 +2100,21 @@
                 "score": "97",
                 "percentage": "87.02"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "255",
+            "Physical Attack": "121",
+            "Magic Power": "0",
+            "Armor": "17",
+            "Magic Resistance": "10",
+            "Hp": "2599",
+            "Mana": "440",
+            "Attack Speed": "0.87",
+            "Hp Regen": "35",
+            "Mana Regen": "16",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Hilda",
@@ -1754,8 +2160,8 @@
             },
             {
                 "name": "Ruby",
-                "score": "48",
-                "percentage": "74.00"
+                "score": "47",
+                "percentage": "73.27"
             },
             {
                 "name": "Karrie",
@@ -1767,7 +2173,21 @@
                 "score": "26",
                 "percentage": "63.54"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "123",
+            "Magic Power": "0",
+            "Armor": "24",
+            "Magic Resistance": "10",
+            "Hp": "2909",
+            "Mana": "0",
+            "Attack Speed": "0.842",
+            "Hp Regen": "42",
+            "Mana Regen": "0",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Hylos",
@@ -1804,29 +2224,43 @@
             {
                 "name": "Vexana",
                 "score": "110",
-                "percentage": "80.56"
+                "percentage": "80.22"
             },
             {
                 "name": "Karrie",
-                "score": "97",
-                "percentage": "80.12"
+                "score": "98",
+                "percentage": "80.25"
             },
             {
                 "name": "Valir",
-                "score": "68",
-                "percentage": "90.48"
+                "score": "67",
+                "percentage": "89.41"
             },
             {
                 "name": "Angela",
-                "score": "60",
-                "percentage": "77.27"
+                "score": "62",
+                "percentage": "77.68"
             },
             {
                 "name": "Zhask",
-                "score": "46",
-                "percentage": "73.96"
+                "score": "45",
+                "percentage": "73.20"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "105",
+            "Magic Power": "0",
+            "Armor": "17",
+            "Magic Resistance": "10",
+            "Hp": "3309",
+            "Mana": "430",
+            "Attack Speed": "0.826",
+            "Hp Regen": "42",
+            "Mana Regen": "12",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Irithel",
@@ -1835,28 +2269,28 @@
         "strongs": [
             {
                 "name": "Clint",
-                "score": "164",
-                "percentage": "78.08"
+                "score": "168",
+                "percentage": "78.38"
             },
             {
                 "name": "Hanabi",
-                "score": "73",
-                "percentage": "77.44"
+                "score": "74",
+                "percentage": "77.61"
             },
             {
                 "name": "Jawhead",
-                "score": "68",
-                "percentage": "77.87"
+                "score": "69",
+                "percentage": "78.05"
             },
             {
                 "name": "Alice",
-                "score": "44",
-                "percentage": "76.19"
+                "score": "45",
+                "percentage": "76.47"
             },
             {
                 "name": "Alucard",
                 "score": "31",
-                "percentage": "62.40"
+                "percentage": "62.20"
             }
         ],
         "weaks": [
@@ -1867,8 +2301,8 @@
             },
             {
                 "name": "Lesley",
-                "score": "82",
-                "percentage": "70.71"
+                "score": "84",
+                "percentage": "71.00"
             },
             {
                 "name": "Selena",
@@ -1877,15 +2311,29 @@
             },
             {
                 "name": "Hayabusa",
-                "score": "55",
-                "percentage": "74.77"
+                "score": "56",
+                "percentage": "75.00"
             },
             {
                 "name": "Zilong",
                 "score": "32",
                 "percentage": "64.55"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "250",
+            "Physical Attack": "110",
+            "Magic Power": "0",
+            "Armor": "17",
+            "Magic Resistance": "10",
+            "Hp": "2540",
+            "Mana": "438",
+            "Attack Speed": "0.826",
+            "Hp Regen": "35",
+            "Mana Regen": "15",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Jawhead",
@@ -1921,8 +2369,8 @@
         "weaks": [
             {
                 "name": "Martis",
-                "score": "191",
-                "percentage": "73.24"
+                "score": "192",
+                "percentage": "73.30"
             },
             {
                 "name": "Kaja",
@@ -1944,7 +2392,21 @@
                 "score": "42",
                 "percentage": "65.00"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "255",
+            "Physical Attack": "119",
+            "Magic Power": "0",
+            "Armor": "24",
+            "Magic Resistance": "10",
+            "Hp": "2778",
+            "Mana": "430",
+            "Attack Speed": "0.9",
+            "Hp Regen": "39",
+            "Mana Regen": "16",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Johnson",
@@ -1990,8 +2452,8 @@
             },
             {
                 "name": "Grock",
-                "score": "90",
-                "percentage": "85.71"
+                "score": "91",
+                "percentage": "85.83"
             },
             {
                 "name": "Zhask",
@@ -2003,7 +2465,21 @@
                 "score": "41",
                 "percentage": "69.16"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "255",
+            "Physical Attack": "112",
+            "Magic Power": "0",
+            "Armor": "27",
+            "Magic Resistance": "10",
+            "Hp": "2809",
+            "Mana": "0",
+            "Attack Speed": "0.826",
+            "Hp Regen": "42",
+            "Mana Regen": "12",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Kagura",
@@ -2012,13 +2488,13 @@
         "strongs": [
             {
                 "name": "Cyclops",
-                "score": "201",
-                "percentage": "86.81"
+                "score": "202",
+                "percentage": "86.86"
             },
             {
                 "name": "Layla",
-                "score": "178",
-                "percentage": "87.71"
+                "score": "177",
+                "percentage": "87.34"
             },
             {
                 "name": "Zhask",
@@ -2039,18 +2515,18 @@
         "weaks": [
             {
                 "name": "Fanny",
-                "score": "214",
-                "percentage": "79.23"
+                "score": "215",
+                "percentage": "79.29"
             },
             {
                 "name": "Harley",
-                "score": "144",
-                "percentage": "70.34"
+                "score": "143",
+                "percentage": "70.03"
             },
             {
                 "name": "Hayabusa",
-                "score": "135",
-                "percentage": "75.86"
+                "score": "137",
+                "percentage": "75.85"
             },
             {
                 "name": "Akai",
@@ -2059,10 +2535,24 @@
             },
             {
                 "name": "Ruby",
-                "score": "55",
-                "percentage": "60.78"
+                "score": "56",
+                "percentage": "60.94"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "240",
+            "Physical Attack": "118",
+            "Magic Power": "0",
+            "Armor": "19",
+            "Magic Resistance": "10",
+            "Hp": "2556",
+            "Mana": "519",
+            "Attack Speed": "0.816",
+            "Hp Regen": "35",
+            "Mana Regen": "21",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Kaja",
@@ -2091,8 +2581,8 @@
             },
             {
                 "name": "Clint",
-                "score": "24",
-                "percentage": "75.00"
+                "score": "23",
+                "percentage": "73.47"
             }
         ],
         "weaks": [
@@ -2121,7 +2611,21 @@
                 "score": "23",
                 "percentage": "78.05"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "270",
+            "Physical Attack": "120",
+            "Magic Power": "0",
+            "Armor": "20",
+            "Magic Resistance": "10",
+            "Hp": "2609",
+            "Mana": "400",
+            "Attack Speed": "0.842",
+            "Hp Regen": "52",
+            "Mana Regen": "12",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Karina",
@@ -2130,40 +2634,40 @@
         "strongs": [
             {
                 "name": "Layla",
-                "score": "414",
-                "percentage": "86.57"
+                "score": "417",
+                "percentage": "86.64"
             },
             {
                 "name": "Eudora",
-                "score": "161",
-                "percentage": "79.06"
+                "score": "160",
+                "percentage": "78.57"
             },
             {
                 "name": "Lesley",
-                "score": "150",
-                "percentage": "82.89"
+                "score": "151",
+                "percentage": "82.97"
             },
             {
                 "name": "Estes",
-                "score": "126",
-                "percentage": "82.47"
+                "score": "127",
+                "percentage": "82.56"
             },
             {
                 "name": "Bruno",
-                "score": "109",
-                "percentage": "77.11"
+                "score": "110",
+                "percentage": "77.23"
             }
         ],
         "weaks": [
             {
                 "name": "Grock",
-                "score": "230",
-                "percentage": "80.26"
+                "score": "232",
+                "percentage": "80.37"
             },
             {
                 "name": "Ruby",
-                "score": "122",
-                "percentage": "78.50"
+                "score": "123",
+                "percentage": "78.60"
             },
             {
                 "name": "Freya",
@@ -2172,15 +2676,29 @@
             },
             {
                 "name": "Chou",
-                "score": "93",
-                "percentage": "78.53"
+                "score": "91",
+                "percentage": "77.58"
             },
             {
                 "name": "Gusion",
-                "score": "77",
-                "percentage": "69.54"
+                "score": "78",
+                "percentage": "69.70"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "121",
+            "Magic Power": "0",
+            "Armor": "20",
+            "Magic Resistance": "10",
+            "Hp": "2633",
+            "Mana": "431",
+            "Attack Speed": "0.9",
+            "Hp Regen": "39",
+            "Mana Regen": "16",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Karrie",
@@ -2216,8 +2734,8 @@
         "weaks": [
             {
                 "name": "Lolita",
-                "score": "255",
-                "percentage": "78.27"
+                "score": "254",
+                "percentage": "78.10"
             },
             {
                 "name": "Lancelot",
@@ -2236,10 +2754,24 @@
             },
             {
                 "name": "Hanabi",
-                "score": "93",
-                "percentage": "69.46"
+                "score": "94",
+                "percentage": "69.58"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "240",
+            "Physical Attack": "112",
+            "Magic Power": "0",
+            "Armor": "17",
+            "Magic Resistance": "10",
+            "Hp": "2498",
+            "Mana": "440",
+            "Attack Speed": "0.8396",
+            "Hp Regen": "40",
+            "Mana Regen": "15",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Lancelot",
@@ -2248,57 +2780,71 @@
         "strongs": [
             {
                 "name": "Pharsa",
-                "score": "332",
-                "percentage": "82.42"
+                "score": "333",
+                "percentage": "82.33"
             },
             {
                 "name": "Layla",
-                "score": "192",
-                "percentage": "80.00"
+                "score": "193",
+                "percentage": "80.06"
             },
             {
                 "name": "Gord",
-                "score": "159",
-                "percentage": "79.34"
+                "score": "160",
+                "percentage": "79.41"
             },
             {
                 "name": "Clint",
-                "score": "117",
-                "percentage": "77.21"
+                "score": "115",
+                "percentage": "76.50"
             },
             {
                 "name": "Miya",
                 "score": "112",
-                "percentage": "78.87"
+                "percentage": "78.57"
             }
         ],
         "weaks": [
             {
                 "name": "Helcurt",
-                "score": "564",
-                "percentage": "95.34"
+                "score": "565",
+                "percentage": "95.20"
             },
             {
                 "name": "Ruby",
-                "score": "176",
-                "percentage": "77.67"
+                "score": "177",
+                "percentage": "77.74"
             },
             {
                 "name": "Akai",
-                "score": "146",
-                "percentage": "76.26"
+                "score": "147",
+                "percentage": "76.34"
             },
             {
                 "name": "Martis",
-                "score": "123",
-                "percentage": "74.90"
+                "score": "122",
+                "percentage": "74.60"
             },
             {
                 "name": "Natalia",
-                "score": "96",
-                "percentage": "67.91"
+                "score": "95",
+                "percentage": "67.66"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "124",
+            "Magic Power": "0",
+            "Armor": "16",
+            "Magic Resistance": "10",
+            "Hp": "2549",
+            "Mana": "450",
+            "Attack Speed": "0.87",
+            "Hp Regen": "35",
+            "Mana Regen": "16",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Lapu-Lapu",
@@ -2317,8 +2863,8 @@
             },
             {
                 "name": "Sun",
-                "score": "56",
-                "percentage": "75.45"
+                "score": "55",
+                "percentage": "74.77"
             },
             {
                 "name": "Balmond",
@@ -2334,8 +2880,8 @@
         "weaks": [
             {
                 "name": "Helcurt",
-                "score": "74",
-                "percentage": "73.42"
+                "score": "75",
+                "percentage": "73.58"
             },
             {
                 "name": "Gatotkaca",
@@ -2357,7 +2903,21 @@
                 "score": "34",
                 "percentage": "63.71"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "119",
+            "Magic Power": "0",
+            "Armor": "21",
+            "Magic Resistance": "10",
+            "Hp": "2628",
+            "Mana": "0",
+            "Attack Speed": "0.9",
+            "Hp Regen": "35",
+            "Mana Regen": "16",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Layla",
@@ -2367,56 +2927,70 @@
             {
                 "name": "Hanabi",
                 "score": "91",
-                "percentage": "74.86"
+                "percentage": "74.33"
             },
             {
                 "name": "Bruno",
-                "score": "71",
-                "percentage": "69.40"
+                "score": "70",
+                "percentage": "69.02"
             },
             {
                 "name": "Nana",
-                "score": "54",
-                "percentage": "73.28"
+                "score": "53",
+                "percentage": "72.65"
             },
             {
                 "name": "Odette",
-                "score": "38",
-                "percentage": "65.32"
+                "score": "39",
+                "percentage": "65.60"
             },
             {
                 "name": "Uranus",
-                "score": "27",
-                "percentage": "62.86"
+                "score": "26",
+                "percentage": "62.26"
             }
         ],
         "weaks": [
             {
                 "name": "Saber",
-                "score": "125",
-                "percentage": "82.38"
+                "score": "126",
+                "percentage": "82.47"
             },
             {
                 "name": "Lancelot",
-                "score": "106",
-                "percentage": "81.93"
+                "score": "107",
+                "percentage": "82.04"
+            },
+            {
+                "name": "Natalia",
+                "score": "105",
+                "percentage": "85.23"
             },
             {
                 "name": "Fanny",
                 "score": "105",
-                "percentage": "74.88"
-            },
-            {
-                "name": "Natalia",
-                "score": "104",
-                "percentage": "85.14"
+                "percentage": "74.65"
             },
             {
                 "name": "Gusion",
-                "score": "99",
-                "percentage": "82.35"
+                "score": "98",
+                "percentage": "81.82"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "240",
+            "Physical Attack": "118",
+            "Magic Power": "0",
+            "Armor": "15",
+            "Magic Resistance": "10",
+            "Hp": "2500",
+            "Mana": "424",
+            "Attack Speed": "0.85",
+            "Hp Regen": "27",
+            "Mana Regen": "14",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Lesley",
@@ -2425,8 +2999,8 @@
         "strongs": [
             {
                 "name": "Layla",
-                "score": "275",
-                "percentage": "74.60"
+                "score": "276",
+                "percentage": "74.64"
             },
             {
                 "name": "Rafaela",
@@ -2452,18 +3026,18 @@
         "weaks": [
             {
                 "name": "Gatotkaca",
-                "score": "274",
-                "percentage": "80.31"
+                "score": "275",
+                "percentage": "80.35"
             },
             {
                 "name": "Yi Sun-Shin",
                 "score": "250",
-                "percentage": "81.57"
+                "percentage": "81.41"
             },
             {
                 "name": "Gusion",
                 "score": "224",
-                "percentage": "78.28"
+                "percentage": "78.14"
             },
             {
                 "name": "Hayabusa",
@@ -2472,10 +3046,24 @@
             },
             {
                 "name": "Lancelot",
-                "score": "143",
-                "percentage": "72.41"
+                "score": "142",
+                "percentage": "72.19"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "240",
+            "Physical Attack": "115",
+            "Magic Power": "0",
+            "Armor": "14",
+            "Magic Resistance": "10",
+            "Hp": "2490",
+            "Mana": "0",
+            "Attack Speed": "0.826",
+            "Hp Regen": "36",
+            "Mana Regen": "0",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Lolita",
@@ -2504,15 +3092,15 @@
             },
             {
                 "name": "Moskov",
-                "score": "62",
-                "percentage": "86.90"
+                "score": "63",
+                "percentage": "87.06"
             }
         ],
         "weaks": [
             {
                 "name": "Valir",
-                "score": "66",
-                "percentage": "83.00"
+                "score": "65",
+                "percentage": "82.18"
             },
             {
                 "name": "Chou",
@@ -2521,8 +3109,8 @@
             },
             {
                 "name": "Kagura",
-                "score": "39",
-                "percentage": "91.49"
+                "score": "40",
+                "percentage": "91.67"
             },
             {
                 "name": "Ruby",
@@ -2534,7 +3122,21 @@
                 "score": "20",
                 "percentage": "75.00"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "115",
+            "Magic Power": "0",
+            "Armor": "27",
+            "Magic Resistance": "10",
+            "Hp": "2679",
+            "Mana": "480",
+            "Attack Speed": "0.786",
+            "Hp Regen": "48",
+            "Mana Regen": "12",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Martis",
@@ -2570,13 +3172,13 @@
         "weaks": [
             {
                 "name": "Freya",
-                "score": "49",
-                "percentage": "70.94"
+                "score": "50",
+                "percentage": "71.19"
             },
             {
                 "name": "Nana",
-                "score": "37",
-                "percentage": "62.59"
+                "score": "36",
+                "percentage": "62.16"
             },
             {
                 "name": "Chou",
@@ -2593,7 +3195,21 @@
                 "score": "9",
                 "percentage": "58.18"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "128",
+            "Magic Power": "0",
+            "Armor": "25",
+            "Magic Resistance": "10",
+            "Hp": "2738",
+            "Mana": "405",
+            "Attack Speed": "0.868",
+            "Hp Regen": "35",
+            "Mana Regen": "16",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Minotaur",
@@ -2652,7 +3268,21 @@
                 "score": "21",
                 "percentage": "67.21"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "123",
+            "Magic Power": "0",
+            "Armor": "23",
+            "Magic Resistance": "10",
+            "Hp": "2759",
+            "Mana": "0",
+            "Attack Speed": "0.73",
+            "Hp Regen": "44",
+            "Mana Regen": "0",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Miya",
@@ -2661,57 +3291,71 @@
         "strongs": [
             {
                 "name": "Layla",
-                "score": "194",
-                "percentage": "70.82"
+                "score": "197",
+                "percentage": "71.00"
             },
             {
                 "name": "Yi Sun-Shin",
-                "score": "148",
-                "percentage": "87.00"
+                "score": "149",
+                "percentage": "87.06"
             },
             {
                 "name": "Nana",
-                "score": "63",
-                "percentage": "66.67"
+                "score": "64",
+                "percentage": "66.84"
             },
             {
                 "name": "Bruno",
-                "score": "61",
-                "percentage": "73.64"
+                "score": "63",
+                "percentage": "74.05"
             },
             {
                 "name": "Angela",
-                "score": "60",
-                "percentage": "70.55"
+                "score": "61",
+                "percentage": "70.75"
             }
         ],
         "weaks": [
             {
                 "name": "Moskov",
                 "score": "137",
-                "percentage": "74.55"
+                "percentage": "74.38"
             },
             {
                 "name": "Lancelot",
-                "score": "101",
-                "percentage": "73.06"
+                "score": "100",
+                "percentage": "72.73"
             },
             {
                 "name": "Ruby",
                 "score": "73",
-                "percentage": "68.34"
+                "percentage": "68.16"
             },
             {
                 "name": "Gusion",
                 "score": "67",
-                "percentage": "75.97"
+                "percentage": "75.57"
             },
             {
                 "name": "Martis",
-                "score": "61",
-                "percentage": "71.33"
+                "score": "60",
+                "percentage": "70.83"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "240",
+            "Physical Attack": "117",
+            "Magic Power": "0",
+            "Armor": "17",
+            "Magic Resistance": "10",
+            "Hp": "2524",
+            "Mana": "445",
+            "Attack Speed": "0.85",
+            "Hp Regen": "30",
+            "Mana Regen": "15",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Moskov",
@@ -2720,8 +3364,8 @@
         "strongs": [
             {
                 "name": "Fanny",
-                "score": "309",
-                "percentage": "78.35"
+                "score": "308",
+                "percentage": "78.21"
             },
             {
                 "name": "Aldous",
@@ -2735,8 +3379,8 @@
             },
             {
                 "name": "Layla",
-                "score": "99",
-                "percentage": "72.60"
+                "score": "100",
+                "percentage": "72.73"
             },
             {
                 "name": "Miya",
@@ -2747,30 +3391,44 @@
         "weaks": [
             {
                 "name": "Natalia",
-                "score": "209",
-                "percentage": "75.68"
+                "score": "211",
+                "percentage": "75.79"
             },
             {
                 "name": "Hayabusa",
-                "score": "188",
-                "percentage": "78.83"
+                "score": "190",
+                "percentage": "78.96"
             },
             {
                 "name": "Jawhead",
-                "score": "93",
-                "percentage": "71.23"
+                "score": "94",
+                "percentage": "71.36"
             },
             {
                 "name": "Johnson",
-                "score": "85",
-                "percentage": "69.59"
+                "score": "86",
+                "percentage": "69.72"
             },
             {
                 "name": "Martis",
                 "score": "48",
                 "percentage": "71.05"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "240",
+            "Physical Attack": "117",
+            "Magic Power": "0",
+            "Armor": "16",
+            "Magic Resistance": "10",
+            "Hp": "2455",
+            "Mana": "420",
+            "Attack Speed": "0.814",
+            "Hp Regen": "32",
+            "Mana Regen": "15",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Nana",
@@ -2779,13 +3437,13 @@
         "strongs": [
             {
                 "name": "Gusion",
-                "score": "176",
-                "percentage": "79.33"
+                "score": "175",
+                "percentage": "79.07"
             },
             {
                 "name": "Lancelot",
-                "score": "82",
-                "percentage": "81.06"
+                "score": "83",
+                "percentage": "81.20"
             },
             {
                 "name": "Ruby",
@@ -2794,8 +3452,8 @@
             },
             {
                 "name": "Fanny",
-                "score": "62",
-                "percentage": "69.14"
+                "score": "61",
+                "percentage": "68.71"
             },
             {
                 "name": "Layla",
@@ -2806,8 +3464,8 @@
         "weaks": [
             {
                 "name": "Johnson",
-                "score": "82",
-                "percentage": "75.31"
+                "score": "83",
+                "percentage": "75.46"
             },
             {
                 "name": "Diggie",
@@ -2821,15 +3479,29 @@
             },
             {
                 "name": "Kagura",
-                "score": "36",
-                "percentage": "66.36"
+                "score": "38",
+                "percentage": "66.96"
             },
             {
                 "name": "Saber",
                 "score": "33",
                 "percentage": "64.60"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "250",
+            "Physical Attack": "115",
+            "Magic Power": "0",
+            "Armor": "17",
+            "Magic Resistance": "10",
+            "Hp": "2501",
+            "Mana": "510",
+            "Attack Speed": "0.864",
+            "Hp Regen": "34",
+            "Mana Regen": "18",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Natalia",
@@ -2838,40 +3510,40 @@
         "strongs": [
             {
                 "name": "Layla",
-                "score": "263",
-                "percentage": "82.00"
+                "score": "264",
+                "percentage": "81.88"
             },
             {
                 "name": "Clint",
-                "score": "115",
-                "percentage": "77.51"
+                "score": "117",
+                "percentage": "77.73"
             },
             {
                 "name": "Karrie",
-                "score": "112",
-                "percentage": "78.87"
+                "score": "113",
+                "percentage": "78.97"
             },
             {
                 "name": "Moskov",
                 "score": "102",
-                "percentage": "79.31"
+                "percentage": "78.98"
             },
             {
                 "name": "Estes",
-                "score": "85",
-                "percentage": "82.95"
+                "score": "86",
+                "percentage": "83.08"
             }
         ],
         "weaks": [
             {
                 "name": "Saber",
-                "score": "286",
-                "percentage": "79.92"
+                "score": "288",
+                "percentage": "79.88"
             },
             {
                 "name": "Rafaela",
-                "score": "255",
-                "percentage": "84.18"
+                "score": "256",
+                "percentage": "84.22"
             },
             {
                 "name": "Hylos",
@@ -2880,15 +3552,29 @@
             },
             {
                 "name": "Ruby",
-                "score": "132",
-                "percentage": "80.84"
+                "score": "134",
+                "percentage": "81.02"
             },
             {
                 "name": "Johnson",
                 "score": "63",
                 "percentage": "71.43"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "121",
+            "Magic Power": "0",
+            "Armor": "18",
+            "Magic Resistance": "10",
+            "Hp": "2589",
+            "Mana": "486",
+            "Attack Speed": "0.902",
+            "Hp Regen": "35",
+            "Mana Regen": "16",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Odette",
@@ -2897,8 +3583,8 @@
         "strongs": [
             {
                 "name": "Miya",
-                "score": "89",
-                "percentage": "73.80"
+                "score": "90",
+                "percentage": "73.94"
             },
             {
                 "name": "Angela",
@@ -2912,8 +3598,8 @@
             },
             {
                 "name": "Cyclops",
-                "score": "40",
-                "percentage": "77.03"
+                "score": "39",
+                "percentage": "76.00"
             },
             {
                 "name": "Bane",
@@ -2924,8 +3610,8 @@
         "weaks": [
             {
                 "name": "Kagura",
-                "score": "110",
-                "percentage": "83.54"
+                "score": "112",
+                "percentage": "83.73"
             },
             {
                 "name": "Freya",
@@ -2944,10 +3630,24 @@
             },
             {
                 "name": "Aurora",
-                "score": "49",
-                "percentage": "77.53"
+                "score": "50",
+                "percentage": "77.78"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "240",
+            "Physical Attack": "105",
+            "Magic Power": "0",
+            "Armor": "18",
+            "Magic Resistance": "10",
+            "Hp": "2491",
+            "Mana": "495",
+            "Attack Speed": "0.8",
+            "Hp Regen": "34",
+            "Mana Regen": "23",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Pharsa",
@@ -2956,28 +3656,28 @@
         "strongs": [
             {
                 "name": "Balmond",
-                "score": "81",
-                "percentage": "71.20"
+                "score": "82",
+                "percentage": "71.35"
             },
             {
                 "name": "Layla",
-                "score": "67",
-                "percentage": "75.97"
+                "score": "68",
+                "percentage": "76.15"
             },
             {
                 "name": "Miya",
-                "score": "61",
-                "percentage": "85.88"
+                "score": "62",
+                "percentage": "86.05"
             },
             {
                 "name": "Odette",
-                "score": "56",
-                "percentage": "79.17"
+                "score": "57",
+                "percentage": "79.38"
             },
             {
                 "name": "Sun",
-                "score": "36",
-                "percentage": "66.67"
+                "score": "37",
+                "percentage": "66.97"
             }
         ],
         "weaks": [
@@ -2988,8 +3688,8 @@
             },
             {
                 "name": "Johnson",
-                "score": "110",
-                "percentage": "76.96"
+                "score": "109",
+                "percentage": "76.59"
             },
             {
                 "name": "Harley",
@@ -2998,15 +3698,29 @@
             },
             {
                 "name": "Chou",
-                "score": "51",
-                "percentage": "77.42"
+                "score": "52",
+                "percentage": "77.66"
             },
             {
                 "name": "Akai",
-                "score": "48",
-                "percentage": "71.43"
+                "score": "47",
+                "percentage": "70.80"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "240",
+            "Physical Attack": "109",
+            "Magic Power": "0",
+            "Armor": "15",
+            "Magic Resistance": "10",
+            "Hp": "2421",
+            "Mana": "490",
+            "Attack Speed": "0.7904",
+            "Hp Regen": "34",
+            "Mana Regen": "18",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Rafaela",
@@ -3015,8 +3729,8 @@
         "strongs": [
             {
                 "name": "Natalia",
-                "score": "111",
-                "percentage": "86.75"
+                "score": "112",
+                "percentage": "86.84"
             },
             {
                 "name": "Alucard",
@@ -3030,30 +3744,30 @@
             },
             {
                 "name": "Estes",
-                "score": "17",
-                "percentage": "74.29"
+                "score": "16",
+                "percentage": "72.22"
             },
             {
                 "name": "Aldous",
-                "score": "16",
-                "percentage": "66.00"
+                "score": "15",
+                "percentage": "64.71"
             }
         ],
         "weaks": [
             {
                 "name": "Helcurt",
-                "score": "31",
-                "percentage": "80.39"
+                "score": "34",
+                "percentage": "81.48"
             },
             {
                 "name": "Alice",
-                "score": "26",
-                "percentage": "75.00"
+                "score": "27",
+                "percentage": "75.47"
             },
             {
                 "name": "Hayabusa",
-                "score": "25",
-                "percentage": "85.71"
+                "score": "26",
+                "percentage": "86.11"
             },
             {
                 "name": "Lancelot",
@@ -3065,7 +3779,21 @@
                 "score": "23",
                 "percentage": "67.16"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "245",
+            "Physical Attack": "117",
+            "Magic Power": "0",
+            "Armor": "15",
+            "Magic Resistance": "10",
+            "Hp": "2441",
+            "Mana": "545",
+            "Attack Speed": "0.792",
+            "Hp Regen": "36",
+            "Mana Regen": "23",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Roger",
@@ -3074,23 +3802,23 @@
         "strongs": [
             {
                 "name": "Zilong",
-                "score": "183",
-                "percentage": "68.12"
+                "score": "185",
+                "percentage": "68.03"
             },
             {
                 "name": "Saber",
-                "score": "115",
-                "percentage": "74.89"
+                "score": "116",
+                "percentage": "75.00"
             },
             {
                 "name": "Pharsa",
-                "score": "86",
-                "percentage": "73.12"
+                "score": "87",
+                "percentage": "73.26"
             },
             {
                 "name": "Moskov",
-                "score": "77",
-                "percentage": "68.60"
+                "score": "78",
+                "percentage": "68.75"
             },
             {
                 "name": "Estes",
@@ -3101,30 +3829,44 @@
         "weaks": [
             {
                 "name": "Freya",
-                "score": "378",
-                "percentage": "80.98"
+                "score": "386",
+                "percentage": "81.13"
             },
             {
                 "name": "Zhask",
-                "score": "106",
-                "percentage": "69.78"
+                "score": "110",
+                "percentage": "70.22"
             },
             {
                 "name": "Karina",
-                "score": "96",
-                "percentage": "89.34"
+                "score": "108",
+                "percentage": "89.13"
             },
             {
                 "name": "Natalia",
-                "score": "89",
-                "percentage": "68.46"
+                "score": "90",
+                "percentage": "68.29"
             },
             {
                 "name": "Aldous",
-                "score": "77",
-                "percentage": "66.38"
+                "score": "80",
+                "percentage": "66.67"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "240",
+            "Physical Attack": "120",
+            "Magic Power": "0",
+            "Armor": "22",
+            "Magic Resistance": "10",
+            "Hp": "2580",
+            "Mana": "450",
+            "Attack Speed": "0.842",
+            "Hp Regen": "36",
+            "Mana Regen": "15",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Ruby",
@@ -3133,8 +3875,8 @@
         "strongs": [
             {
                 "name": "Fanny",
-                "score": "534",
-                "percentage": "93.77"
+                "score": "533",
+                "percentage": "93.62"
             },
             {
                 "name": "Odette",
@@ -3183,7 +3925,21 @@
                 "score": "41",
                 "percentage": "62.89"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "114",
+            "Magic Power": "0",
+            "Armor": "23",
+            "Magic Resistance": "10",
+            "Hp": "2709",
+            "Mana": "430",
+            "Attack Speed": "0.858",
+            "Hp Regen": "30",
+            "Mana Regen": "14",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Saber",
@@ -3192,57 +3948,71 @@
         "strongs": [
             {
                 "name": "Fanny",
-                "score": "158",
-                "percentage": "83.47"
+                "score": "160",
+                "percentage": "83.61"
             },
             {
                 "name": "Vexana",
-                "score": "72",
-                "percentage": "82.73"
+                "score": "73",
+                "percentage": "82.88"
             },
             {
                 "name": "Hayabusa",
-                "score": "62",
-                "percentage": "75.00"
+                "score": "61",
+                "percentage": "74.40"
             },
             {
                 "name": "Layla",
-                "score": "59",
-                "percentage": "81.72"
+                "score": "58",
+                "percentage": "80.85"
             },
             {
                 "name": "Kagura",
-                "score": "56",
-                "percentage": "77.45"
+                "score": "57",
+                "percentage": "77.67"
             }
         ],
         "weaks": [
             {
                 "name": "Lolita",
                 "score": "87",
-                "percentage": "84.25"
+                "percentage": "83.72"
             },
             {
                 "name": "Johnson",
-                "score": "59",
-                "percentage": "84.71"
+                "score": "61",
+                "percentage": "85.06"
             },
             {
                 "name": "Grock",
-                "score": "52",
-                "percentage": "85.14"
+                "score": "54",
+                "percentage": "85.53"
             },
             {
                 "name": "Tigreal",
                 "score": "40",
-                "percentage": "73.26"
+                "percentage": "72.73"
             },
             {
                 "name": "Gatotkaca",
-                "score": "37",
-                "percentage": "80.33"
+                "score": "39",
+                "percentage": "80.95"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "118",
+            "Magic Power": "0",
+            "Armor": "17",
+            "Magic Resistance": "10",
+            "Hp": "2599",
+            "Mana": "443",
+            "Attack Speed": "0.87",
+            "Hp Regen": "35",
+            "Mana Regen": "16",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Selena",
@@ -3251,18 +4021,18 @@
         "strongs": [
             {
                 "name": "Layla",
-                "score": "157",
-                "percentage": "75.57"
+                "score": "161",
+                "percentage": "75.88"
             },
             {
-                "name": "Chang'e",
-                "score": "105",
-                "percentage": "78.69"
+                "name": "Chang'E",
+                "score": "116",
+                "percentage": "81.52"
             },
             {
                 "name": "Clint",
                 "score": "73",
-                "percentage": "91.01"
+                "percentage": "90.11"
             },
             {
                 "name": "Bruno",
@@ -3284,7 +4054,7 @@
             {
                 "name": "Hanabi",
                 "score": "135",
-                "percentage": "71.70"
+                "percentage": "71.57"
             },
             {
                 "name": "Aldous",
@@ -3301,7 +4071,21 @@
                 "score": "86",
                 "percentage": "70.67"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "240",
+            "Physical Attack": "110",
+            "Magic Power": "0",
+            "Armor": "15",
+            "Magic Resistance": "10",
+            "Hp": "2401",
+            "Mana": "490",
+            "Attack Speed": "0.804",
+            "Hp Regen": "34",
+            "Mana Regen": "18",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Sun",
@@ -3310,57 +4094,71 @@
         "strongs": [
             {
                 "name": "Alucard",
-                "score": "525",
+                "score": "528",
                 "percentage": "66.44"
             },
             {
                 "name": "Karrie",
                 "score": "205",
-                "percentage": "67.34"
+                "percentage": "67.28"
             },
             {
                 "name": "Bane",
-                "score": "127",
-                "percentage": "64.94"
+                "score": "128",
+                "percentage": "65.02"
             },
             {
                 "name": "Lolita",
-                "score": "125",
-                "percentage": "67.81"
+                "score": "126",
+                "percentage": "67.90"
             },
             {
                 "name": "Karina",
-                "score": "115",
-                "percentage": "65.42"
+                "score": "116",
+                "percentage": "65.51"
             }
         ],
         "weaks": [
             {
                 "name": "Roger",
-                "score": "693",
-                "percentage": "72.23"
+                "score": "699",
+                "percentage": "72.25"
             },
             {
                 "name": "Argus",
-                "score": "450",
-                "percentage": "76.66"
+                "score": "451",
+                "percentage": "76.50"
             },
             {
                 "name": "Irithel",
-                "score": "241",
-                "percentage": "72.61"
+                "score": "244",
+                "percentage": "72.76"
             },
             {
                 "name": "Valir",
-                "score": "159",
-                "percentage": "68.36"
+                "score": "161",
+                "percentage": "68.51"
             },
             {
                 "name": "Vexana",
-                "score": "108",
-                "percentage": "63.71"
+                "score": "109",
+                "percentage": "63.80"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "114",
+            "Magic Power": "0",
+            "Armor": "23",
+            "Magic Resistance": "10",
+            "Hp": "2758",
+            "Mana": "400",
+            "Attack Speed": "0.916",
+            "Hp Regen": "41",
+            "Mana Regen": "16",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Tigreal",
@@ -3369,8 +4167,8 @@
         "strongs": [
             {
                 "name": "Zilong",
-                "score": "109",
-                "percentage": "83.03"
+                "score": "108",
+                "percentage": "82.53"
             },
             {
                 "name": "Odette",
@@ -3379,8 +4177,8 @@
             },
             {
                 "name": "Aldous",
-                "score": "52",
-                "percentage": "80.95"
+                "score": "51",
+                "percentage": "80.00"
             },
             {
                 "name": "Karina",
@@ -3396,8 +4194,8 @@
         "weaks": [
             {
                 "name": "Chou",
-                "score": "65",
-                "percentage": "78.26"
+                "score": "64",
+                "percentage": "77.59"
             },
             {
                 "name": "Akai",
@@ -3411,15 +4209,29 @@
             },
             {
                 "name": "Nana",
-                "score": "30",
-                "percentage": "69.23"
+                "score": "29",
+                "percentage": "68.35"
             },
             {
                 "name": "Aurora",
                 "score": "12",
                 "percentage": "83.33"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "112",
+            "Magic Power": "0",
+            "Armor": "25",
+            "Magic Resistance": "10",
+            "Hp": "2890",
+            "Mana": "450",
+            "Attack Speed": "0.826",
+            "Hp Regen": "42",
+            "Mana Regen": "12",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Uranus",
@@ -3478,7 +4290,21 @@
                 "score": "19",
                 "percentage": "58.72"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "260",
+            "Physical Attack": "144",
+            "Magic Power": "0",
+            "Armor": "34",
+            "Magic Resistance": "16",
+            "Hp": "3529",
+            "Mana": "855",
+            "Attack Speed": "0.89",
+            "Hp Regen": "43",
+            "Mana Regen": "16",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Valir",
@@ -3488,27 +4314,27 @@
             {
                 "name": "Selena",
                 "score": "127",
-                "percentage": "77.02"
+                "percentage": "76.79"
             },
             {
                 "name": "Alucard",
-                "score": "88",
-                "percentage": "76.83"
+                "score": "90",
+                "percentage": "77.11"
             },
             {
                 "name": "Roger",
-                "score": "46",
-                "percentage": "72.12"
+                "score": "47",
+                "percentage": "72.38"
             },
             {
                 "name": "Franco",
-                "score": "41",
-                "percentage": "73.56"
+                "score": "43",
+                "percentage": "74.16"
             },
             {
                 "name": "Angela",
-                "score": "38",
-                "percentage": "71.11"
+                "score": "39",
+                "percentage": "71.43"
             }
         ],
         "weaks": [
@@ -3524,20 +4350,34 @@
             },
             {
                 "name": "Natalia",
-                "score": "77",
-                "percentage": "81.30"
+                "score": "78",
+                "percentage": "81.45"
             },
             {
                 "name": "Harley",
-                "score": "52",
-                "percentage": "75.00"
+                "score": "53",
+                "percentage": "75.24"
             },
             {
                 "name": "Karina",
                 "score": "50",
                 "percentage": "71.19"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "245",
+            "Physical Attack": "105",
+            "Magic Power": "0",
+            "Armor": "18",
+            "Magic Resistance": "18",
+            "Hp": "2516",
+            "Mana": "495",
+            "Attack Speed": "0.8",
+            "Hp Regen": "34",
+            "Mana Regen": "18",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Vexana",
@@ -3596,7 +4436,21 @@
                 "score": "34",
                 "percentage": "74.29"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "240",
+            "Physical Attack": "112",
+            "Magic Power": "0",
+            "Armor": "17",
+            "Magic Resistance": "10",
+            "Hp": "2481",
+            "Mana": "490",
+            "Attack Speed": "0.8",
+            "Hp Regen": "38",
+            "Mana Regen": "20",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Yi Sun-Shin",
@@ -3605,8 +4459,8 @@
         "strongs": [
             {
                 "name": "Valir",
-                "score": "51",
-                "percentage": "72.57"
+                "score": "52",
+                "percentage": "72.81"
             },
             {
                 "name": "Layla",
@@ -3632,8 +4486,8 @@
         "weaks": [
             {
                 "name": "Kagura",
-                "score": "124",
-                "percentage": "93.66"
+                "score": "125",
+                "percentage": "93.71"
             },
             {
                 "name": "Hayabusa",
@@ -3655,7 +4509,21 @@
                 "score": "19",
                 "percentage": "63.77"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "240",
+            "Physical Attack": "116",
+            "Magic Power": "0",
+            "Armor": "18",
+            "Magic Resistance": "10",
+            "Hp": "2520",
+            "Mana": "448",
+            "Attack Speed": "0.858",
+            "Hp Regen": "36",
+            "Mana Regen": "15",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Zhask",
@@ -3674,8 +4542,8 @@
             },
             {
                 "name": "Layla",
-                "score": "66",
-                "percentage": "76.61"
+                "score": "67",
+                "percentage": "76.80"
             },
             {
                 "name": "Rafaela",
@@ -3691,13 +4559,13 @@
         "weaks": [
             {
                 "name": "Lancelot",
-                "score": "190",
-                "percentage": "77.30"
+                "score": "189",
+                "percentage": "77.08"
             },
             {
                 "name": "Helcurt",
-                "score": "146",
-                "percentage": "84.76"
+                "score": "148",
+                "percentage": "84.91"
             },
             {
                 "name": "Natalia",
@@ -3707,14 +4575,28 @@
             {
                 "name": "Akai",
                 "score": "71",
-                "percentage": "69.40"
+                "percentage": "69.19"
             },
             {
                 "name": "Argus",
-                "score": "65",
-                "percentage": "69.23"
+                "score": "64",
+                "percentage": "68.82"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "240",
+            "Physical Attack": "107",
+            "Magic Power": "0",
+            "Armor": "15",
+            "Magic Resistance": "10",
+            "Hp": "2401",
+            "Mana": "490",
+            "Attack Speed": "0.8",
+            "Hp Regen": "34",
+            "Mana Regen": "20",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     },
     {
         "name": "Zilong",
@@ -3723,8 +4605,8 @@
         "strongs": [
             {
                 "name": "Odette",
-                "score": "185",
-                "percentage": "76.66"
+                "score": "186",
+                "percentage": "76.72"
             },
             {
                 "name": "Pharsa",
@@ -3733,25 +4615,25 @@
             },
             {
                 "name": "Eudora",
-                "score": "83",
-                "percentage": "72.93"
+                "score": "82",
+                "percentage": "72.53"
             },
             {
                 "name": "Yi Sun-Shin",
-                "score": "70",
-                "percentage": "74.31"
+                "score": "69",
+                "percentage": "73.79"
             },
             {
                 "name": "Layla",
-                "score": "68",
-                "percentage": "74.29"
+                "score": "69",
+                "percentage": "74.47"
             }
         ],
         "weaks": [
             {
                 "name": "Alucard",
-                "score": "227",
-                "percentage": "74.20"
+                "score": "228",
+                "percentage": "74.26"
             },
             {
                 "name": "Roger",
@@ -3765,14 +4647,28 @@
             },
             {
                 "name": "Alpha",
-                "score": "66",
-                "percentage": "71.71"
+                "score": "67",
+                "percentage": "71.90"
             },
             {
                 "name": "Kagura",
                 "score": "56",
                 "percentage": "68.18"
             }
-        ]
+        ],
+        "stats": {
+            "Movement Speed": "265",
+            "Physical Attack": "123",
+            "Magic Power": "0",
+            "Armor": "25",
+            "Magic Resistance": "10",
+            "Hp": "2689",
+            "Mana": "405",
+            "Attack Speed": "0.964",
+            "Hp Regen": "35",
+            "Mana Regen": "16",
+            "Basic Attk Crit Rate": "0",
+            "Ability Crit Rate": "0"
+        }
     }
 ]
