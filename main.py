@@ -1,13 +1,14 @@
 import json
 import pandas
 import numpy
+import sys
 
 # Resource
 f = open("data.json")
 data = json.load(f)
 
 # Enemies
-enemies = ["Layla", "Akai", "Nana", "Hayabusa", "Fanny"]
+enemies = sys.argv[1:]
 
 temp = {}
 for hero in data:
@@ -22,4 +23,6 @@ gmeans = pandas.Series({}, dtype='float64')
 for hero in filtered_data.index:
     gmeans[hero] = numpy.exp(numpy.log(filtered_data.loc[hero]).mean())
 
-print(gmeans.sort_values(ascending=False))
+gmeans = gmeans.sort_values(ascending=False)
+
+print(gmeans[:5].to_json())

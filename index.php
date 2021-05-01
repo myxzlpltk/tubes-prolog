@@ -54,7 +54,7 @@
                 var heroes = $('#selectable > .ui-selected .hero-name').map((i, e) => e.innerText).toArray();
 
                 let params = new URLSearchParams();
-                heroes.forEach(hero => params.append('heroes[]', hero));
+                heroes.forEach(hero => params.append('enemies[]', hero));
 
                 window.location.href = "./calculate.php?" + params.toString()
             })

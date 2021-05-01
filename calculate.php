@@ -2,19 +2,26 @@
 
 include "bootstrap.php";
 
-$heroes = isset($_GET['heroes']) ? $_GET['heroes'] : [];
+$enemies = isset($_GET['enemies']) ? $_GET['enemies'] : [];
 
-if(!$app->validateInput($heroes)){
+if(!$app->validateInput($enemies)){
     echo "Input tidak valid";
     http_response_code(403);
     exit();
 }
 
 // TODO calculate using prolog
-$result = [];
+$args = implode(" ", array_map(fn($x) => "\"{$x}\"", $enemies));
+$console = exec("python main.py {$args}");
+$result = json_decode($console, true);
+$heroes = array_keys($result);
 $myHeroes = array_filter((array)$app->heroes, function (Hero $hero) use ($heroes){
     return in_array($hero->getName(), $heroes);
 });
+
+$temp = $result;
+ksort($temp);
+array_multisort(array_values($temp), SORT_DESC, $myHeroes);
 
 ?>
 <!doctype html>
@@ -47,7 +54,7 @@ $myHeroes = array_filter((array)$app->heroes, function (Hero $hero) use ($heroes
 											<h5 class="card-title mb-0"><?= e($hero->getName()) ?><br></h5>
 											<span class="small text-muted"><?= e($hero->getRole()) ?></span>
 										</div>
-										<span class="badge bg-success">Rate 95%</span>
+										<span class="badge bg-success">Rate <?= e(round($result[$hero->getName()], 2)) ?>%</span>
 									</div>
 									<div class="row gx-1">
                                         <?php foreach($hero->getStats() as $key => $value): ?>
