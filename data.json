@@ -342,28 +342,28 @@
         "enemies": [
             {
                 "name": "Layla",
-                "diff": 745,
-                "percentage": 79.97
+                "diff": 746,
+                "percentage": 79.98
             },
             {
                 "name": "Estes",
-                "diff": 327,
-                "percentage": 77.11
+                "diff": 328,
+                "percentage": 77.15
             },
             {
                 "name": "Gord",
-                "diff": 317,
-                "percentage": 84.09
+                "diff": 318,
+                "percentage": 84.12
             },
             {
                 "name": "Karrie",
-                "diff": 272,
-                "percentage": 71.86
+                "diff": 273,
+                "percentage": 71.91
             },
             {
                 "name": "Angela",
-                "diff": 268,
-                "percentage": 75.57
+                "diff": 269,
+                "percentage": 75.62
             },
             {
                 "name": "Lesley",
@@ -452,8 +452,8 @@
             },
             {
                 "name": "Kagura",
-                "diff": 51,
-                "percentage": 70.4
+                "diff": 50,
+                "percentage": 69.84
             },
             {
                 "name": "Chang'E",
@@ -462,8 +462,8 @@
             },
             {
                 "name": "Cyclops",
-                "diff": 48,
-                "percentage": 73.08
+                "diff": 47,
+                "percentage": 72.38
             },
             {
                 "name": "Clint",
@@ -632,28 +632,28 @@
             },
             {
                 "name": "Ruby",
-                "diff": -88,
-                "percentage": 29.44
+                "diff": -87,
+                "percentage": 29.77
             },
             {
                 "name": "Gatotkaca",
-                "diff": -236,
-                "percentage": 28.15
+                "diff": -235,
+                "percentage": 28.28
             },
             {
                 "name": "Akai",
-                "diff": -267,
-                "percentage": 25.77
+                "diff": -268,
+                "percentage": 25.72
             },
             {
                 "name": "Argus",
-                "diff": -392,
-                "percentage": 26.1
+                "diff": -393,
+                "percentage": 26.07
             },
             {
                 "name": "Chou",
-                "diff": -1012,
-                "percentage": 18.3
+                "diff": -1013,
+                "percentage": 18.28
             }
         ],
         "stats": {
@@ -2709,8 +2709,8 @@
             },
             {
                 "name": "Clint",
-                "diff": 27,
-                "percentage": 72.88
+                "diff": 26,
+                "percentage": 71.67
             },
             {
                 "name": "Hanabi",
@@ -4348,8 +4348,8 @@
             },
             {
                 "name": "Helcurt",
-                "diff": -747,
-                "percentage": 20.61
+                "diff": -748,
+                "percentage": 20.6
             }
         ],
         "stats": {
@@ -6726,8 +6726,8 @@
         "enemies": [
             {
                 "name": "Roger",
-                "diff": 260,
-                "percentage": 77.08
+                "diff": 259,
+                "percentage": 76.92
             },
             {
                 "name": "Alucard",
@@ -7062,23 +7062,23 @@
         "enemies": [
             {
                 "name": "Lesley",
-                "diff": 299,
-                "percentage": 84.37
+                "diff": 298,
+                "percentage": 84.17
             },
             {
                 "name": "Clint",
-                "diff": 95,
-                "percentage": 82.76
+                "diff": 94,
+                "percentage": 82.19
             },
             {
                 "name": "Roger",
-                "diff": 73,
-                "percentage": 75.52
+                "diff": 74,
+                "percentage": 75.69
             },
             {
                 "name": "Alucard",
-                "diff": 69,
-                "percentage": 78.99
+                "diff": 71,
+                "percentage": 79.34
             },
             {
                 "name": "Gord",
@@ -8075,8 +8075,8 @@
             },
             {
                 "name": "Gord",
-                "diff": 378,
-                "percentage": 87.95
+                "diff": 379,
+                "percentage": 87.98
             },
             {
                 "name": "Pharsa",
@@ -8125,8 +8125,8 @@
             },
             {
                 "name": "Bane",
-                "diff": 100,
-                "percentage": 80.86
+                "diff": 101,
+                "percentage": 80.98
             },
             {
                 "name": "Irithel",
@@ -9052,8 +9052,8 @@
             },
             {
                 "name": "Hayabusa",
-                "diff": -256,
-                "percentage": 13.84
+                "diff": -257,
+                "percentage": 13.8
             }
         ],
         "stats": {
@@ -9805,8 +9805,8 @@
             },
             {
                 "name": "Alpha",
-                "diff": 17,
-                "percentage": 75.76
+                "diff": 16,
+                "percentage": 73.53
             },
             {
                 "name": "Diggie",
@@ -9814,24 +9814,14 @@
                 "percentage": 68.42
             },
             {
-                "name": "Angela",
-                "diff": 13,
-                "percentage": 84.21
-            },
-            {
                 "name": "Hayabusa",
                 "diff": 13,
                 "percentage": 88.24
             },
             {
-                "name": "Clint",
-                "diff": 12,
-                "percentage": 77.27
-            },
-            {
-                "name": "Miya",
-                "diff": 12,
-                "percentage": 71.43
+                "name": "Angela",
+                "diff": 13,
+                "percentage": 84.21
             },
             {
                 "name": "Gord",
@@ -9839,9 +9829,19 @@
                 "percentage": 75.0
             },
             {
+                "name": "Miya",
+                "diff": 12,
+                "percentage": 71.43
+            },
+            {
                 "name": "Karina",
                 "diff": 12,
                 "percentage": 73.08
+            },
+            {
+                "name": "Clint",
+                "diff": 12,
+                "percentage": 77.27
             },
             {
                 "name": "Pharsa",
@@ -9854,14 +9854,14 @@
                 "percentage": 67.74
             },
             {
-                "name": "Moskov",
-                "diff": 10,
-                "percentage": 72.73
-            },
-            {
                 "name": "Saber",
                 "diff": 10,
                 "percentage": 77.78
+            },
+            {
+                "name": "Moskov",
+                "diff": 10,
+                "percentage": 72.73
             },
             {
                 "name": "Yi Sun-Shin",
@@ -9874,14 +9874,14 @@
                 "percentage": 62.86
             },
             {
-                "name": "Lancelot",
-                "diff": 8,
-                "percentage": 63.33
-            },
-            {
                 "name": "Freya",
                 "diff": 8,
                 "percentage": 59.52
+            },
+            {
+                "name": "Lancelot",
+                "diff": 8,
+                "percentage": 63.33
             },
             {
                 "name": "Helcurt",
@@ -11435,8 +11435,8 @@
             },
             {
                 "name": "Layla",
-                "diff": 179,
-                "percentage": 87.14
+                "diff": 180,
+                "percentage": 87.19
             },
             {
                 "name": "Zhask",
@@ -11445,18 +11445,18 @@
             },
             {
                 "name": "Clint",
-                "diff": 149,
-                "percentage": 85.99
+                "diff": 150,
+                "percentage": 86.06
             },
             {
                 "name": "Gord",
-                "diff": 138,
-                "percentage": 82.55
+                "diff": 139,
+                "percentage": 82.63
             },
             {
                 "name": "Karrie",
-                "diff": 84,
-                "percentage": 71.65
+                "diff": 85,
+                "percentage": 71.79
             },
             {
                 "name": "Miya",
@@ -11720,28 +11720,28 @@
             },
             {
                 "name": "Ruby",
-                "diff": -57,
-                "percentage": 38.91
+                "diff": -56,
+                "percentage": 39.15
             },
             {
                 "name": "Akai",
-                "diff": -65,
-                "percentage": 33.5
+                "diff": -66,
+                "percentage": 33.33
             },
             {
                 "name": "Hayabusa",
-                "diff": -139,
-                "percentage": 24.16
+                "diff": -140,
+                "percentage": 24.07
             },
             {
                 "name": "Harley",
                 "diff": -143,
-                "percentage": 30.08
+                "percentage": 30.19
             },
             {
                 "name": "Fanny",
-                "diff": -215,
-                "percentage": 21.33
+                "diff": -216,
+                "percentage": 21.28
             }
         ],
         "stats": {
@@ -12127,8 +12127,8 @@
             },
             {
                 "name": "Valir",
-                "diff": 74,
-                "percentage": 68.5
+                "diff": 73,
+                "percentage": 68.16
             },
             {
                 "name": "Gord",
@@ -12157,8 +12157,8 @@
             },
             {
                 "name": "Clint",
-                "diff": 49,
-                "percentage": 78.16
+                "diff": 48,
+                "percentage": 77.27
             },
             {
                 "name": "Rafaela",
@@ -13751,13 +13751,13 @@
             },
             {
                 "name": "Lancelot",
-                "diff": -109,
-                "percentage": 17.75
+                "diff": -110,
+                "percentage": 17.65
             },
             {
                 "name": "Saber",
-                "diff": -128,
-                "percentage": 17.68
+                "diff": -129,
+                "percentage": 17.59
             }
         ],
         "stats": {
@@ -14454,8 +14454,8 @@
         "enemies": [
             {
                 "name": "Gusion",
-                "diff": 99,
-                "percentage": 80.37
+                "diff": 100,
+                "percentage": 80.49
             },
             {
                 "name": "Layla",
@@ -14484,8 +14484,8 @@
             },
             {
                 "name": "Alpha",
-                "diff": 24,
-                "percentage": 69.35
+                "diff": 25,
+                "percentage": 69.84
             },
             {
                 "name": "Bruno",
@@ -15462,8 +15462,8 @@
         "enemies": [
             {
                 "name": "Fanny",
-                "diff": 312,
-                "percentage": 78.36
+                "diff": 311,
+                "percentage": 78.22
             },
             {
                 "name": "Aldous",
@@ -15767,13 +15767,13 @@
             },
             {
                 "name": "Hayabusa",
-                "diff": -190,
-                "percentage": 21.04
+                "diff": -191,
+                "percentage": 20.97
             },
             {
                 "name": "Natalia",
-                "diff": -211,
-                "percentage": 24.21
+                "diff": -212,
+                "percentage": 24.15
             }
         ],
         "stats": {
@@ -16173,6 +16173,11 @@
                 "percentage": 69.84
             },
             {
+                "name": "Roger",
+                "diff": 46,
+                "percentage": 69.49
+            },
+            {
                 "name": "Bruno",
                 "diff": 46,
                 "percentage": 81.94
@@ -16181,11 +16186,6 @@
                 "name": "Vexana",
                 "diff": 45,
                 "percentage": 73.68
-            },
-            {
-                "name": "Roger",
-                "diff": 45,
-                "percentage": 69.23
             },
             {
                 "name": "Aurora",
@@ -18150,8 +18150,8 @@
         "enemies": [
             {
                 "name": "Fanny",
-                "diff": 163,
-                "percentage": 83.82
+                "diff": 162,
+                "percentage": 83.47
             },
             {
                 "name": "Vexana",
@@ -19448,8 +19448,8 @@
             },
             {
                 "name": "Hylos",
-                "diff": -11,
-                "percentage": 35.9
+                "diff": -12,
+                "percentage": 35.0
             },
             {
                 "name": "Nana",
@@ -21224,8 +21224,8 @@
             },
             {
                 "name": "Irithel",
-                "diff": 38,
-                "percentage": 83.93
+                "diff": 37,
+                "percentage": 82.46
             },
             {
                 "name": "Zhask",
@@ -21303,14 +21303,14 @@
                 "percentage": 58.7
             },
             {
-                "name": "Balmond",
-                "diff": 7,
-                "percentage": 55.22
-            },
-            {
                 "name": "Saber",
                 "diff": 7,
                 "percentage": 56.86
+            },
+            {
+                "name": "Harley",
+                "diff": 6,
+                "percentage": 57.5
             },
             {
                 "name": "Grock",
@@ -21318,9 +21318,9 @@
                 "percentage": 57.14
             },
             {
-                "name": "Harley",
+                "name": "Balmond",
                 "diff": 6,
-                "percentage": 57.5
+                "percentage": 54.41
             },
             {
                 "name": "Lolita",
