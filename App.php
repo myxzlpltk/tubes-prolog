@@ -9,18 +9,13 @@ class App{
 
         $this->heroes = new ArrayObject();
         foreach($data as $item){
-            $strongs = new ArrayObject();
-            foreach($item->strongs as $enemy){
-                $strongs->append(new Enemy($enemy->name, $enemy->score, $enemy->percentage));
-            }
-
-            $weaks = new ArrayObject();
-            foreach($item->weaks as $enemy){
-                $weaks->append(new Enemy($enemy->name, $enemy->score, $enemy->percentage));
+            $enemies = new ArrayObject();
+            foreach($item->enemies as $enemy){
+                $enemies->append(new Enemy($enemy->name, $enemy->diff, $enemy->percentage));
             }
 
             $this->heroes->append(
-                new Hero($item->name, $item->role, $item->image, $strongs, $weaks, (array)$item->stats)
+                new Hero($item->name, $item->role, $item->image, $enemies, (array)$item->stats)
             );
         }
 

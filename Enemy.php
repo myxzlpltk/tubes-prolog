@@ -3,12 +3,12 @@
 class Enemy{
 
     private $name;
-    private $score;
+    private $diff;
     private $percentage;
 
-    public function __construct($name, $score, $percentage){
+    public function __construct($name, $diff, $percentage){
         $this->name = $name;
-        $this->score = $score;
+        $this->diff = $diff;
         $this->percentage = $percentage;
     }
 
@@ -20,12 +20,12 @@ class Enemy{
         $this->name = $name;
     }
 
-    public function getScore(){
-        return $this->score;
+    public function getDiff(){
+        return $this->diff;
     }
 
-    public function setScore($score): void{
-        $this->score = $score;
+    public function setDiff($diff): void{
+        $this->diff = $diff;
     }
 
     public function getPercentage(){
