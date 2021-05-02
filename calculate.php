@@ -12,8 +12,13 @@ if(!$app->validateInput($enemies)){
 
 // TODO calculate using prolog
 $args = implode(" ", array_map(fn($x) => "\"{$x}\"", $enemies));
-$console = exec("python main.py {$args}");
-$result = json_decode($console, true);
+$out = array();
+exec("swipl main.pl {$args}", $out);
+$result = array();
+foreach($out as $line){
+	$x = explode(';', $line);
+	$result[$x[0]] = floatval($x[1]);
+}
 $heroes = array_keys($result);
 $myHeroes = array_filter((array)$app->heroes, function (Hero $hero) use ($heroes){
     return in_array($hero->getName(), $heroes);
@@ -22,6 +27,7 @@ $myHeroes = array_filter((array)$app->heroes, function (Hero $hero) use ($heroes
 $temp = $result;
 ksort($temp);
 array_multisort(array_values($temp), SORT_DESC, $myHeroes);
+array_splice($myHeroes, 5);
 
 $maxStats = $app->maxStats();
 
