@@ -23,6 +23,8 @@ $temp = $result;
 ksort($temp);
 array_multisort(array_values($temp), SORT_DESC, $myHeroes);
 
+$maxStats = $app->maxStats();
+
 ?>
 <!doctype html>
 <html lang="id">
@@ -54,16 +56,14 @@ array_multisort(array_values($temp), SORT_DESC, $myHeroes);
 											<h5 class="card-title mb-0"><?= e($hero->getName()) ?><br></h5>
 											<span class="small text-muted"><?= e($hero->getRole()) ?></span>
 										</div>
-										<span class="badge bg-success">Rate <?= e(round($result[$hero->getName()], 2)) ?>%</span>
+										<span class="badge bg-success">Confidence <?= e(round($result[$hero->getName()], 2)) ?>%</span>
 									</div>
 									<div class="row gx-1">
                                         <?php foreach($hero->getStats() as $key => $value): ?>
-											<div class="col-3">
-												<div class="card mb-1" title="<?= e($key) ?>">
-													<div class="card-body p-1 text-center">
-														<p class="mb-0 text-truncate fw-bold" style="font-size: 0.5em"><?= e($key) ?></p>
-														<p class="mb-0" style="font-size: 0.75em;"><?= e($value) ?></p>
-													</div>
+											<div class="col-6">
+												<small style="font-size: 0.75em"><?= e($key) ?></small>
+												<div class="progress" style="height: 0.25rem;">
+													<div class="progress-bar" role="progressbar" style="width: <?= $value/max($maxStats[$key], 1)*100 ?>%;"></div>
 												</div>
 											</div>
                                         <?php endforeach ?>

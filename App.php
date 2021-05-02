@@ -32,8 +32,8 @@ class App{
 
     public function maxStats(){
         $stats = array_map(fn($hero) => $hero->getStats(), (array)$this->heroes);
-        $keys = ["Movement Speed", "Physical Attack", "Magic Power", "Armor", "Magic Resistance", "Hp", "Mana", "Attack Speed", "Hp Regen", "Mana Regen", "Basic Attk Crit Rate", "Ability Crit"];
-        return array_combine($keys, array_map(fn($x) => array_sum(array_column($stats, $x)), $keys));
+        $keys = ["Movement Speed", "Physical Attack", "Magic Power", "Armor", "Magic Resistance", "Hp", "Mana", "Attack Speed", "Hp Regen", "Mana Regen", "Basic Attk Crit Rate", "Ability Crit Rate"];
+        return array_combine($keys, array_map(fn($x) => max(array_column($stats, $x) ?: [1]), $keys));
     }
 
 }
