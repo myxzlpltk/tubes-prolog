@@ -1,67 +1,4 @@
 hero("Akai").
-hero("Aldous").
-hero("Alice").
-hero("Alpha").
-hero("Alucard").
-hero("Angela").
-hero("Argus").
-hero("Aurora").
-hero("Balmond").
-hero("Bane").
-hero("Bruno").
-hero("Chang'E").
-hero("Chou").
-hero("Clint").
-hero("Cyclops").
-hero("Diggie").
-hero("Estes").
-hero("Eudora").
-hero("Fanny").
-hero("Franco").
-hero("Freya").
-hero("Gatotkaca").
-hero("Gord").
-hero("Grock").
-hero("Gusion").
-hero("Hanabi").
-hero("Harley").
-hero("Hayabusa").
-hero("Helcurt").
-hero("Hilda").
-hero("Hylos").
-hero("Irithel").
-hero("Jawhead").
-hero("Johnson").
-hero("Kagura").
-hero("Kaja").
-hero("Karina").
-hero("Karrie").
-hero("Lancelot").
-hero("Lapu-Lapu").
-hero("Layla").
-hero("Lesley").
-hero("Lolita").
-hero("Martis").
-hero("Minotaur").
-hero("Miya").
-hero("Moskov").
-hero("Nana").
-hero("Natalia").
-hero("Odette").
-hero("Pharsa").
-hero("Rafaela").
-hero("Roger").
-hero("Ruby").
-hero("Saber").
-hero("Selena").
-hero("Sun").
-hero("Tigreal").
-hero("Uranus").
-hero("Valir").
-hero("Vexana").
-hero("Yi Sun-Shin").
-hero("Zhask").
-hero("Zilong").
 win("Akai", "Fanny", 712, 96.23).
 win("Akai", "Zhask", 237, 93.41).
 win("Akai", "Odette", 209, 97.72).
@@ -125,11 +62,12 @@ win("Akai", "Chou", -82, 23.38).
 win("Akai", "Karrie", -88, 26.6).
 win("Akai", "Nana", -119, 20.1).
 win("Akai", "Diggie", -264, 16.67).
-win("Aldous", "Layla", 745, 79.97).
-win("Aldous", "Estes", 327, 77.11).
-win("Aldous", "Gord", 317, 84.09).
-win("Aldous", "Karrie", 272, 71.86).
-win("Aldous", "Angela", 268, 75.57).
+hero("Aldous").
+win("Aldous", "Layla", 746, 79.98).
+win("Aldous", "Estes", 328, 77.15).
+win("Aldous", "Gord", 318, 84.12).
+win("Aldous", "Karrie", 273, 71.91).
+win("Aldous", "Angela", 269, 75.62).
 win("Aldous", "Lesley", 165, 72.73).
 win("Aldous", "Pharsa", 111, 85.35).
 win("Aldous", "Natalia", 89, 67.32).
@@ -147,9 +85,9 @@ win("Aldous", "Helcurt", 59, 71.85).
 win("Aldous", "Bruno", 58, 74.58).
 win("Aldous", "Eudora", 57, 72.8).
 win("Aldous", "Saber", 54, 74.11).
-win("Aldous", "Kagura", 51, 70.4).
+win("Aldous", "Kagura", 50, 69.84).
 win("Aldous", "Chang'E", 49, 71.68).
-win("Aldous", "Cyclops", 48, 73.08).
+win("Aldous", "Cyclops", 47, 72.38).
 win("Aldous", "Clint", 42, 66.94).
 win("Aldous", "Odette", 41, 70.71).
 win("Aldous", "Valir", 37, 65.81).
@@ -183,11 +121,12 @@ win("Aldous", "Uranus", -44, 34.51).
 win("Aldous", "Franco", -62, 30.38).
 win("Aldous", "Johnson", -70, 37.04).
 win("Aldous", "Hanabi", -78, 44.57).
-win("Aldous", "Ruby", -88, 29.44).
-win("Aldous", "Gatotkaca", -236, 28.15).
-win("Aldous", "Akai", -267, 25.77).
-win("Aldous", "Argus", -392, 26.1).
-win("Aldous", "Chou", -1012, 18.3).
+win("Aldous", "Ruby", -87, 29.77).
+win("Aldous", "Gatotkaca", -235, 28.28).
+win("Aldous", "Akai", -268, 25.72).
+win("Aldous", "Argus", -393, 26.07).
+win("Aldous", "Chou", -1013, 18.28).
+hero("Alice").
 win("Alice", "Aurora", 189, 72.66).
 win("Alice", "Alucard", 127, 75.1).
 win("Alice", "Sun", 113, 78.68).
@@ -251,6 +190,7 @@ win("Alice", "Selena", -63, 26.67).
 win("Alice", "Akai", -76, 25.64).
 win("Alice", "Fanny", -136, 8.54).
 win("Alice", "Lapu-Lapu", -260, 16.32).
+hero("Alpha").
 win("Alpha", "Valir", 87, 70.05).
 win("Alpha", "Layla", 68, 83.33).
 win("Alpha", "Pharsa", 65, 79.28).
@@ -314,6 +254,7 @@ win("Alpha", "Diggie", -50, 25.49).
 win("Alpha", "Harley", -50, 28.45).
 win("Alpha", "Kagura", -56, 23.08).
 win("Alpha", "Fanny", -108, 21.58).
+hero("Alucard").
 win("Alucard", "Lesley", 507, 97.56).
 win("Alucard", "Angela", 327, 81.75).
 win("Alucard", "Gusion", 151, 71.15).
@@ -377,6 +318,7 @@ win("Alucard", "Johnson", -85, 36.16).
 win("Alucard", "Sun", -100, 36.63).
 win("Alucard", "Freya", -157, 30.62).
 win("Alucard", "Chou", -452, 19.62).
+hero("Angela").
 win("Angela", "Alucard", 81, 64.94).
 win("Angela", "Akai", 52, 71.31).
 win("Angela", "Aldous", 36, 73.08).
@@ -440,6 +382,7 @@ win("Angela", "Kagura", -22, 31.67).
 win("Angela", "Kaja", -30, 27.27).
 win("Angela", "Martis", -45, 31.4).
 win("Angela", "Natalia", -61, 23.48).
+hero("Argus").
 win("Argus", "Ruby", 207, 78.36).
 win("Argus", "Natalia", 111, 76.06).
 win("Argus", "Miya", 97, 76.22).
@@ -503,6 +446,7 @@ win("Argus", "Vexana", -29, 42.71).
 win("Argus", "Jawhead", -45, 37.7).
 win("Argus", "Chou", -66, 34.13).
 win("Argus", "Akai", -155, 26.87).
+hero("Aurora").
 win("Aurora", "Hayabusa", 136, 85.42).
 win("Aurora", "Fanny", 80, 78.99).
 win("Aurora", "Freya", 41, 78.08).
@@ -566,10 +510,11 @@ win("Aurora", "Natalia", -29, 30.67).
 win("Aurora", "Helcurt", -29, 24.56).
 win("Aurora", "Nana", -39, 14.55).
 win("Aurora", "Diggie", -76, 14.15).
+hero("Balmond").
 win("Balmond", "Layla", 64, 70.25).
 win("Balmond", "Estes", 30, 72.06).
 win("Balmond", "Gord", 28, 76.92).
-win("Balmond", "Clint", 27, 72.88).
+win("Balmond", "Clint", 26, 71.67).
 win("Balmond", "Hanabi", 25, 67.61).
 win("Balmond", "Pharsa", 17, 69.77).
 win("Balmond", "Rafaela", 9, 60.47).
@@ -629,6 +574,7 @@ win("Balmond", "Aurora", -25, 33.33).
 win("Balmond", "Lancelot", -30, 24.14).
 win("Balmond", "Ruby", -43, 24.1).
 win("Balmond", "Valir", -78, 21.74).
+hero("Bane").
 win("Bane", "Natalia", 55, 83.13).
 win("Bane", "Cyclops", 22, 72.92).
 win("Bane", "Zilong", 18, 70.45).
@@ -692,6 +638,7 @@ win("Bane", "Clint", -14, 28.13).
 win("Bane", "Johnson", -14, 15).
 win("Bane", "Argus", -27, 17.07).
 win("Bane", "Chou", -42, 19.12).
+hero("Bruno").
 win("Bruno", "Zhask", 170, 74.43).
 win("Bruno", "Layla", 117, 92.7).
 win("Bruno", "Yi Sun-Shin", 67, 72.79).
@@ -755,6 +702,7 @@ win("Bruno", "Johnson", -78, 26.22).
 win("Bruno", "Lesley", -90, 31.56).
 win("Bruno", "Karrie", -116, 23.15).
 win("Bruno", "Lolita", -161, 17.93).
+hero("Chang'E").
 win("Chang'E", "Alice", 199, 74.09).
 win("Chang'E", "Angela", 96, 71.05).
 win("Chang'E", "Aldous", 70, 62.07).
@@ -818,6 +766,7 @@ win("Chang'E", "Alpha", -22, 44.09).
 win("Chang'E", "Alucard", -50, 39.5).
 win("Chang'E", "Selena", -136, 21.67).
 win("Chang'E", "Kaja", -264, 16.67).
+hero("Chou").
 win("Chou", "Fanny", 494, 79.06).
 win("Chou", "Angela", 287, 70.24).
 win("Chou", "Layla", 261, 74.39).
@@ -880,7 +829,8 @@ win("Chou", "Jawhead", -190, 32.97).
 win("Chou", "Diggie", -191, 34.27).
 win("Chou", "Sun", -297, 25.93).
 win("Chou", "Martis", -319, 25.12).
-win("Chou", "Helcurt", -747, 20.61).
+win("Chou", "Helcurt", -748, 20.6).
+hero("Clint").
 win("Clint", "Moskov", 188, 95.63).
 win("Clint", "Miya", 54, 78.13).
 win("Clint", "Karrie", 50, 81.25).
@@ -944,6 +894,7 @@ win("Clint", "Kagura", -37, 20.63).
 win("Clint", "Grock", -42, 23.08).
 win("Clint", "Lancelot", -55, 13.33).
 win("Clint", "Aldous", -90, 9.09).
+hero("Cyclops").
 win("Cyclops", "Balmond", 75, 80.49).
 win("Cyclops", "Bane", 40, 82.26).
 win("Cyclops", "Tigreal", 40, 77.03).
@@ -1007,6 +958,7 @@ win("Cyclops", "Kagura", -43, 28.71).
 win("Cyclops", "Helcurt", -49, 20.48).
 win("Cyclops", "Lancelot", -60, 24.58).
 win("Cyclops", "Lolita", -86, 21.71).
+hero("Diggie").
 win("Diggie", "Akai", 121, 80.1).
 win("Diggie", "Johnson", 92, 88.33).
 win("Diggie", "Ruby", 70, 80.7).
@@ -1070,6 +1022,7 @@ win("Diggie", "Karina", -21, 28.57).
 win("Diggie", "Zhask", -35, 23.08).
 win("Diggie", "Lesley", -59, 20.79).
 win("Diggie", "Lancelot", -112, 16.67).
+hero("Estes").
 win("Estes", "Rafaela", 5, 52.48).
 win("Estes", "Harley", 2, 55).
 win("Estes", "Lapu-Lapu", 1, 51.52).
@@ -1133,6 +1086,7 @@ win("Estes", "Akai", -31, 19.61).
 win("Estes", "Natalia", -33, 23.81).
 win("Estes", "Ruby", -37, 24.66).
 win("Estes", "Saber", -53, 19.54).
+hero("Eudora").
 win("Eudora", "Odette", 122, 81.44).
 win("Eudora", "Angela", 58, 79.59).
 win("Eudora", "Cyclops", 52, 84.21).
@@ -1196,6 +1150,7 @@ win("Eudora", "Argus", -33, 20).
 win("Eudora", "Chou", -35, 24.64).
 win("Eudora", "Natalia", -40, 30.39).
 win("Eudora", "Lancelot", -88, 19.86).
+hero("Fanny").
 win("Fanny", "Estes", 346, 75.67).
 win("Fanny", "Yi Sun-Shin", 190, 75.82).
 win("Fanny", "Karrie", 177, 72.75).
@@ -1259,6 +1214,7 @@ win("Fanny", "Ruby", -359, 18.45).
 win("Fanny", "Saber", -400, 20.41).
 win("Fanny", "Chou", -579, 13.49).
 win("Fanny", "Helcurt", -815, 15.61).
+hero("Franco").
 win("Franco", "Cyclops", 64, 71.62).
 win("Franco", "Natalia", 61, 82.11).
 win("Franco", "Gord", 47, 79.01).
@@ -1322,7 +1278,8 @@ win("Franco", "Uranus", -27, 11.43).
 win("Franco", "Jawhead", -37, 25.97).
 win("Franco", "Lolita", -49, 21.84).
 win("Franco", "Johnson", -83, 20.14).
-win("Freya", "Roger", 260, 77.08).
+hero("Freya").
+win("Freya", "Roger", 259, 76.92).
 win("Freya", "Alucard", 147, 77.95).
 win("Freya", "Layla", 128, 78.83).
 win("Freya", "Alpha", 80, 74.1).
@@ -1385,10 +1342,11 @@ win("Freya", "Selena", -35, 38.99).
 win("Freya", "Aurora", -45, 37.57).
 win("Freya", "Kagura", -65, 33.67).
 win("Freya", "Hayabusa", -234, 24.45).
-win("Gatotkaca", "Lesley", 299, 84.37).
-win("Gatotkaca", "Clint", 95, 82.76).
-win("Gatotkaca", "Roger", 73, 75.52).
-win("Gatotkaca", "Alucard", 69, 78.99).
+hero("Gatotkaca").
+win("Gatotkaca", "Lesley", 298, 84.17).
+win("Gatotkaca", "Clint", 94, 82.19).
+win("Gatotkaca", "Roger", 74, 75.69).
+win("Gatotkaca", "Alucard", 71, 79.34).
 win("Gatotkaca", "Gord", 61, 73.28).
 win("Gatotkaca", "Layla", 52, 83.33).
 win("Gatotkaca", "Irithel", 32, 84.78).
@@ -1448,6 +1406,7 @@ win("Gatotkaca", "Angela", -39, 30.69).
 win("Gatotkaca", "Zhask", -39, 25.32).
 win("Gatotkaca", "Karrie", -88, 22.5).
 win("Gatotkaca", "Vexana", -102, 26.39).
+hero("Gord").
 win("Gord", "Lesley", 104, 80.95).
 win("Gord", "Layla", 80, 85.71).
 win("Gord", "Pharsa", 60, 81.91).
@@ -1511,6 +1470,7 @@ win("Gord", "Lancelot", -37, 26.58).
 win("Gord", "Fanny", -51, 19.28).
 win("Gord", "Hayabusa", -70, 11.96).
 win("Gord", "Saber", -79, 18.4).
+hero("Grock").
 win("Grock", "Karina", 182, 82.97).
 win("Grock", "Cyclops", 55, 80.22).
 win("Grock", "Sun", 43, 83.08).
@@ -1574,8 +1534,9 @@ win("Grock", "Kaja", -9, 38.46).
 win("Grock", "Angela", -31, 28.77).
 win("Grock", "Hylos", -90, 21.88).
 win("Grock", "Karrie", -253, 10.84).
+hero("Gusion").
 win("Gusion", "Layla", 520, 80.3).
-win("Gusion", "Gord", 378, 87.95).
+win("Gusion", "Gord", 379, 87.98).
 win("Gusion", "Pharsa", 281, 85.39).
 win("Gusion", "Rafaela", 276, 83.01).
 win("Gusion", "Lesley", 211, 72.79).
@@ -1585,7 +1546,7 @@ win("Gusion", "Estes", 121, 89.03).
 win("Gusion", "Karrie", 109, 77.39).
 win("Gusion", "Bruno", 102, 65.74).
 win("Gusion", "Clint", 102, 84).
-win("Gusion", "Bane", 100, 80.86).
+win("Gusion", "Bane", 101, 80.98).
 win("Gusion", "Irithel", 73, 83.49).
 win("Gusion", "Yi Sun-Shin", 68, 84.69).
 win("Gusion", "Cyclops", 67, 75.19).
@@ -1637,6 +1598,7 @@ win("Gusion", "Lolita", -208, 21.89).
 win("Gusion", "Ruby", -277, 20.72).
 win("Gusion", "Jawhead", -334, 23.06).
 win("Gusion", "Chou", -653, 13.76).
+hero("Hanabi").
 win("Hanabi", "Akai", 167, 70.82).
 win("Hanabi", "Angela", 110, 78.95).
 win("Hanabi", "Aurora", 84, 70.79).
@@ -1700,6 +1662,7 @@ win("Hanabi", "Helcurt", -100, 25.25).
 win("Hanabi", "Hayabusa", -107, 24.4).
 win("Hanabi", "Fanny", -122, 25.6).
 win("Hanabi", "Natalia", -139, 19.91).
+hero("Harley").
 win("Harley", "Lesley", 279, 85.86).
 win("Harley", "Pharsa", 133, 81.82).
 win("Harley", "Layla", 122, 83.89).
@@ -1762,7 +1725,8 @@ win("Harley", "Kaja", -31, 26.15).
 win("Harley", "Hylos", -54, 32.91).
 win("Harley", "Eudora", -125, 17.62).
 win("Harley", "Saber", -138, 19.2).
-win("Harley", "Hayabusa", -256, 13.84).
+win("Harley", "Hayabusa", -257, 13.8).
+hero("Hayabusa").
 win("Hayabusa", "Gord", 307, 79.69).
 win("Hayabusa", "Hanabi", 204, 79.65).
 win("Hayabusa", "Odette", 175, 82.29).
@@ -1826,6 +1790,7 @@ win("Hayabusa", "Saber", -137, 33.96).
 win("Hayabusa", "Chou", -139, 24.73).
 win("Hayabusa", "Helcurt", -149, 32.22).
 win("Hayabusa", "Sun", -431, 16.69).
+hero("Helcurt").
 win("Helcurt", "Lancelot", 511, 77.38).
 win("Helcurt", "Fanny", 317, 77.37).
 win("Helcurt", "Gusion", 197, 74.94).
@@ -1889,6 +1854,7 @@ win("Helcurt", "Martis", -110, 30.63).
 win("Helcurt", "Argus", -165, 26.89).
 win("Helcurt", "Natalia", -259, 25.52).
 win("Helcurt", "Akai", -444, 18.82).
+hero("Hilda").
 win("Hilda", "Layla", 93, 77.19).
 win("Hilda", "Natalia", 56, 86.84).
 win("Hilda", "Alucard", 44, 67.74).
@@ -1900,22 +1866,22 @@ win("Hilda", "Eudora", 19, 88).
 win("Hilda", "Vexana", 19, 63.77).
 win("Hilda", "Bruno", 18, 78.13).
 win("Hilda", "Valir", 17, 72.97).
-win("Hilda", "Alpha", 17, 75.76).
+win("Hilda", "Alpha", 16, 73.53).
 win("Hilda", "Diggie", 14, 68.42).
-win("Hilda", "Angela", 13, 84.21).
 win("Hilda", "Hayabusa", 13, 88.24).
-win("Hilda", "Clint", 12, 77.27).
-win("Hilda", "Miya", 12, 71.43).
+win("Hilda", "Angela", 13, 84.21).
 win("Hilda", "Gord", 12, 75).
+win("Hilda", "Miya", 12, 71.43).
 win("Hilda", "Karina", 12, 73.08).
+win("Hilda", "Clint", 12, 77.27).
 win("Hilda", "Pharsa", 12, 77.27).
 win("Hilda", "Zilong", 11, 67.74).
-win("Hilda", "Moskov", 10, 72.73).
 win("Hilda", "Saber", 10, 77.78).
+win("Hilda", "Moskov", 10, 72.73).
 win("Hilda", "Yi Sun-Shin", 9, 76.47).
 win("Hilda", "Lesley", 9, 62.86).
-win("Hilda", "Lancelot", 8, 63.33).
 win("Hilda", "Freya", 8, 59.52).
+win("Hilda", "Lancelot", 8, 63.33).
 win("Hilda", "Helcurt", 7, 68.42).
 win("Hilda", "Selena", 7, 66.67).
 win("Hilda", "Johnson", 6, 75).
@@ -1952,6 +1918,7 @@ win("Hilda", "Karrie", -33, 34.29).
 win("Hilda", "Ruby", -47, 26.73).
 win("Hilda", "Uranus", -84, 19.12).
 win("Hilda", "Jawhead", -130, 18.45).
+hero("Hylos").
 win("Hylos", "Natalia", 184, 87.7).
 win("Hylos", "Layla", 70, 80.17).
 win("Hylos", "Alucard", 52, 76).
@@ -2015,6 +1982,7 @@ win("Hylos", "Angela", -60, 23.21).
 win("Hylos", "Valir", -65, 12.64).
 win("Hylos", "Karrie", -98, 19.75).
 win("Hylos", "Vexana", -110, 19.78).
+hero("Irithel").
 win("Irithel", "Clint", 167, 78.11).
 win("Irithel", "Hanabi", 74, 77.61).
 win("Irithel", "Jawhead", 69, 78.05).
@@ -2078,6 +2046,7 @@ win("Irithel", "Hayabusa", -56, 25).
 win("Irithel", "Selena", -58, 25.42).
 win("Irithel", "Lesley", -84, 29).
 win("Irithel", "Argus", -95, 24.87).
+hero("Jawhead").
 win("Jawhead", "Gusion", 254, 77.25).
 win("Jawhead", "Fanny", 149, 77.29).
 win("Jawhead", "Natalia", 114, 82.39).
@@ -2141,6 +2110,7 @@ win("Jawhead", "Sun", -61, 23.48).
 win("Jawhead", "Uranus", -64, 33.33).
 win("Jawhead", "Kaja", -67, 31.07).
 win("Jawhead", "Martis", -195, 26.62).
+hero("Johnson").
 win("Johnson", "Layla", 135, 84.62).
 win("Johnson", "Cyclops", 58, 76.36).
 win("Johnson", "Freya", 42, 71.43).
@@ -2204,12 +2174,13 @@ win("Johnson", "Zhask", -74, 19.67).
 win("Johnson", "Grock", -91, 14.17).
 win("Johnson", "Diggie", -104, 15.33).
 win("Johnson", "Kagura", -121, 18.97).
+hero("Kagura").
 win("Kagura", "Cyclops", 208, 86.88).
-win("Kagura", "Layla", 179, 87.14).
+win("Kagura", "Layla", 180, 87.19).
 win("Kagura", "Zhask", 178, 72.03).
-win("Kagura", "Clint", 149, 85.99).
-win("Kagura", "Gord", 138, 82.55).
-win("Kagura", "Karrie", 84, 71.65).
+win("Kagura", "Clint", 150, 86.06).
+win("Kagura", "Gord", 139, 82.63).
+win("Kagura", "Karrie", 85, 71.79).
 win("Kagura", "Miya", 82, 83.61).
 win("Kagura", "Pharsa", 70, 81.25).
 win("Kagura", "Odette", 63, 77.88).
@@ -2262,11 +2233,12 @@ win("Kagura", "Helcurt", -4, 48.04).
 win("Kagura", "Jawhead", -8, 44.29).
 win("Kagura", "Gusion", -35, 37.23).
 win("Kagura", "Lancelot", -52, 36.73).
-win("Kagura", "Ruby", -57, 38.91).
-win("Kagura", "Akai", -65, 33.5).
-win("Kagura", "Hayabusa", -139, 24.16).
-win("Kagura", "Harley", -143, 30.08).
-win("Kagura", "Fanny", -215, 21.33).
+win("Kagura", "Ruby", -56, 39.15).
+win("Kagura", "Akai", -66, 33.33).
+win("Kagura", "Hayabusa", -140, 24.07).
+win("Kagura", "Harley", -143, 30.19).
+win("Kagura", "Fanny", -216, 21.28).
+hero("Kaja").
 win("Kaja", "Aurora", 65, 74.81).
 win("Kaja", "Fanny", 59, 81.72).
 win("Kaja", "Yi Sun-Shin", 51, 84.93).
@@ -2330,18 +2302,19 @@ win("Kaja", "Hylos", -23, 23.26).
 win("Kaja", "Akai", -30, 28.57).
 win("Kaja", "Grock", -38, 25).
 win("Kaja", "Sun", -64, 15.96).
+hero("Karina").
 win("Karina", "Layla", 422, 86.51).
 win("Karina", "Eudora", 161, 78.65).
 win("Karina", "Lesley", 154, 83.19).
 win("Karina", "Estes", 126, 82.14).
 win("Karina", "Bruno", 111, 77.34).
-win("Karina", "Valir", 74, 68.5).
+win("Karina", "Valir", 73, 68.16).
 win("Karina", "Gord", 66, 87.5).
 win("Karina", "Pharsa", 64, 84.78).
 win("Karina", "Miya", 53, 76.77).
 win("Karina", "Moskov", 52, 81.71).
 win("Karina", "Irithel", 50, 78.41).
-win("Karina", "Clint", 49, 78.16).
+win("Karina", "Clint", 48, 77.27).
 win("Karina", "Rafaela", 39, 67.26).
 win("Karina", "Vexana", 39, 83.05).
 win("Karina", "Hanabi", 38, 75).
@@ -2393,6 +2366,7 @@ win("Karina", "Chou", -94, 22.02).
 win("Karina", "Freya", -97, 25.38).
 win("Karina", "Ruby", -124, 21.56).
 win("Karina", "Grock", -234, 20).
+hero("Karrie").
 win("Karrie", "Natalia", 270, 74.28).
 win("Karrie", "Martis", 186, 80.59).
 win("Karrie", "Hylos", 179, 78.06).
@@ -2456,6 +2430,7 @@ win("Karrie", "Zilong", -99, 33.33).
 win("Karrie", "Gusion", -109, 26.41).
 win("Karrie", "Lancelot", -119, 22.58).
 win("Karrie", "Lolita", -256, 21.93).
+hero("Lancelot").
 win("Lancelot", "Pharsa", 337, 82.34).
 win("Lancelot", "Layla", 194, 79.94).
 win("Lancelot", "Gord", 162, 79.56).
@@ -2519,6 +2494,7 @@ win("Lancelot", "Martis", -123, 25.3).
 win("Lancelot", "Akai", -146, 23.93).
 win("Lancelot", "Ruby", -177, 22.6).
 win("Lancelot", "Helcurt", -568, 5.06).
+hero("Lapu-Lapu").
 win("Lapu-Lapu", "Martis", 98, 70.25).
 win("Lapu-Lapu", "Angela", 66, 75.38).
 win("Lapu-Lapu", "Sun", 56, 74.56).
@@ -2582,6 +2558,7 @@ win("Lapu-Lapu", "Lancelot", -38, 33.04).
 win("Lapu-Lapu", "Gusion", -48, 35.19).
 win("Lapu-Lapu", "Gatotkaca", -59, 14.46).
 win("Lapu-Lapu", "Helcurt", -77, 26.09).
+hero("Layla").
 win("Layla", "Hanabi", 92, 73.96).
 win("Layla", "Bruno", 71, 69.19).
 win("Layla", "Nana", 54, 72.5).
@@ -2643,8 +2620,9 @@ win("Layla", "Sun", -36, 14).
 win("Layla", "Gusion", -97, 19.11).
 win("Layla", "Natalia", -105, 15.23).
 win("Layla", "Fanny", -107, 25.12).
-win("Layla", "Lancelot", -109, 17.75).
-win("Layla", "Saber", -128, 17.68).
+win("Layla", "Lancelot", -110, 17.65).
+win("Layla", "Saber", -129, 17.59).
+hero("Lesley").
 win("Lesley", "Layla", 276, 74.38).
 win("Lesley", "Rafaela", 159, 80.46).
 win("Lesley", "Balmond", 157, 79.18).
@@ -2708,6 +2686,7 @@ win("Lesley", "Hayabusa", -155, 22.42).
 win("Lesley", "Gusion", -225, 21.95).
 win("Lesley", "Yi Sun-Shin", -250, 18.75).
 win("Lesley", "Gatotkaca", -276, 19.74).
+hero("Lolita").
 win("Lolita", "Cyclops", 147, 94.55).
 win("Lolita", "Harley", 94, 91.23).
 win("Lolita", "Karrie", 79, 86.92).
@@ -2771,13 +2750,14 @@ win("Lolita", "Ruby", -33, 17.65).
 win("Lolita", "Kagura", -41, 8.16).
 win("Lolita", "Chou", -50, 14.29).
 win("Lolita", "Valir", -65, 17.82).
-win("Martis", "Gusion", 99, 80.37).
+hero("Martis").
+win("Martis", "Gusion", 100, 80.49).
 win("Martis", "Layla", 67, 73.1).
 win("Martis", "Odette", 60, 82.61).
 win("Martis", "Hanabi", 48, 66.9).
 win("Martis", "Rafaela", 47, 82.19).
 win("Martis", "Natalia", 36, 84.62).
-win("Martis", "Alpha", 24, 69.35).
+win("Martis", "Alpha", 25, 69.84).
 win("Martis", "Bruno", 22, 75).
 win("Martis", "Diggie", 21, 80).
 win("Martis", "Karrie", 20, 71.74).
@@ -2834,6 +2814,7 @@ win("Martis", "Chou", -21, 40.54).
 win("Martis", "Jawhead", -22, 34.72).
 win("Martis", "Nana", -37, 37.58).
 win("Martis", "Freya", -55, 27.64).
+hero("Minotaur").
 win("Minotaur", "Natalia", 61, 74.02).
 win("Minotaur", "Akai", 42, 71.43).
 win("Minotaur", "Johnson", 29, 71.01).
@@ -2897,6 +2878,7 @@ win("Minotaur", "Alice", -26, 27.59).
 win("Minotaur", "Gatotkaca", -52, 20.45).
 win("Minotaur", "Diggie", -83, 13.27).
 win("Minotaur", "Grock", -128, 12.35).
+hero("Miya").
 win("Miya", "Layla", 196, 70.68).
 win("Miya", "Yi Sun-Shin", 151, 86.83).
 win("Miya", "Nana", 64, 66.67).
@@ -2960,7 +2942,8 @@ win("Miya", "Gusion", -66, 25.37).
 win("Miya", "Ruby", -71, 32.51).
 win("Miya", "Lancelot", -100, 27.48).
 win("Miya", "Moskov", -138, 25.7).
-win("Moskov", "Fanny", 312, 78.36).
+hero("Moskov").
+win("Moskov", "Fanny", 311, 78.22).
 win("Moskov", "Aldous", 197, 78.39).
 win("Moskov", "Bruno", 113, 73.44).
 win("Moskov", "Layla", 101, 72.85).
@@ -3021,8 +3004,9 @@ win("Moskov", "Lancelot", -30, 31.71).
 win("Moskov", "Martis", -49, 28.7).
 win("Moskov", "Johnson", -86, 30.28).
 win("Moskov", "Jawhead", -95, 28.51).
-win("Moskov", "Hayabusa", -190, 21.04).
-win("Moskov", "Natalia", -211, 24.21).
+win("Moskov", "Hayabusa", -191, 20.97).
+win("Moskov", "Natalia", -212, 24.15).
+hero("Nana").
 win("Nana", "Gusion", 175, 79.07).
 win("Nana", "Lancelot", 83, 81.2).
 win("Nana", "Ruby", 64, 72.22).
@@ -3086,6 +3070,7 @@ win("Nana", "Kagura", -38, 33.04).
 win("Nana", "Lesley", -46, 31.75).
 win("Nana", "Diggie", -64, 24.6).
 win("Nana", "Johnson", -84, 24.39).
+hero("Natalia").
 win("Natalia", "Layla", 265, 81.77).
 win("Natalia", "Clint", 116, 77.36).
 win("Natalia", "Karrie", 112, 78.57).
@@ -3094,9 +3079,9 @@ win("Natalia", "Estes", 86, 83.08).
 win("Natalia", "Miya", 53, 74.31).
 win("Natalia", "Pharsa", 50, 83.78).
 win("Natalia", "Valir", 50, 69.84).
+win("Natalia", "Roger", 46, 69.49).
 win("Natalia", "Bruno", 46, 81.94).
 win("Natalia", "Vexana", 45, 73.68).
-win("Natalia", "Roger", 45, 69.23).
 win("Natalia", "Aurora", 44, 73.4).
 win("Natalia", "Lesley", 41, 70.71).
 win("Natalia", "Gord", 39, 74.07).
@@ -3149,6 +3134,7 @@ win("Natalia", "Ruby", -134, 18.98).
 win("Natalia", "Hylos", -155, 16.74).
 win("Natalia", "Rafaela", -256, 15.78).
 win("Natalia", "Saber", -292, 20.08).
+hero("Odette").
 win("Odette", "Miya", 90, 73.94).
 win("Odette", "Angela", 60, 83.33).
 win("Odette", "Layla", 49, 80.25).
@@ -3212,6 +3198,7 @@ win("Odette", "Aurora", -51, 21.98).
 win("Odette", "Helcurt", -57, 21.78).
 win("Odette", "Freya", -60, 20.59).
 win("Odette", "Kagura", -112, 16.27).
+hero("Pharsa").
 win("Pharsa", "Balmond", 82, 71.13).
 win("Pharsa", "Layla", 69, 76.34).
 win("Pharsa", "Miya", 63, 86.21).
@@ -3275,6 +3262,7 @@ win("Pharsa", "Chou", -52, 22.92).
 win("Pharsa", "Harley", -64, 21.93).
 win("Pharsa", "Johnson", -108, 23.79).
 win("Pharsa", "Natalia", -115, 20.21).
+hero("Rafaela").
 win("Rafaela", "Natalia", 117, 87.26).
 win("Rafaela", "Alucard", 24, 72.22).
 win("Rafaela", "Lolita", 20, 76.32).
@@ -3338,6 +3326,7 @@ win("Rafaela", "Lancelot", -27, 22.45).
 win("Rafaela", "Hayabusa", -28, 13.16).
 win("Rafaela", "Alice", -30, 23.21).
 win("Rafaela", "Helcurt", -37, 17.54).
+hero("Roger").
 win("Roger", "Zilong", 189, 67.93).
 win("Roger", "Saber", 119, 74.9).
 win("Roger", "Pharsa", 89, 73.3).
@@ -3401,6 +3390,7 @@ win("Roger", "Natalia", -91, 31.58).
 win("Roger", "Zhask", -113, 29.45).
 win("Roger", "Karina", -118, 10.67).
 win("Roger", "Freya", -391, 19.12).
+hero("Ruby").
 win("Ruby", "Fanny", 536, 93.65).
 win("Ruby", "Odette", 217, 83.8).
 win("Ruby", "Pharsa", 191, 85.5).
@@ -3464,7 +3454,8 @@ win("Ruby", "Akai", -70, 31.77).
 win("Ruby", "Johnson", -95, 30.45).
 win("Ruby", "Helcurt", -98, 32.12).
 win("Ruby", "Diggie", -194, 24.61).
-win("Saber", "Fanny", 163, 83.82).
+hero("Saber").
+win("Saber", "Fanny", 162, 83.47).
 win("Saber", "Vexana", 74, 83.04).
 win("Saber", "Hayabusa", 61, 74.02).
 win("Saber", "Layla", 60, 81.25).
@@ -3527,6 +3518,7 @@ win("Saber", "Tigreal", -40, 27.27).
 win("Saber", "Grock", -54, 14.47).
 win("Saber", "Johnson", -61, 14.94).
 win("Saber", "Lolita", -87, 16.28).
+hero("Selena").
 win("Selena", "Layla", 164, 76.11).
 win("Selena", "Chang'E", 119, 81.82).
 win("Selena", "Clint", 75, 90.32).
@@ -3590,6 +3582,7 @@ win("Selena", "Kagura", -65, 30.3).
 win("Selena", "Chou", -94, 18.24).
 win("Selena", "Hanabi", -135, 28.57).
 win("Selena", "Franco", -213, 8.88).
+hero("Sun").
 win("Sun", "Alucard", 536, 66.5).
 win("Sun", "Karrie", 212, 67.67).
 win("Sun", "Bane", 133, 65.43).
@@ -3653,6 +3646,7 @@ win("Sun", "Valir", -159, 31.81).
 win("Sun", "Irithel", -245, 27.27).
 win("Sun", "Argus", -457, 23.46).
 win("Sun", "Roger", -707, 27.67).
+hero("Tigreal").
 win("Tigreal", "Zilong", 109, 82.63).
 win("Tigreal", "Odette", 60, 80.61).
 win("Tigreal", "Aldous", 51, 80).
@@ -3711,11 +3705,12 @@ win("Tigreal", "Kagura", -8, 25).
 win("Tigreal", "Johnson", -8, 37.5).
 win("Tigreal", "Zhask", -9, 30.43).
 win("Tigreal", "Aurora", -11, 21.05).
-win("Tigreal", "Hylos", -11, 35.9).
+win("Tigreal", "Hylos", -12, 35).
 win("Tigreal", "Nana", -31, 30.86).
 win("Tigreal", "Diggie", -52, 17.5).
 win("Tigreal", "Akai", -54, 20.65).
 win("Tigreal", "Chou", -65, 22.22).
+hero("Uranus").
 win("Uranus", "Hanabi", 146, 75.52).
 win("Uranus", "Fanny", 63, 72.03).
 win("Uranus", "Harley", 52, 76.53).
@@ -3779,6 +3774,7 @@ win("Uranus", "Akai", -37, 30.93).
 win("Uranus", "Angela", -41, 34.59).
 win("Uranus", "Lancelot", -60, 37.5).
 win("Uranus", "Karrie", -238, 19.17).
+hero("Valir").
 win("Valir", "Selena", 127, 76.79).
 win("Valir", "Alucard", 90, 77.11).
 win("Valir", "Roger", 47, 72.38).
@@ -3842,6 +3838,7 @@ win("Valir", "Harley", -53, 24.76).
 win("Valir", "Natalia", -78, 18.55).
 win("Valir", "Lesley", -82, 23.38).
 win("Valir", "Kagura", -106, 23.5).
+hero("Vexana").
 win("Vexana", "Hylos", 80, 78.57).
 win("Vexana", "Miya", 56, 85).
 win("Vexana", "Lesley", 29, 73.77).
@@ -3905,6 +3902,7 @@ win("Vexana", "Fanny", -43, 21.33).
 win("Vexana", "Kagura", -46, 14.06).
 win("Vexana", "Karina", -46, 15.15).
 win("Vexana", "Harley", -78, 13.89).
+hero("Yi Sun-Shin").
 win("Yi Sun-Shin", "Valir", 53, 73.04).
 win("Yi Sun-Shin", "Layla", 30, 73.44).
 win("Yi Sun-Shin", "Moskov", 26, 66.67).
@@ -3968,6 +3966,7 @@ win("Yi Sun-Shin", "Argus", -32, 25).
 win("Yi Sun-Shin", "Fanny", -36, 25.68).
 win("Yi Sun-Shin", "Hayabusa", -51, 23.71).
 win("Yi Sun-Shin", "Kagura", -126, 6.85).
+hero("Zhask").
 win("Zhask", "Pharsa", 190, 75).
 win("Zhask", "Cyclops", 68, 74.29).
 win("Zhask", "Layla", 67, 76.38).
@@ -4031,6 +4030,7 @@ win("Zhask", "Akai", -72, 31.05).
 win("Zhask", "Natalia", -106, 25.46).
 win("Zhask", "Helcurt", -146, 16.51).
 win("Zhask", "Lancelot", -191, 23.1).
+hero("Zilong").
 win("Zilong", "Odette", 190, 76.99).
 win("Zilong", "Pharsa", 113, 80.21).
 win("Zilong", "Eudora", 85, 72.97).
@@ -4041,7 +4041,7 @@ win("Zilong", "Rafaela", 41, 81.54).
 win("Zilong", "Bruno", 41, 78.87).
 win("Zilong", "Lancelot", 40, 72.73).
 win("Zilong", "Miya", 39, 72.41).
-win("Zilong", "Irithel", 38, 83.93).
+win("Zilong", "Irithel", 37, 82.46).
 win("Zilong", "Zhask", 36, 63.43).
 win("Zilong", "Estes", 29, 79.59).
 win("Zilong", "Fanny", 24, 65).
@@ -4057,10 +4057,10 @@ win("Zilong", "Alice", 11, 59.65).
 win("Zilong", "Angela", 11, 62.22).
 win("Zilong", "Helcurt", 10, 59.62).
 win("Zilong", "Bane", 8, 58.7).
-win("Zilong", "Balmond", 7, 55.22).
 win("Zilong", "Saber", 7, 56.86).
-win("Zilong", "Grock", 6, 57.14).
 win("Zilong", "Harley", 6, 57.5).
+win("Zilong", "Grock", 6, 57.14).
+win("Zilong", "Balmond", 6, 54.41).
 win("Zilong", "Lolita", 5, 56.76).
 win("Zilong", "Karrie", 5, 55.81).
 win("Zilong", "Hilda", 5, 56.41).
